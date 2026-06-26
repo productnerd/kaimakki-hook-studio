@@ -20,9 +20,12 @@ export interface GenerateResult {
   hooks: GeneratedHook[];
 }
 
+export type Edge = "mild" | "bold" | "unhinged";
+
 export async function generateHooks(
   messages: { role: "user" | "assistant"; content: string }[],
-  count: number
+  count: number,
+  edge: Edge
 ): Promise<GenerateResult> {
   const res = await fetch(GENERATOR_URL, {
     method: "POST",
@@ -31,7 +34,7 @@ export async function generateHooks(
       apikey: SUPABASE_ANON_KEY,
       Authorization: `Bearer ${SUPABASE_ANON_KEY}`,
     },
-    body: JSON.stringify({ messages, count, brief: messages[0]?.content || "" }),
+    body: JSON.stringify({ messages, count, edge, brief: messages[0]?.content || "" }),
   });
   const data = await res.json().catch(() => ({}));
   if (!res.ok) {

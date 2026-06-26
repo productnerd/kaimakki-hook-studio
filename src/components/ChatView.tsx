@@ -1,9 +1,15 @@
 import { useEffect, useRef, useState } from "react";
-import { generateHooks } from "../lib/api";
+import { generateHooks, type Edge } from "../lib/api";
 import type { ChatMessage } from "../lib/types";
 import HookCard from "./HookCard";
 
 const STORAGE_KEY = "kaimakki-hook-chat";
+const EDGE_KEY = "kaimakki-hook-edge";
+const EDGES: { value: Edge; label: string }[] = [
+  { value: "mild", label: "Mild" },
+  { value: "bold", label: "Bold" },
+  { value: "unhinged", label: "Unhinged" },
+];
 const SUGGESTIONS = [
   "New gym in Limassol, want sign-ups for a free trial week. Audience: people who keep quitting gyms.",
   "DTC skincare brand launching a vitamin-C serum. Reels. Audience: women 25-40 skeptical of 'miracle' products.",
@@ -25,6 +31,9 @@ export default function ChatView() {
   });
   const [input, setInput] = useState("");
   const [count, setCount] = useState(8);
+  const [edge, setEdge] = useState<Edge>(
+    () => (localStorage.getItem(EDGE_KEY) as Edge) || "bold"
+  );
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const scrollRef = useRef<HTMLDivElement>(null);
@@ -32,6 +41,10 @@ export default function ChatView() {
   useEffect(() => {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(messages.slice(-30)));
   }, [messages]);
+
+  useEffect(() => {
+    localStorage.setItem(EDGE_KEY, edge);
+  }, [edge]);
 
   useEffect(() => {
     scrollRef.current?.scrollTo({ top: scrollRef.current.scrollHeight, behavior: "smooth" });
@@ -57,7 +70,7 @@ export default function ChatView() {
             }
           : { role: "user" as const, content: m.content }
       );
-      const res = await generateHooks(payload, count);
+      const res = await generateHooks(payload, count, edge);
       setMessages((cur) => [
         ...cur,
         { id: uid(), role: "assistant", content: res.reply, hooks: res.hooks },
@@ -163,21 +176,49 @@ export default function ChatView() {
               Generate
             </button>
           </div>
-          <div className="mt-2 flex items-center justify-between px-1">
-            <label className="flex items-center gap-2 text-xs text-cream-61">
-              Hooks per brief
-              <select
-                value={count}
-                onChange={(e) => setCount(Number(e.target.value))}
-                className="rounded-lg border border-border bg-surface px-2 py-1 text-cream outline-none"
-              >
-                {[5, 8, 10, 12, 15].map((n) => (
-                  <option key={n} value={n}>
-                    {n}
-                  </option>
-                ))}
-              </select>
-            </label>
+          <div className="mt-2 flex flex-wrap items-center justify-between gap-y-2 px-1">
+            <div className="flex flex-wrap items-center gap-4">
+              <label className="flex items-center gap-2 text-xs text-cream-61">
+                Hooks
+                <select
+                  value={count}
+                  onChange={(e) => setCount(Number(e.target.value))}
+                  className="rounded-lg border border-border bg-surface px-2 py-1 text-cream outline-none"
+                >
+                  {[5, 8, 10, 12, 15].map((n) => (
+                    <option key={n} value={n}>
+                      {n}
+                    </option>
+                  ))}
+                </select>
+              </label>
+
+              <div className="flex items-center gap-2 text-xs text-cream-61">
+                Edge
+                <div className="flex items-center gap-0.5 rounded-full border border-border bg-surface p-0.5">
+                  {EDGES.map((e) => (
+                    <button
+                      key={e.value}
+                      onClick={() => setEdge(e.value)}
+                      title={
+                        e.value === "mild"
+                          ? "Safe and likeable — for conservative clients"
+                          : e.value === "bold"
+                          ? "Opinionated, contrarian, scroll-stopping (default)"
+                          : "Provocative, counterculture, says the quiet part"
+                      }
+                      className={`rounded-full px-2.5 py-1 transition-colors ${
+                        edge === e.value
+                          ? "bg-lime font-semibold text-brown"
+                          : "text-cream-61 hover:text-cream"
+                      }`}
+                    >
+                      {e.label}
+                    </button>
+                  ))}
+                </div>
+              </div>
+            </div>
             {messages.length > 0 && (
               <button
                 onClick={() => {
