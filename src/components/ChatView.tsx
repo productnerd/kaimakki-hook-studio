@@ -47,7 +47,16 @@ export default function ChatView() {
     setInput("");
     setLoading(true);
     try {
-      const payload = next.map((m) => ({ role: m.role, content: m.content }));
+      // Assistant turns are sent back as their JSON payload (reply + hooks) so a
+      // refinement can see prior hooks and the model keeps the JSON pattern.
+      const payload = next.map((m) =>
+        m.role === "assistant"
+          ? {
+              role: "assistant" as const,
+              content: JSON.stringify({ reply: m.content, hooks: m.hooks ?? [] }),
+            }
+          : { role: "user" as const, content: m.content }
+      );
       const res = await generateHooks(payload, count);
       setMessages((cur) => [
         ...cur,
