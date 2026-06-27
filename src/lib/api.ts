@@ -2,17 +2,25 @@ import { GENERATOR_URL, SCRIPT_URL, SUPABASE_ANON_KEY, SUPABASE_URL } from "./co
 import type { GeneratedHook, HookFormat, ScriptOption } from "./types";
 
 export async function fetchFormats(): Promise<HookFormat[]> {
-  const res = await fetch(
-    `${SUPABASE_URL}/rest/v1/kaimakki_hook_formats?select=*&order=family.asc,name.asc`,
-    {
-      headers: {
-        apikey: SUPABASE_ANON_KEY,
-        Authorization: `Bearer ${SUPABASE_ANON_KEY}`,
-      },
-    }
-  );
-  if (!res.ok) throw new Error(`Failed to load formats (${res.status})`);
-  return res.json();
+  // PostgREST caps responses at 1000 rows, so page through with limit/offset.
+  const pageSize = 1000;
+  const all: HookFormat[] = [];
+  for (let offset = 0; ; offset += pageSize) {
+    const res = await fetch(
+      `${SUPABASE_URL}/rest/v1/kaimakki_hook_formats?select=*&order=family.asc,name.asc&limit=${pageSize}&offset=${offset}`,
+      {
+        headers: {
+          apikey: SUPABASE_ANON_KEY,
+          Authorization: `Bearer ${SUPABASE_ANON_KEY}`,
+        },
+      }
+    );
+    if (!res.ok) throw new Error(`Failed to load formats (${res.status})`);
+    const batch: HookFormat[] = await res.json();
+    all.push(...batch);
+    if (batch.length < pageSize) break;
+  }
+  return all;
 }
 
 export interface GenerateResult {
