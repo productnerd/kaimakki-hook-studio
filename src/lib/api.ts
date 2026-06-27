@@ -1,5 +1,5 @@
 import { GENERATOR_URL, SCRIPT_URL, SUPABASE_ANON_KEY, SUPABASE_URL } from "./config";
-import type { GeneratedHook, HookFormat, ScriptOption } from "./types";
+import type { GeneratedHook, HookFormat } from "./types";
 
 export async function fetchFormats(): Promise<HookFormat[]> {
   // PostgREST caps responses at 1000 rows, so page through with limit/offset.
@@ -55,7 +55,7 @@ export async function generateScripts(
   hook: string,
   brief: string,
   edge: Edge
-): Promise<ScriptOption[]> {
+): Promise<string[]> {
   const res = await fetch(SCRIPT_URL, {
     method: "POST",
     headers: {
@@ -67,5 +67,7 @@ export async function generateScripts(
   });
   const data = await res.json().catch(() => ({}));
   if (!res.ok) throw new Error(data?.error || `Script generation failed (${res.status})`);
-  return Array.isArray(data.scripts) ? data.scripts : [];
+  return Array.isArray(data.scripts)
+    ? data.scripts.filter((s: unknown): s is string => typeof s === "string")
+    : [];
 }
