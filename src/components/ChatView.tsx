@@ -83,6 +83,7 @@ export default function ChatView() {
   }
 
   const empty = messages.length === 0;
+  const brief = messages.find((m) => m.role === "user")?.content ?? "";
 
   return (
     <div className="flex h-full flex-col">
@@ -127,7 +128,7 @@ export default function ChatView() {
                     {m.hooks && m.hooks.length > 0 && (
                       <div className="grid gap-3">
                         {m.hooks.map((h, i) => (
-                          <HookCard key={i} hook={h} index={i} />
+                          <HookCard key={i} hook={h} index={i} brief={brief} edge={edge} />
                         ))}
                       </div>
                     )}

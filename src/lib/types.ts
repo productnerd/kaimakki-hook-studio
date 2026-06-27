@@ -24,6 +24,20 @@ export interface GeneratedHook {
   rationale: string;
 }
 
+export interface ScriptBeat {
+  time: string;
+  vo: string;
+  on_screen: string;
+  visual: string;
+}
+
+export interface ScriptOption {
+  label: string;
+  est_seconds: number;
+  beats: ScriptBeat[];
+  cta: string;
+}
+
 export interface ChatMessage {
   id: string;
   role: "user" | "assistant";
