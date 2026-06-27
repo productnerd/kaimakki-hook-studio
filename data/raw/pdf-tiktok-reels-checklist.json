@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Honest Ads Parody",
+    "family": "Pattern Interrupt",
+    "trigger": "Subverts polished ad with brutal honesty",
+    "template": "If [BRAND] ads were honest",
+    "why_it_works": "Promising the unfiltered truth about a recognizable brand instantly hooks anyone with an opinion on it.",
+    "examples": ["If Tesla ads were honest"],
+    "applied_examples": [],
+    "source": "Viral TikTok Reels Checklist"
+  },
+  {
+    "name": "Relatable Parenting Confession",
+    "family": "Relatability/POV",
+    "trigger": "Names a shared, slightly taboo daily struggle",
+    "template": "This is what we do every time [RELATABLE EVERYDAY STRUGGLE]",
+    "why_it_works": "A specific everyday moment a huge niche personally experiences pulls them in to see if it matches their own life.",
+    "examples": ["This is what we do every time our daughter poops"],
+    "applied_examples": [],
+    "source": "Viral TikTok Reels Checklist"
+  },
+  {
+    "name": "Celebrity Reaction Reveal",
+    "family": "Curiosity Gap",
+    "trigger": "Withholds what a famous person said",
+    "template": "When I woke up and saw what [CELEBRITY] commented on my video I couldn't believe it",
+    "why_it_works": "Dangling an unknown reaction from a celebrity creates an irresistible need to know what they said.",
+    "examples": ["When I woke up and saw what Ryan Reynolds commented on my video I couldn't believe it.."],
+    "applied_examples": [],
+    "source": "Viral TikTok Reels Checklist"
+  }
+]

@@ -1,0 +1,427 @@
+[
+  {
+    "name": "Controversial Take Opener",
+    "family": "Contrarian/Myth-Bust",
+    "trigger": "Flags a divisive opinion to spark debate",
+    "template": "This may be controversial but [OPINION]",
+    "why_it_works": "Promising a controversial take primes viewers to stay and judge for themselves.",
+    "examples": ["This may be controversial but ___"],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Everything You Knew Is Wrong",
+    "family": "Contrarian/Myth-Bust",
+    "trigger": "Claims accepted knowledge is false",
+    "template": "Everything you knew about [TOPIC] is 100% WRONG! [EXAMPLE]",
+    "why_it_works": "Challenging the viewer's existing beliefs creates dissonance they need resolved.",
+    "examples": ["Everything you knew about ___ is 100% WRONG! (+ a good example)"],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Bust The Niche Myth",
+    "family": "Contrarian/Myth-Bust",
+    "trigger": "Calls out a widely believed falsehood",
+    "template": "Don't believe this [NICHE] myth..",
+    "why_it_works": "Naming a myth promises to correct a misconception the viewer might hold.",
+    "examples": ["Don't believe this (insert niche) myth.."],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Targeted Stop Scrolling",
+    "family": "Callout/Targeting",
+    "trigger": "Names a specific audience to make them stop",
+    "template": "[TYPE OF PEOPLE].. stop scrolling!",
+    "why_it_works": "Directly addressing a group makes the right viewer feel personally called out.",
+    "examples": ["___ type of people.. stop scrolling!"],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "This Is For You",
+    "family": "Callout/Targeting",
+    "trigger": "Self-identification with a behavior or trait",
+    "template": "If you're like me and do [X], then this one is for you.",
+    "why_it_works": "Self-recognition makes the viewer feel the content was made just for them.",
+    "examples": [
+      "If you're like me and do X, then this one is for you.",
+      "This is for the (type of person) XX looking for (result)",
+      "If you have XX, listen up!"
+    ],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Exclusive Audience Filter",
+    "family": "Callout/Targeting",
+    "trigger": "Excludes most viewers to heighten relevance",
+    "template": "This video is only for [X] people, so keep scrolling if that's not you.",
+    "why_it_works": "Telling people to leave makes the intended audience lean in harder.",
+    "examples": ["This video is only for X people, so keep scrolling if that's not you."],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Listen Up If You Struggle",
+    "family": "Callout/Targeting",
+    "trigger": "Flags a struggle to grab affected viewers",
+    "template": "If you have trouble doing [X], you might want to listen up..",
+    "why_it_works": "Calling out a specific pain point captures exactly the people who feel it.",
+    "examples": [
+      "If you have trouble doing XX, you might want to listen up..",
+      "Watch this if you hate feeling XX.."
+    ],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Perfect Product Found",
+    "family": "Bold Claim/Promise",
+    "trigger": "Promises a solution to a known problem",
+    "template": "I just found the perfect product that helps with [PROBLEM]",
+    "why_it_works": "Announcing a discovery taps the viewer's hope for an easy fix.",
+    "examples": ["I just found the perfect product that helps with ___"],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Simple Hack Promise",
+    "family": "How-To/Mechanism",
+    "trigger": "Offers an easy method for a desired outcome",
+    "template": "Here's a simple hack to help you do [TASK]",
+    "why_it_works": "Framing the tip as simple lowers the perceived effort of trying it.",
+    "examples": [
+      "Here's a simple hack to help you do ___",
+      "Life Hack: Try [product] for [pain point]..",
+      "This is the lazy way to get (insert result)..",
+      "This is the easiest tip you can follow to overcome XX.."
+    ],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Hack Saves You Money",
+    "family": "Bold Claim/Promise",
+    "trigger": "Quantifies savings from a niche trick",
+    "template": "This [NICHE] hack could save you [AMOUNT] amount of money",
+    "why_it_works": "A concrete money-saving promise gives an immediate reason to keep watching.",
+    "examples": ["This (insert niche) hack could save you XX amount of money"],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Buy This Instead",
+    "family": "Comparison",
+    "trigger": "Swaps a popular product for a better pick",
+    "template": "Instead of buying this [POPULAR PRODUCT] I have another recommendation..",
+    "why_it_works": "Positioning against a known product makes your alternative instantly understood.",
+    "examples": [
+      "Instead of buying this (hold up popular product) I have another recommendation..",
+      "The perfect (insert program) doesn't exist.. but this is a close second.."
+    ],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Stop Doing This",
+    "family": "Negativity/Warning",
+    "trigger": "Warns viewers off a common mistake",
+    "template": "If you are into [NICHE] you need to stop doing this..",
+    "why_it_works": "A warning that you're doing something wrong creates urgency to learn what.",
+    "examples": [
+      "If you are into (insert niche) you need to stop doing this..",
+      "This is why your ___ isnt working..",
+      "Don't make this mistake when doing ___"
+    ],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Red Flags To Watch",
+    "family": "Negativity/Warning",
+    "trigger": "Promises warning signs to avoid",
+    "template": "Red flags to look for in [NICHE]..",
+    "why_it_works": "Listing red flags appeals to the fear of being caught out or scammed.",
+    "examples": ["Red flags to look for in (insert niche).."],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Game Changer Warning",
+    "family": "Negativity/Warning",
+    "trigger": "Frames an announcement as a warning",
+    "template": "Warning to [NICHE]: this is a game changer.",
+    "why_it_works": "The word warning interrupts the scroll and signals high stakes.",
+    "examples": ["Warning to (insert niche): this is a game changer."],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Before You Do This Like Always",
+    "family": "Negativity/Warning",
+    "trigger": "Interrupts a routine before a mistake",
+    "template": "Before you do [X] like always.. check out [Y]",
+    "why_it_works": "Pausing an automatic habit makes viewers curious what they've been missing.",
+    "examples": ["Before you do XX like always.. check out XX"],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Reaction You Won't Believe",
+    "family": "Curiosity Gap",
+    "trigger": "Withholds someone's surprising reaction",
+    "template": "I couldn't believe [PERSON]'s reaction to [X]..",
+    "why_it_works": "An unseen reaction creates an information gap viewers stay to close.",
+    "examples": ["I couldn't believe (insert person)'s reaction to XX.."],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Can They Do It In Time",
+    "family": "Curiosity Gap",
+    "trigger": "Sets up a timed challenge with unknown outcome",
+    "template": "Let's see if [PERSON] can do [X] in [TIME]..",
+    "why_it_works": "A challenge with an uncertain result keeps viewers watching for the payoff.",
+    "examples": ["Let's see if (Insert person) can do XX in (amount of time).."],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "See Differently In 30 Seconds",
+    "family": "Curiosity Gap",
+    "trigger": "Promises a shift in perception soon",
+    "template": "You will look at [TOPIC] differently after the next 30 seconds.",
+    "why_it_works": "Promising a perspective change creates anticipation worth waiting for.",
+    "examples": ["You will look at ___ differently after the next 30 seconds."],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "The Only Thing You Need To Know",
+    "family": "Curiosity Gap",
+    "trigger": "Promises one essential piece of knowledge",
+    "template": "This is the only thing you need to know about [TOPIC]!",
+    "why_it_works": "Reducing a topic to one must-know point promises high value with low effort.",
+    "examples": ["This is the only thing you need to know about ___!"],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Something That Bothers Me",
+    "family": "Confession",
+    "trigger": "Shares a personal frustration",
+    "template": "Something that's always bothered me about [X]...",
+    "why_it_works": "A candid personal gripe feels authentic and invites viewers to agree.",
+    "examples": ["Something that's always bothered me about X..."],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "I Kept Getting This Problem",
+    "family": "Story/In-Medias-Res",
+    "trigger": "Opens mid-struggle then pivots to a fix",
+    "template": "I kept getting [PAIN POINT], so I tried this instead!",
+    "why_it_works": "Dropping into a relatable struggle pulls viewers into the story and its resolution.",
+    "examples": ["I kept getting [pain point], so I tried this instead!"],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "I Spent A Week Testing",
+    "family": "Story/In-Medias-Res",
+    "trigger": "Frames effort already invested for the viewer",
+    "template": "I spent an entire week trying [X].. here's what I discovered..",
+    "why_it_works": "Showing real time invested promises hard-won findings viewers want shared.",
+    "examples": ["I spent an entire week trying XX.. here's what I discovered.."],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Tested So You Don't Have To",
+    "family": "Social Proof",
+    "trigger": "Did the legwork on the viewer's behalf",
+    "template": "I tried the top [NICHE] products so you don't have to..",
+    "why_it_works": "Doing the testing for them saves viewers effort and earns their trust.",
+    "examples": [
+      "I tried the top (insert niche) products so you don't have to..",
+      "I tried every affordable XX brand out there and here are the results.."
+    ],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Thousands Of Reviews Test",
+    "family": "Social Proof",
+    "trigger": "Cites high review count to validate a test",
+    "template": "This [PRODUCT TYPE] has over [NUMBER] reviews... let's see if it's worth it",
+    "why_it_works": "A big review count signals popularity while the test promises an honest verdict.",
+    "examples": ["This [product type] has over 5,000 reviews… let's see if it's worth it"],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Why Conversions Jumped",
+    "family": "Social Proof",
+    "trigger": "Shares a real result from a purchase",
+    "template": "I bought this [SERVICE] for my business and now my conversions/sales are through the roof!",
+    "why_it_works": "A concrete success story proves the product works and stirs FOMO.",
+    "examples": ["I bought this (insert service) for my business and now my conversions/sales are through the roof!"],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "You Need This Product",
+    "family": "Bold Claim/Promise",
+    "trigger": "States the viewer must have something",
+    "template": "You need this [PRODUCT] if you want to save time and effort...",
+    "why_it_works": "A direct 'you need this' framing asserts value and triggers loss aversion.",
+    "examples": [
+      "You need this (insert product) if you want to save time and effort...",
+      "This free tool changed the game for me.."
+    ],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Things You're Not Doing",
+    "family": "Number/List",
+    "trigger": "Counts overlooked actions for improvement",
+    "template": "[NUMBER] things you're NOT doing to [GOAL]..",
+    "why_it_works": "A numbered list of gaps promises quick, scannable wins viewers are missing.",
+    "examples": [
+      "4 things you're NOT doing to improve XX..",
+      "3 things you're NOT doing to do XX.."
+    ],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Two Signs To Start Or Stop",
+    "family": "Number/List",
+    "trigger": "Lists signals prompting a behavior change",
+    "template": "Here are [NUMBER] signs that you should [start/stop] doing [X]",
+    "why_it_works": "Signs you should act tap self-diagnosis and an easy list format.",
+    "examples": [
+      "Here are 2 signs that you should stop doing XX",
+      "Here are 2 signs you should start doing XX"
+    ],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Must-Have Products List",
+    "family": "Number/List",
+    "trigger": "Numbered essentials for a problem",
+    "template": "[NUMBER] must-have products for people struggling with [PROBLEM]",
+    "why_it_works": "Pairing a count with a struggle promises curated, relevant solutions.",
+    "examples": ["6 must-have products for people struggling with (insert problem)"],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "One Thing For More Value",
+    "family": "How-To/Mechanism",
+    "trigger": "Single action drives an outsized result",
+    "template": "Get more [VALUE PROP] in your day by doing this one thing..",
+    "why_it_works": "Reducing the ask to one thing makes the benefit feel effortless to claim.",
+    "examples": ["Get more [value prop] in your day buy doing this one thing.."],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "How To Get Result Fast",
+    "family": "How-To/Mechanism",
+    "trigger": "Promises an outcome within a tight timeframe",
+    "template": "How to get [RESULT] in [TIME] or less",
+    "why_it_works": "Pairing a clear result with a fast timeframe maximizes perceived payoff.",
+    "examples": [
+      "How to get (insert result) in 5 minutes or less",
+      "How to impress everyone at the next (insert niche senario).."
+    ],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Why Nobody Talks About This",
+    "family": "Secret/Reveal",
+    "trigger": "Implies a hidden or ignored truth",
+    "template": "Why is nobody talking about [X] in the [INDUSTRY]?",
+    "why_it_works": "Framing info as overlooked makes viewers feel they're getting insider knowledge.",
+    "examples": [
+      "Why is nobody talking about XX in the XX industry?",
+      "Literally nobody is talking about XX in the (insert niche) world..",
+      "Why does no one talk about XX in (insert niche)??"
+    ],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "The Mistake Everyone Makes",
+    "family": "Negativity/Warning",
+    "trigger": "Names a universal error in the niche",
+    "template": "This is the mistake every [NICHE] business owner makes..",
+    "why_it_works": "Claiming everyone makes a mistake makes viewers anxious to check if they do too.",
+    "examples": ["This is the mistake every (insert niche) business owner makes.."],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Skeptical? Try This",
+    "family": "Question",
+    "trigger": "Addresses doubt and offers a test",
+    "template": "If you're feeling skeptical about [X].. try this..",
+    "why_it_works": "Acknowledging skepticism disarms doubters and invites them to give it a shot.",
+    "examples": [
+      "If you're feeling skeptical about XX.. try this..",
+      "Feeling overwhelmed with XX? Try this next time.."
+    ],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Cheaper Than You'd Think",
+    "family": "Curiosity Gap",
+    "trigger": "Reveals a surprisingly low price",
+    "template": "I can't believe this [HACK] only cost me [PRICE]..",
+    "why_it_works": "A shockingly low price creates disbelief that viewers stay to verify.",
+    "examples": [
+      "I can't believe this (insert hack) only cost me $10..",
+      "This is the best $20 you can spend as a (insert niche)..",
+      "This is the best $20 you can spend as a (insert niche).."
+    ],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "You Won't Believe This",
+    "family": "Curiosity Gap",
+    "trigger": "Teases something unbelievable",
+    "template": "You won't believe this thing called [NICHE STEREOTYPE]..",
+    "why_it_works": "Promising the unbelievable creates a gap viewers must resolve by watching.",
+    "examples": ["You won't believe this thing called \"insert niche stereotype\".."],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Biggest Regret Warning",
+    "family": "Confession",
+    "trigger": "Shares a regret to spare the viewer",
+    "template": "My biggest regret as an [PROFESSION] was not discovering this technique sooner - don't make the same mistake I did.",
+    "why_it_works": "A vulnerable regret framed as a warning makes the advice feel urgent and earned.",
+    "examples": ["My biggest regret as an (insert profession) was not discovering this technique sooner – don't make the same mistake I did."],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  },
+  {
+    "name": "Back In Stock Demand",
+    "family": "FOMO/Urgency",
+    "trigger": "Implies high demand and scarcity",
+    "template": "This is why people keep asking when our [PRODUCT] will be back in stock..",
+    "why_it_works": "Signaling that others want it and it's sold out triggers scarcity-driven desire.",
+    "examples": ["This is why people keep asking when our XX product will be back in stock.."],
+    "applied_examples": [],
+    "source": "50 Hook Examples"
+  }
+]

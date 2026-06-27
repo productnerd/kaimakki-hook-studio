@@ -319,7 +319,9 @@
       "I Read 100 Books on [TOPIC] So You Don't Have To",
       "I'm Trying This So You Don't Have To",
       "I Tested 50 [TOOLS] — Only One Survived",
-      "I Wasted 3 Years So You Won't"
+      "I Wasted 3 Years So You Won't",
+      "I tried the top (insert niche) products so you don't have to..",
+      "I tried every affordable XX brand out there and here are the results.."
     ],
     "applied_examples": [
       {
@@ -328,7 +330,8 @@
       }
     ],
     "sources": [
-      "https://fluxnote.io/blog/best-hooks-for-viral-short-form-video"
+      "https://fluxnote.io/blog/best-hooks-for-viral-short-form-video",
+      "50 Hook Examples"
     ]
   },
   {
@@ -458,6 +461,21 @@
     ]
   },
   {
+    "id": "change-your-mind-challenge",
+    "name": "Change Your Mind Challenge",
+    "family": "Bold Claim/Promise",
+    "trigger": "Promise to flip a belief on a timer",
+    "template": "I bet I can change your mind about [XX] in 20 seconds",
+    "why_it_works": "A confident promise plus a tight time frame dares the viewer to stay and test the claim.",
+    "examples": [
+      "I bet I can change your mind about XX in 20 seconds"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
+    ]
+  },
+  {
     "id": "give-me-x-and-ill",
     "name": "Give Me X and I'll",
     "family": "Bold Claim/Promise",
@@ -493,6 +511,36 @@
     "applied_examples": [],
     "sources": [
       "John Caples, Tested Advertising Methods (t4s.site)"
+    ]
+  },
+  {
+    "id": "hack-saves-you-money",
+    "name": "Hack Saves You Money",
+    "family": "Bold Claim/Promise",
+    "trigger": "Quantifies savings from a niche trick",
+    "template": "This [NICHE] hack could save you [AMOUNT] amount of money",
+    "why_it_works": "A concrete money-saving promise gives an immediate reason to keep watching.",
+    "examples": [
+      "This (insert niche) hack could save you XX amount of money"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
+    ]
+  },
+  {
+    "id": "how-i-made-this-much",
+    "name": "How I Made This Much",
+    "family": "Bold Claim/Promise",
+    "trigger": "Specific income figure plus method tease",
+    "template": "How I made '[$AMOUNT]' in one week doing [XXX]!",
+    "why_it_works": "A concrete, surprising number promises a payoff the viewer wants the method behind.",
+    "examples": [
+      "How I made '$3500' in one week doing XXX!"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
     ]
   },
   {
@@ -569,6 +617,21 @@
     "sources": [
       "vexub.com/blog/viral-short-form-video-hooks",
       "https://vexub.com/blog/viral-short-form-video-hooks"
+    ]
+  },
+  {
+    "id": "perfect-product-found",
+    "name": "Perfect Product Found",
+    "family": "Bold Claim/Promise",
+    "trigger": "Promises a solution to a known problem",
+    "template": "I just found the perfect product that helps with [PROBLEM]",
+    "why_it_works": "Announcing a discovery taps the viewer's hope for an easy fix.",
+    "examples": [
+      "I just found the perfect product that helps with ___"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
     ]
   },
   {
@@ -798,6 +861,22 @@
     ]
   },
   {
+    "id": "you-need-this-product",
+    "name": "You Need This Product",
+    "family": "Bold Claim/Promise",
+    "trigger": "States the viewer must have something",
+    "template": "You need this [PRODUCT] if you want to save time and effort...",
+    "why_it_works": "A direct 'you need this' framing asserts value and triggers loss aversion.",
+    "examples": [
+      "You need this (insert product) if you want to save time and effort...",
+      "This free tool changed the game for me.."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
+    ]
+  },
+  {
     "id": "attention-hail",
     "name": "Attention Hail",
     "family": "Callout/Targeting",
@@ -888,6 +967,21 @@
     ]
   },
   {
+    "id": "exclusive-audience-filter",
+    "name": "Exclusive Audience Filter",
+    "family": "Callout/Targeting",
+    "trigger": "Excludes most viewers to heighten relevance",
+    "template": "This video is only for [X] people, so keep scrolling if that's not you.",
+    "why_it_works": "Telling people to leave makes the intended audience lean in harder.",
+    "examples": [
+      "This video is only for X people, so keep scrolling if that's not you."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
+    ]
+  },
+  {
     "id": "if-you-x-you-need-this",
     "name": "If You X You Need This",
     "family": "Callout/Targeting",
@@ -910,6 +1004,22 @@
     ],
     "sources": [
       "https://fluxnote.io/blog/best-hooks-for-viral-short-form-video"
+    ]
+  },
+  {
+    "id": "listen-up-if-you-struggle",
+    "name": "Listen Up If You Struggle",
+    "family": "Callout/Targeting",
+    "trigger": "Flags a struggle to grab affected viewers",
+    "template": "If you have trouble doing [X], you might want to listen up..",
+    "why_it_works": "Calling out a specific pain point captures exactly the people who feel it.",
+    "examples": [
+      "If you have trouble doing XX, you might want to listen up..",
+      "Watch this if you hate feeling XX.."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
     ]
   },
   {
@@ -979,6 +1089,21 @@
     ]
   },
   {
+    "id": "targeted-stop-scrolling",
+    "name": "Targeted Stop Scrolling",
+    "family": "Callout/Targeting",
+    "trigger": "Names a specific audience to make them stop",
+    "template": "[TYPE OF PEOPLE].. stop scrolling!",
+    "why_it_works": "Directly addressing a group makes the right viewer feel personally called out.",
+    "examples": [
+      "___ type of people.. stop scrolling!"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
+    ]
+  },
+  {
     "id": "the-oddly-specific-callout",
     "name": "The Oddly Specific Callout",
     "family": "Callout/Targeting",
@@ -1029,6 +1154,23 @@
     ],
     "sources": [
       "https://moneylovesuccess.com/100-hook-templates-to-start-any-video-or-post-and-make-it-viral/"
+    ]
+  },
+  {
+    "id": "this-is-for-you",
+    "name": "This Is For You",
+    "family": "Callout/Targeting",
+    "trigger": "Self-identification with a behavior or trait",
+    "template": "If you're like me and do [X], then this one is for you.",
+    "why_it_works": "Self-recognition makes the viewer feel the content was made just for them.",
+    "examples": [
+      "If you're like me and do X, then this one is for you.",
+      "This is for the (type of person) XX looking for (result)",
+      "If you have XX, listen up!"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
     ]
   },
   {
@@ -1102,6 +1244,22 @@
     ],
     "sources": [
       "lyfemarketing.com/blog/tiktok-hook-ideas"
+    ]
+  },
+  {
+    "id": "buy-this-instead",
+    "name": "Buy This Instead",
+    "family": "Comparison",
+    "trigger": "Swaps a popular product for a better pick",
+    "template": "Instead of buying this [POPULAR PRODUCT] I have another recommendation..",
+    "why_it_works": "Positioning against a known product makes your alternative instantly understood.",
+    "examples": [
+      "Instead of buying this (hold up popular product) I have another recommendation..",
+      "The perfect (insert program) doesn't exist.. but this is a close second.."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
     ]
   },
   {
@@ -1338,6 +1496,21 @@
     ],
     "sources": [
       "https://vidiq.com/blog/post/viral-video-hooks-youtube-shorts/"
+    ]
+  },
+  {
+    "id": "biggest-regret-warning",
+    "name": "Biggest Regret Warning",
+    "family": "Confession",
+    "trigger": "Shares a regret to spare the viewer",
+    "template": "My biggest regret as an [PROFESSION] was not discovering this technique sooner - don't make the same mistake I did.",
+    "why_it_works": "A vulnerable regret framed as a warning makes the advice feel urgent and earned.",
+    "examples": [
+      "My biggest regret as an (insert profession) was not discovering this technique sooner – don't make the same mistake I did."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
     ]
   },
   {
@@ -1628,6 +1801,21 @@
     ]
   },
   {
+    "id": "something-that-bothers-me",
+    "name": "Something That Bothers Me",
+    "family": "Confession",
+    "trigger": "Shares a personal frustration",
+    "template": "Something that's always bothered me about [X]...",
+    "why_it_works": "A candid personal gripe feels authentic and invites viewers to agree.",
+    "examples": [
+      "Something that's always bothered me about X..."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
+    ]
+  },
+  {
     "id": "the-confession",
     "name": "The Confession",
     "family": "Confession",
@@ -1677,6 +1865,21 @@
     ]
   },
   {
+    "id": "bust-the-niche-myth",
+    "name": "Bust The Niche Myth",
+    "family": "Contrarian/Myth-Bust",
+    "trigger": "Calls out a widely believed falsehood",
+    "template": "Don't believe this [NICHE] myth..",
+    "why_it_works": "Naming a myth promises to correct a misconception the viewer might hold.",
+    "examples": [
+      "Don't believe this (insert niche) myth.."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
+    ]
+  },
+  {
     "id": "contradiction-plus-promise",
     "name": "Contradiction Plus Promise",
     "family": "Contrarian/Myth-Bust",
@@ -1698,6 +1901,21 @@
     ],
     "sources": [
       "https://joinbrands.com/blog/hooks-that-make-your-videos-go-viral/"
+    ]
+  },
+  {
+    "id": "controversial-take-opener",
+    "name": "Controversial Take Opener",
+    "family": "Contrarian/Myth-Bust",
+    "trigger": "Flags a divisive opinion to spark debate",
+    "template": "This may be controversial but [OPINION]",
+    "why_it_works": "Promising a controversial take primes viewers to stay and judge for themselves.",
+    "examples": [
+      "This may be controversial but ___"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
     ]
   },
   {
@@ -1725,6 +1943,21 @@
     ],
     "sources": [
       "lyfemarketing.com/blog/tiktok-hook-ideas"
+    ]
+  },
+  {
+    "id": "everything-you-knew-is-wrong",
+    "name": "Everything You Knew Is Wrong",
+    "family": "Contrarian/Myth-Bust",
+    "trigger": "Claims accepted knowledge is false",
+    "template": "Everything you knew about [TOPIC] is 100% WRONG! [EXAMPLE]",
+    "why_it_works": "Challenging the viewer's existing beliefs creates dissonance they need resolved.",
+    "examples": [
+      "Everything you knew about ___ is 100% WRONG! (+ a good example)"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
     ]
   },
   {
@@ -1817,6 +2050,21 @@
     ],
     "sources": [
       "https://moneylovesuccess.com/100-hook-templates-to-start-any-video-or-post-and-make-it-viral/"
+    ]
+  },
+  {
+    "id": "i-do-it-differently-hook",
+    "name": "I Do It Differently Hook",
+    "family": "Contrarian/Myth-Bust",
+    "trigger": "Rejecting the common approach",
+    "template": "Instead of using [XX] like everyone else... I use this instead!",
+    "why_it_works": "Positioning against the norm signals a fresh take the viewer hasn't seen.",
+    "examples": [
+      "Instead of using XX like everyone else... I use this instead!"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
     ]
   },
   {
@@ -2059,6 +2307,83 @@
     ]
   },
   {
+    "id": "can-they-do-it-in-time",
+    "name": "Can They Do It In Time",
+    "family": "Curiosity Gap",
+    "trigger": "Sets up a timed challenge with unknown outcome",
+    "template": "Let's see if [PERSON] can do [X] in [TIME]..",
+    "why_it_works": "A challenge with an uncertain result keeps viewers watching for the payoff.",
+    "examples": [
+      "Let's see if (Insert person) can do XX in (amount of time).."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
+    ]
+  },
+  {
+    "id": "caption-cliffhanger-hook",
+    "name": "Caption Cliffhanger Hook",
+    "family": "Curiosity Gap",
+    "trigger": "Caption hints at unresolved payoff",
+    "template": "It's that [VAGUE DETAIL] that's going to keep me [OUTCOME].",
+    "why_it_works": "The caption hints at what's to come and makes the viewer curious how the video resolves, encouraging a full watch.",
+    "examples": [
+      "It's that drive on the back 9 that's going to keep me coming back.",
+      "I can't believe her face when she took the first bite!"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
+    ]
+  },
+  {
+    "id": "capturing-their-reaction-hook",
+    "name": "Capturing Their Reaction Hook",
+    "family": "Curiosity Gap",
+    "trigger": "Promising someone's live reaction",
+    "template": "Recording [PERSON]'s reaction to [XX]..",
+    "why_it_works": "The viewer stays to see the unscripted reaction the creator promises to capture.",
+    "examples": [
+      "Recording (insert person)'s reaction to XX.."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
+    ]
+  },
+  {
+    "id": "celebrity-reaction-reveal",
+    "name": "Celebrity Reaction Reveal",
+    "family": "Curiosity Gap",
+    "trigger": "Withholds what a famous person said",
+    "template": "When I woke up and saw what [CELEBRITY] commented on my video I couldn't believe it",
+    "why_it_works": "Dangling an unknown reaction from a celebrity creates an irresistible need to know what they said.",
+    "examples": [
+      "When I woke up and saw what Ryan Reynolds commented on my video I couldn't believe it.."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "Viral TikTok Reels Checklist"
+    ]
+  },
+  {
+    "id": "cheaper-than-youd-think",
+    "name": "Cheaper Than You'd Think",
+    "family": "Curiosity Gap",
+    "trigger": "Reveals a surprisingly low price",
+    "template": "I can't believe this [HACK] only cost me [PRICE]..",
+    "why_it_works": "A shockingly low price creates disbelief that viewers stay to verify.",
+    "examples": [
+      "I can't believe this (insert hack) only cost me $10..",
+      "This is the best $20 you can spend as a (insert niche).."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
+    ]
+  },
+  {
     "id": "curiosity-gap-tease",
     "name": "Curiosity Gap Tease",
     "family": "Curiosity Gap",
@@ -2132,6 +2457,21 @@
     ]
   },
   {
+    "id": "how-fast-can-i-do-it",
+    "name": "How Fast Can I Do It",
+    "family": "Curiosity Gap",
+    "trigger": "Speed challenge with unknown result",
+    "template": "Seeing how quickly I can do [XX]..",
+    "why_it_works": "A speed test with an open outcome makes viewers stay to see the result.",
+    "examples": [
+      "Seeing how quickly I can do XX.."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
+    ]
+  },
+  {
     "id": "i-tried-so-you-dont-have-to",
     "name": "I Tried So You Don't Have To",
     "family": "Curiosity Gap",
@@ -2179,6 +2519,21 @@
     ]
   },
   {
+    "id": "most-intense-moment-tease",
+    "name": "Most Intense Moment Tease",
+    "family": "Curiosity Gap",
+    "trigger": "Teasing a peak emotional experience",
+    "template": "I just experienced the most [EMBARRASSMENT/ADRENALINE] in my life..",
+    "why_it_works": "Promising an extreme personal moment makes viewers stay to see what happened.",
+    "examples": [
+      "I just experienced the most (embarrassment/adrenaline) in my life.."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
+    ]
+  },
+  {
     "id": "naked-benefit-hidden-mechanism",
     "name": "Naked Benefit, Hidden Mechanism",
     "family": "Curiosity Gap",
@@ -2195,6 +2550,21 @@
     "applied_examples": [],
     "sources": [
       "AWAI / Schwartz, Breakthrough Advertising (awai.com)"
+    ]
+  },
+  {
+    "id": "on-screen-text-block-hook",
+    "name": "On-Screen Text Block Hook",
+    "family": "Curiosity Gap",
+    "trigger": "Unusual premise shown as on-screen text",
+    "template": "[DOING SOMETHING UNUSUAL] for [PERSON]",
+    "why_it_works": "An abnormal premise sparks curiosity and hints a reaction is coming, giving context the spoken audio alone wouldn't.",
+    "examples": [
+      "Making my wife PB&J Spaghetti"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
     ]
   },
   {
@@ -2247,6 +2617,36 @@
     ]
   },
   {
+    "id": "reaction-you-wont-believe",
+    "name": "Reaction You Won't Believe",
+    "family": "Curiosity Gap",
+    "trigger": "Withholds someone's surprising reaction",
+    "template": "I couldn't believe [PERSON]'s reaction to [X]..",
+    "why_it_works": "An unseen reaction creates an information gap viewers stay to close.",
+    "examples": [
+      "I couldn't believe (insert person)'s reaction to XX.."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
+    ]
+  },
+  {
+    "id": "see-differently-in-30-seconds",
+    "name": "See Differently In 30 Seconds",
+    "family": "Curiosity Gap",
+    "trigger": "Promises a shift in perception soon",
+    "template": "You will look at [TOPIC] differently after the next 30 seconds.",
+    "why_it_works": "Promising a perspective change creates anticipation worth waiting for.",
+    "examples": [
+      "You will look at ___ differently after the next 30 seconds."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
+    ]
+  },
+  {
     "id": "seed-of-curiosity",
     "name": "Seed of Curiosity",
     "family": "Curiosity Gap",
@@ -2263,6 +2663,21 @@
     "applied_examples": [],
     "sources": [
       "Joseph Sugarman, slippery-slide theory (silverpistol.com.au)"
+    ]
+  },
+  {
+    "id": "the-only-thing-you-need-to-know",
+    "name": "The Only Thing You Need To Know",
+    "family": "Curiosity Gap",
+    "trigger": "Promises one essential piece of knowledge",
+    "template": "This is the only thing you need to know about [TOPIC]!",
+    "why_it_works": "Reducing a topic to one must-know point promises high value with low effort.",
+    "examples": [
+      "This is the only thing you need to know about ___!"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
     ]
   },
   {
@@ -2349,6 +2764,21 @@
     "applied_examples": [],
     "sources": [
       "John Caples, Tested Advertising Methods (larslofgren.com)"
+    ]
+  },
+  {
+    "id": "three-cs-claim-hook",
+    "name": "Three C's Claim Hook",
+    "family": "Curiosity Gap",
+    "trigger": "Clarity, context and curiosity in one line",
+    "template": "My [RELATIONSHIP] has been telling me that they can [IMPRESSIVE/DOUBTFUL FEAT].",
+    "why_it_works": "It gives context (who and what), clarity on the video's value, and sparks curiosity about whether the feat is possible.",
+    "examples": [
+      "My wife has been telling me that she can eat an entire watermelon in one sitting."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
     ]
   },
   {
@@ -2471,6 +2901,21 @@
     ]
   },
   {
+    "id": "why-i-bought-this-hook",
+    "name": "Why I Bought This Hook",
+    "family": "Curiosity Gap",
+    "trigger": "Reveals reason behind a purchase",
+    "template": "This [FEATURE] is why I bought [XXX]",
+    "why_it_works": "Pointing to one specific feature as the deciding factor makes viewers curious what it is.",
+    "examples": [
+      "This (feature) is why I bought XXX"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
+    ]
+  },
+  {
     "id": "you-wont-believe",
     "name": "You Won't Believe",
     "family": "Curiosity Gap",
@@ -2512,6 +2957,21 @@
     ]
   },
   {
+    "id": "you-wont-believe-this",
+    "name": "You Won't Believe This",
+    "family": "Curiosity Gap",
+    "trigger": "Teases something unbelievable",
+    "template": "You won't believe this thing called [NICHE STEREOTYPE]..",
+    "why_it_works": "Promising the unbelievable creates a gap viewers must resolve by watching.",
+    "examples": [
+      "You won't believe this thing called \"insert niche stereotype\".."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
+    ]
+  },
+  {
     "id": "announcing-introducing",
     "name": "Announcing / Introducing",
     "family": "FOMO/Urgency",
@@ -2528,6 +2988,21 @@
     "applied_examples": [],
     "sources": [
       "John Caples, Tested Advertising Methods (larslofgren.com)"
+    ]
+  },
+  {
+    "id": "back-in-stock-demand",
+    "name": "Back In Stock Demand",
+    "family": "FOMO/Urgency",
+    "trigger": "Implies high demand and scarcity",
+    "template": "This is why people keep asking when our [PRODUCT] will be back in stock..",
+    "why_it_works": "Signaling that others want it and it's sold out triggers scarcity-driven desire.",
+    "examples": [
+      "This is why people keep asking when our XX product will be back in stock.."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
     ]
   },
   {
@@ -2685,6 +3160,21 @@
     ],
     "sources": [
       "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025"
+    ]
+  },
+  {
+    "id": "last-person-standing-hook",
+    "name": "Last Person Standing Hook",
+    "family": "FOMO/Urgency",
+    "trigger": "Endurance contest with a prize stake",
+    "template": "Last person to do [XX] gets [XX]",
+    "why_it_works": "A clear prize and competitive stakes pull viewers in to see who wins.",
+    "examples": [
+      "Last person to do XX gets XX"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
     ]
   },
   {
@@ -2941,6 +3431,22 @@
     ]
   },
   {
+    "id": "how-to-get-result-fast",
+    "name": "How To Get Result Fast",
+    "family": "How-To/Mechanism",
+    "trigger": "Promises an outcome within a tight timeframe",
+    "template": "How to get [RESULT] in [TIME] or less",
+    "why_it_works": "Pairing a clear result with a fast timeframe maximizes perceived payoff.",
+    "examples": [
+      "How to get (insert result) in 5 minutes or less",
+      "How to impress everyone at the next (insert niche senario).."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
+    ]
+  },
+  {
     "id": "how-to-in-timeframe",
     "name": "How To In Timeframe",
     "family": "How-To/Mechanism",
@@ -3059,6 +3565,39 @@
     ],
     "sources": [
       "https://fluxnote.io/blog/best-hooks-for-viral-short-form-video"
+    ]
+  },
+  {
+    "id": "one-thing-for-more-value",
+    "name": "One Thing For More Value",
+    "family": "How-To/Mechanism",
+    "trigger": "Single action drives an outsized result",
+    "template": "Get more [VALUE PROP] in your day by doing this one thing..",
+    "why_it_works": "Reducing the ask to one thing makes the benefit feel effortless to claim.",
+    "examples": [
+      "Get more [value prop] in your day buy doing this one thing.."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
+    ]
+  },
+  {
+    "id": "simple-hack-promise",
+    "name": "Simple Hack Promise",
+    "family": "How-To/Mechanism",
+    "trigger": "Offers an easy method for a desired outcome",
+    "template": "Here's a simple hack to help you do [TASK]",
+    "why_it_works": "Framing the tip as simple lowers the perceived effort of trying it.",
+    "examples": [
+      "Here's a simple hack to help you do ___",
+      "Life Hack: Try [product] for [pain point]..",
+      "This is the lazy way to get (insert result)..",
+      "This is the easiest tip you can follow to overcome XX.."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
     ]
   },
   {
@@ -3192,6 +3731,36 @@
     ]
   },
   {
+    "id": "time-saving-tip-hook",
+    "name": "Time-Saving Tip Hook",
+    "family": "How-To/Mechanism",
+    "trigger": "Quantified promise of saved time",
+    "template": "This [XX] tip will save you [XX] hours",
+    "why_it_works": "A specific, quantified benefit clarifies the value and gives a reason to keep watching.",
+    "examples": [
+      "This XX tip will save you XX hours"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
+    ]
+  },
+  {
+    "id": "try-this-next-tip",
+    "name": "Try This Next Tip",
+    "family": "How-To/Mechanism",
+    "trigger": "Actionable tip to apply next time",
+    "template": "Try this tip next when doing [XX]",
+    "why_it_works": "A direct, usable tip promises immediate practical value.",
+    "examples": [
+      "Try this tip next when doing XX"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
+    ]
+  },
+  {
     "id": "what-i-wish-i-knew",
     "name": "What I Wish I Knew",
     "family": "How-To/Mechanism",
@@ -3315,6 +3884,21 @@
     ]
   },
   {
+    "id": "before-you-do-this-like-always",
+    "name": "Before You Do This Like Always",
+    "family": "Negativity/Warning",
+    "trigger": "Interrupts a routine before a mistake",
+    "template": "Before you do [X] like always.. check out [Y]",
+    "why_it_works": "Pausing an automatic habit makes viewers curious what they've been missing.",
+    "examples": [
+      "Before you do XX like always.. check out XX"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
+    ]
+  },
+  {
     "id": "biggest-mistake",
     "name": "Biggest Mistake",
     "family": "Negativity/Warning",
@@ -3391,6 +3975,21 @@
     ],
     "sources": [
       "lyfemarketing.com/blog/tiktok-hook-ideas"
+    ]
+  },
+  {
+    "id": "game-changer-warning",
+    "name": "Game Changer Warning",
+    "family": "Negativity/Warning",
+    "trigger": "Frames an announcement as a warning",
+    "template": "Warning to [NICHE]: this is a game changer.",
+    "why_it_works": "The word warning interrupts the scroll and signals high stakes.",
+    "examples": [
+      "Warning to (insert niche): this is a game changer."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
     ]
   },
   {
@@ -3495,6 +4094,21 @@
     ]
   },
   {
+    "id": "red-flags-to-watch",
+    "name": "Red Flags To Watch",
+    "family": "Negativity/Warning",
+    "trigger": "Promises warning signs to avoid",
+    "template": "Red flags to look for in [NICHE]..",
+    "why_it_works": "Listing red flags appeals to the fear of being caught out or scammed.",
+    "examples": [
+      "Red flags to look for in (insert niche).."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
+    ]
+  },
+  {
     "id": "red-flags-to-watch-for",
     "name": "Red Flags To Watch For",
     "family": "Negativity/Warning",
@@ -3526,7 +4140,7 @@
     "name": "Stop Doing This",
     "family": "Negativity/Warning",
     "trigger": "Command plus implied harm triggers protective self-check",
-    "template": "Stop [COMMON ACTION] Immediately — Here's Why",
+    "template": "If you are into [NICHE] you need to stop doing this..",
     "why_it_works": "An urgent command implying you're harming yourself makes ignoring it feel risky.",
     "examples": [
       "Stop Doing This With Your [THING] Right Now",
@@ -3534,7 +4148,10 @@
       "Delete This App Immediately",
       "Stop Tracking Macros If You Want to Lose Fat",
       "Never Do This in Your First Year of [X]",
-      "Stop Scrolling — This Could Save You Money"
+      "Stop Scrolling — This Could Save You Money",
+      "If you are into (insert niche) you need to stop doing this..",
+      "This is why your ___ isnt working..",
+      "Don't make this mistake when doing ___"
     ],
     "applied_examples": [
       {
@@ -3543,7 +4160,8 @@
       }
     ],
     "sources": [
-      "https://vexub.com/blog/viral-short-form-video-hooks"
+      "https://vexub.com/blog/viral-short-form-video-hooks",
+      "50 Hook Examples"
     ]
   },
   {
@@ -3572,6 +4190,21 @@
     ],
     "sources": [
       "https://influee.co/blog/hooks"
+    ]
+  },
+  {
+    "id": "the-mistake-everyone-makes",
+    "name": "The Mistake Everyone Makes",
+    "family": "Negativity/Warning",
+    "trigger": "Names a universal error in the niche",
+    "template": "This is the mistake every [NICHE] business owner makes..",
+    "why_it_works": "Claiming everyone makes a mistake makes viewers anxious to check if they do too.",
+    "examples": [
+      "This is the mistake every (insert niche) business owner makes.."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
     ]
   },
   {
@@ -3778,6 +4411,21 @@
     ]
   },
   {
+    "id": "daily-essentials-list-hook",
+    "name": "Daily Essentials List Hook",
+    "family": "Number/List",
+    "trigger": "Counted list of must-have items",
+    "template": "The 4 [XXX] products I can't start my day without",
+    "why_it_works": "A specific count of essentials promises a clear, skimmable payoff worth watching.",
+    "examples": [
+      "The 4 XXX products I can't start my day without"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
+    ]
+  },
+  {
     "id": "if-you-only-do-one-thing",
     "name": "If You Only Do One Thing",
     "family": "Number/List",
@@ -3803,6 +4451,21 @@
     ],
     "sources": [
       "https://medium.com/@viralboris/linkedin-hooks-that-actually-work-in-2026-50-examples-bbe7976cde67"
+    ]
+  },
+  {
+    "id": "must-have-products-list",
+    "name": "Must-Have Products List",
+    "family": "Number/List",
+    "trigger": "Numbered essentials for a problem",
+    "template": "[NUMBER] must-have products for people struggling with [PROBLEM]",
+    "why_it_works": "Pairing a count with a struggle promises curated, relevant solutions.",
+    "examples": [
+      "6 must-have products for people struggling with (insert problem)"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
     ]
   },
   {
@@ -4099,6 +4762,22 @@
     ]
   },
   {
+    "id": "things-youre-not-doing",
+    "name": "Things You're Not Doing",
+    "family": "Number/List",
+    "trigger": "Counts overlooked actions for improvement",
+    "template": "[NUMBER] things you're NOT doing to [GOAL]..",
+    "why_it_works": "A numbered list of gaps promises quick, scannable wins viewers are missing.",
+    "examples": [
+      "4 things you're NOT doing to improve XX..",
+      "3 things you're NOT doing to do XX.."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
+    ]
+  },
+  {
     "id": "three-reasons-why",
     "name": "Three Reasons Why",
     "family": "Number/List",
@@ -4151,6 +4830,37 @@
     ]
   },
   {
+    "id": "tips-i-wish-i-knew",
+    "name": "Tips I Wish I Knew",
+    "family": "Number/List",
+    "trigger": "Numbered tips with a saved-best hint",
+    "template": "3 '[XXX]' tips I wish I knew earlier (the last one blew my mind)",
+    "why_it_works": "A numbered list plus a tease about the final item keeps viewers to the end.",
+    "examples": [
+      "3 'XXX' tips I wish I knew earlier (the last one blew my mind)"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
+    ]
+  },
+  {
+    "id": "two-signs-to-start-or-stop",
+    "name": "Two Signs To Start Or Stop",
+    "family": "Number/List",
+    "trigger": "Lists signals prompting a behavior change",
+    "template": "Here are [NUMBER] signs that you should [start/stop] doing [X]",
+    "why_it_works": "Signs you should act tap self-diagnosis and an easy list format.",
+    "examples": [
+      "Here are 2 signs that you should stop doing XX",
+      "Here are 2 signs you should start doing XX"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
+    ]
+  },
+  {
     "id": "x-reasons-why",
     "name": "X Reasons Why",
     "family": "Number/List",
@@ -4197,6 +4907,21 @@
     ],
     "sources": [
       "https://www.ijcrt.org/papers/IJCRT2510006.pdf"
+    ]
+  },
+  {
+    "id": "honest-ads-parody",
+    "name": "Honest Ads Parody",
+    "family": "Pattern Interrupt",
+    "trigger": "Subverts polished ad with brutal honesty",
+    "template": "If [BRAND] ads were honest",
+    "why_it_works": "Promising the unfiltered truth about a recognizable brand instantly hooks anyone with an opinion on it.",
+    "examples": [
+      "If Tesla ads were honest"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "Viral TikTok Reels Checklist"
     ]
   },
   {
@@ -4597,6 +5322,21 @@
     ]
   },
   {
+    "id": "can-they-guess-it-hook",
+    "name": "Can They Guess It Hook",
+    "family": "Question",
+    "trigger": "Someone guessing an unknown answer",
+    "template": "Seeing if [PERSON] can guess if [XX] is [HOMEMADE]",
+    "why_it_works": "An open guessing game with a yes/no payoff keeps viewers watching for the answer.",
+    "examples": [
+      "Seeing if (insert person) can guess if XX is (homemade)"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
+    ]
+  },
+  {
     "id": "diagnostic-question",
     "name": "Diagnostic Question",
     "family": "Question",
@@ -4711,6 +5451,22 @@
     ],
     "sources": [
       "taggbox.com/blog/best-instagram-hooks"
+    ]
+  },
+  {
+    "id": "skeptical-try-this",
+    "name": "Skeptical? Try This",
+    "family": "Question",
+    "trigger": "Addresses doubt and offers a test",
+    "template": "If you're feeling skeptical about [X].. try this..",
+    "why_it_works": "Acknowledging skepticism disarms doubters and invites them to give it a shot.",
+    "examples": [
+      "If you're feeling skeptical about XX.. try this..",
+      "Feeling overwhelmed with XX? Try this next time.."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
     ]
   },
   {
@@ -5043,6 +5799,21 @@
     ]
   },
   {
+    "id": "relatable-parenting-confession",
+    "name": "Relatable Parenting Confession",
+    "family": "Relatability/POV",
+    "trigger": "Names a shared, slightly taboo daily struggle",
+    "template": "This is what we do every time [RELATABLE EVERYDAY STRUGGLE]",
+    "why_it_works": "A specific everyday moment a huge niche personally experiences pulls them in to see if it matches their own life.",
+    "examples": [
+      "This is what we do every time our daughter poops"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "Viral TikTok Reels Checklist"
+    ]
+  },
+  {
     "id": "status-aspiration",
     "name": "Status Aspiration",
     "family": "Relatability/POV",
@@ -5259,6 +6030,21 @@
     ]
   },
   {
+    "id": "craziest-feature-reveal",
+    "name": "Craziest Feature Reveal",
+    "family": "Secret/Reveal",
+    "trigger": "Hyping a single standout feature",
+    "template": "This [XXX] has the craziest feature!",
+    "why_it_works": "Calling a feature 'craziest' promises a reveal viewers stay to see.",
+    "examples": [
+      "This XXX has the craziest feature!"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
+    ]
+  },
+  {
     "id": "forbidden-knowledge",
     "name": "Forbidden Knowledge",
     "family": "Secret/Reveal",
@@ -5332,6 +6118,21 @@
     ],
     "sources": [
       "https://virvid.ai/blog/best-short-video-hooks-with-ai-prompts"
+    ]
+  },
+  {
+    "id": "i-bet-you-didnt-know",
+    "name": "I Bet You Didn't Know",
+    "family": "Secret/Reveal",
+    "trigger": "Promises a little-known fact",
+    "template": "I bet you didn't know [XXX] about [XXX]",
+    "why_it_works": "Betting against the viewer's knowledge baits them to stay and learn the fact.",
+    "examples": [
+      "I bet you didn't know XXX about XXX"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
     ]
   },
   {
@@ -5451,6 +6252,21 @@
       "kontentino.com/blog/100-hook-ideas-for-instagram-reels",
       "https://fluxnote.io/blog/best-hooks-for-viral-short-form-video",
       "https://www.kontentino.com/blog/100-hook-ideas-for-instagram-reels/"
+    ]
+  },
+  {
+    "id": "only-one-talking-about-it",
+    "name": "Only One Talking About It",
+    "family": "Secret/Reveal",
+    "trigger": "Implies overlooked, under-shared info",
+    "template": "Why am I the only one talking about [XXX]??",
+    "why_it_works": "Framing the info as rare or ignored makes it feel like exclusive knowledge.",
+    "examples": [
+      "Why am I the only one talking about XXX??"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
     ]
   },
   {
@@ -5680,6 +6496,38 @@
     "applied_examples": [],
     "sources": [
       "John Caples, Tested Advertising Methods (larslofgren.com)"
+    ]
+  },
+  {
+    "id": "why-nobody-talks-about-this",
+    "name": "Why Nobody Talks About This",
+    "family": "Secret/Reveal",
+    "trigger": "Implies a hidden or ignored truth",
+    "template": "Why is nobody talking about [X] in the [INDUSTRY]?",
+    "why_it_works": "Framing info as overlooked makes viewers feel they're getting insider knowledge.",
+    "examples": [
+      "Why is nobody talking about XX in the XX industry?",
+      "Literally nobody is talking about XX in the (insert niche) world..",
+      "Why does no one talk about XX in (insert niche)??"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
+    ]
+  },
+  {
+    "id": "best-money-i-spent",
+    "name": "Best Money I Spent",
+    "family": "Social Proof",
+    "trigger": "Specific price framed as a top buy",
+    "template": "The best $[AMOUNT] I've ever spent on a [XX] product.",
+    "why_it_works": "An exact dollar figure plus a superlative endorsement signals a worthwhile recommendation.",
+    "examples": [
+      "The best $47 dollars I've ever spent on a XX product."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
     ]
   },
   {
@@ -5947,6 +6795,21 @@
     ]
   },
   {
+    "id": "thousands-of-reviews-test",
+    "name": "Thousands Of Reviews Test",
+    "family": "Social Proof",
+    "trigger": "Cites high review count to validate a test",
+    "template": "This [PRODUCT TYPE] has over [NUMBER] reviews... let's see if it's worth it",
+    "why_it_works": "A big review count signals popularity while the test promises an honest verdict.",
+    "examples": [
+      "This [product type] has over 5,000 reviews… let's see if it's worth it"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
+    ]
+  },
+  {
     "id": "trying-the-viral",
     "name": "Trying the Viral",
     "family": "Social Proof",
@@ -5991,6 +6854,21 @@
     "applied_examples": [],
     "sources": [
       "John Caples, Tested Advertising Methods (larslofgren.com)"
+    ]
+  },
+  {
+    "id": "why-conversions-jumped",
+    "name": "Why Conversions Jumped",
+    "family": "Social Proof",
+    "trigger": "Shares a real result from a purchase",
+    "template": "I bought this [SERVICE] for my business and now my conversions/sales are through the roof!",
+    "why_it_works": "A concrete success story proves the product works and stirs FOMO.",
+    "examples": [
+      "I bought this (insert service) for my business and now my conversions/sales are through the roof!"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
     ]
   },
   {
@@ -6115,6 +6993,36 @@
     ]
   },
   {
+    "id": "i-kept-getting-this-problem",
+    "name": "I Kept Getting This Problem",
+    "family": "Story/In-Medias-Res",
+    "trigger": "Opens mid-struggle then pivots to a fix",
+    "template": "I kept getting [PAIN POINT], so I tried this instead!",
+    "why_it_works": "Dropping into a relatable struggle pulls viewers into the story and its resolution.",
+    "examples": [
+      "I kept getting [pain point], so I tried this instead!"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
+    ]
+  },
+  {
+    "id": "i-spent-a-week-testing",
+    "name": "I Spent A Week Testing",
+    "family": "Story/In-Medias-Res",
+    "trigger": "Frames effort already invested for the viewer",
+    "template": "I spent an entire week trying [X].. here's what I discovered..",
+    "why_it_works": "Showing real time invested promises hard-won findings viewers want shared.",
+    "examples": [
+      "I spent an entire week trying XX.. here's what I discovered.."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "50 Hook Examples"
+    ]
+  },
+  {
     "id": "in-medias-res-scene",
     "name": "In Medias Res Scene",
     "family": "Story/In-Medias-Res",
@@ -6211,6 +7119,21 @@
     ]
   },
   {
+    "id": "loser-has-to-hook",
+    "name": "Loser Has To Hook",
+    "family": "Story/In-Medias-Res",
+    "trigger": "Challenge with a punishment stake",
+    "template": "Loser of [CHALLENGE] has to [XX]",
+    "why_it_works": "A consequence on the line raises the stakes and tension of the contest.",
+    "examples": [
+      "Loser of (insert challenge) has to XX"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
+    ]
+  },
+  {
     "id": "once-upon-a-time-spine",
     "name": "Once Upon A Time Spine",
     "family": "Story/In-Medias-Res",
@@ -6278,6 +7201,21 @@
     ]
   },
   {
+    "id": "secretly-filmed-them-hook",
+    "name": "Secretly Filmed Them Hook",
+    "family": "Story/In-Medias-Res",
+    "trigger": "Hidden filming promising a payoff",
+    "template": "I secretly filmed [PERSON] doing [XX]. This is what happened..",
+    "why_it_works": "The 'this is what happened' cliffhanger guarantees an unresolved payoff.",
+    "examples": [
+      "I secretly filmed (insert person) doing XX. This is what happened.."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
+    ]
+  },
+  {
     "id": "story-time",
     "name": "Story Time",
     "family": "Story/In-Medias-Res",
@@ -6303,6 +7241,21 @@
     ],
     "sources": [
       "https://influee.co/blog/hooks"
+    ]
+  },
+  {
+    "id": "stranger-beats-me-challenge",
+    "name": "Stranger Beats Me Challenge",
+    "family": "Story/In-Medias-Res",
+    "trigger": "Stakes-driven contest with an outsider",
+    "template": "Seeing if a stranger can beat me at [XX]",
+    "why_it_works": "An open contest with an unknown outcome creates suspense the viewer wants resolved.",
+    "examples": [
+      "Seeing if a stranger can beat me at XX"
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
     ]
   },
   {
@@ -6486,6 +7439,21 @@
     ],
     "sources": [
       "https://virvid.ai/blog/best-short-video-hooks-with-ai-prompts"
+    ]
+  },
+  {
+    "id": "vocal-speak-to-camera-hook",
+    "name": "Vocal Speak-To-Camera Hook",
+    "family": "Story/In-Medias-Res",
+    "trigger": "Spoken setup naming who and what",
+    "template": "[SURPRISING PREMISE], so I'm going to [ACTION/EXPERIMENT].",
+    "why_it_works": "Audiences immediately know who is involved, the theme, and that a reaction is coming at the end.",
+    "examples": [
+      "Apparently jackfruit can look and taste like pulled pork, so I'm going to try and trick my husband."
+    ],
+    "applied_examples": [],
+    "sources": [
+      "The Hook Writing Guide"
     ]
   },
   {

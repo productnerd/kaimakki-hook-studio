@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Vocal Speak-To-Camera Hook",
+    "family": "Story/In-Medias-Res",
+    "trigger": "Spoken setup naming who and what",
+    "template": "[SURPRISING PREMISE], so I'm going to [ACTION/EXPERIMENT].",
+    "why_it_works": "Audiences immediately know who is involved, the theme, and that a reaction is coming at the end.",
+    "examples": ["Apparently jackfruit can look and taste like pulled pork, so I'm going to try and trick my husband."],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "On-Screen Text Block Hook",
+    "family": "Curiosity Gap",
+    "trigger": "Unusual premise shown as on-screen text",
+    "template": "[DOING SOMETHING UNUSUAL] for [PERSON]",
+    "why_it_works": "An abnormal premise sparks curiosity and hints a reaction is coming, giving context the spoken audio alone wouldn't.",
+    "examples": ["Making my wife PB&J Spaghetti"],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "Caption Cliffhanger Hook",
+    "family": "Curiosity Gap",
+    "trigger": "Caption hints at unresolved payoff",
+    "template": "It's that [VAGUE DETAIL] that's going to keep me [OUTCOME].",
+    "why_it_works": "The caption hints at what's to come and makes the viewer curious how the video resolves, encouraging a full watch.",
+    "examples": ["It's that drive on the back 9 that's going to keep me coming back.", "I can't believe her face when she took the first bite!"],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "Three C's Claim Hook",
+    "family": "Curiosity Gap",
+    "trigger": "Clarity, context and curiosity in one line",
+    "template": "My [RELATIONSHIP] has been telling me that they can [IMPRESSIVE/DOUBTFUL FEAT].",
+    "why_it_works": "It gives context (who and what), clarity on the video's value, and sparks curiosity about whether the feat is possible.",
+    "examples": ["My wife has been telling me that she can eat an entire watermelon in one sitting."],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "Change Your Mind Challenge",
+    "family": "Bold Claim/Promise",
+    "trigger": "Promise to flip a belief on a timer",
+    "template": "I bet I can change your mind about [XX] in 20 seconds",
+    "why_it_works": "A confident promise plus a tight time frame dares the viewer to stay and test the claim.",
+    "examples": ["I bet I can change your mind about XX in 20 seconds"],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "Stranger Beats Me Challenge",
+    "family": "Story/In-Medias-Res",
+    "trigger": "Stakes-driven contest with an outsider",
+    "template": "Seeing if a stranger can beat me at [XX]",
+    "why_it_works": "An open contest with an unknown outcome creates suspense the viewer wants resolved.",
+    "examples": ["Seeing if a stranger can beat me at XX"],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "Most Intense Moment Tease",
+    "family": "Curiosity Gap",
+    "trigger": "Teasing a peak emotional experience",
+    "template": "I just experienced the most [EMBARRASSMENT/ADRENALINE] in my life..",
+    "why_it_works": "Promising an extreme personal moment makes viewers stay to see what happened.",
+    "examples": ["I just experienced the most (embarrassment/adrenaline) in my life.."],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "Capturing Their Reaction Hook",
+    "family": "Curiosity Gap",
+    "trigger": "Promising someone's live reaction",
+    "template": "Recording [PERSON]'s reaction to [XX]..",
+    "why_it_works": "The viewer stays to see the unscripted reaction the creator promises to capture.",
+    "examples": ["Recording (insert person)'s reaction to XX.."],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "Last Person Standing Hook",
+    "family": "FOMO/Urgency",
+    "trigger": "Endurance contest with a prize stake",
+    "template": "Last person to do [XX] gets [XX]",
+    "why_it_works": "A clear prize and competitive stakes pull viewers in to see who wins.",
+    "examples": ["Last person to do XX gets XX"],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "Time-Saving Tip Hook",
+    "family": "How-To/Mechanism",
+    "trigger": "Quantified promise of saved time",
+    "template": "This [XX] tip will save you [XX] hours",
+    "why_it_works": "A specific, quantified benefit clarifies the value and gives a reason to keep watching.",
+    "examples": ["This XX tip will save you XX hours"],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "Why I Bought This Hook",
+    "family": "Curiosity Gap",
+    "trigger": "Reveals reason behind a purchase",
+    "template": "This [FEATURE] is why I bought [XXX]",
+    "why_it_works": "Pointing to one specific feature as the deciding factor makes viewers curious what it is.",
+    "examples": ["This (feature) is why I bought XXX"],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "Can They Guess It Hook",
+    "family": "Question",
+    "trigger": "Someone guessing an unknown answer",
+    "template": "Seeing if [PERSON] can guess if [XX] is [HOMEMADE]",
+    "why_it_works": "An open guessing game with a yes/no payoff keeps viewers watching for the answer.",
+    "examples": ["Seeing if (insert person) can guess if XX is (homemade)"],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "I Do It Differently Hook",
+    "family": "Contrarian/Myth-Bust",
+    "trigger": "Rejecting the common approach",
+    "template": "Instead of using [XX] like everyone else... I use this instead!",
+    "why_it_works": "Positioning against the norm signals a fresh take the viewer hasn't seen.",
+    "examples": ["Instead of using XX like everyone else... I use this instead!"],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "Tips I Wish I Knew",
+    "family": "Number/List",
+    "trigger": "Numbered tips with a saved-best hint",
+    "template": "3 '[XXX]' tips I wish I knew earlier (the last one blew my mind)",
+    "why_it_works": "A numbered list plus a tease about the final item keeps viewers to the end.",
+    "examples": ["3 'XXX' tips I wish I knew earlier (the last one blew my mind)"],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "Daily Essentials List Hook",
+    "family": "Number/List",
+    "trigger": "Counted list of must-have items",
+    "template": "The 4 [XXX] products I can't start my day without",
+    "why_it_works": "A specific count of essentials promises a clear, skimmable payoff worth watching.",
+    "examples": ["The 4 XXX products I can't start my day without"],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "Loser Has To Hook",
+    "family": "Story/In-Medias-Res",
+    "trigger": "Challenge with a punishment stake",
+    "template": "Loser of [CHALLENGE] has to [XX]",
+    "why_it_works": "A consequence on the line raises the stakes and tension of the contest.",
+    "examples": ["Loser of (insert challenge) has to XX"],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "How I Made This Much",
+    "family": "Bold Claim/Promise",
+    "trigger": "Specific income figure plus method tease",
+    "template": "How I made '[$AMOUNT]' in one week doing [XXX]!",
+    "why_it_works": "A concrete, surprising number promises a payoff the viewer wants the method behind.",
+    "examples": ["How I made '$3500' in one week doing XXX!"],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "Only One Talking About It",
+    "family": "Secret/Reveal",
+    "trigger": "Implies overlooked, under-shared info",
+    "template": "Why am I the only one talking about [XXX]??",
+    "why_it_works": "Framing the info as rare or ignored makes it feel like exclusive knowledge.",
+    "examples": ["Why am I the only one talking about XXX??"],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "Craziest Feature Reveal",
+    "family": "Secret/Reveal",
+    "trigger": "Hyping a single standout feature",
+    "template": "This [XXX] has the craziest feature!",
+    "why_it_works": "Calling a feature 'craziest' promises a reveal viewers stay to see.",
+    "examples": ["This XXX has the craziest feature!"],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "Secretly Filmed Them Hook",
+    "family": "Story/In-Medias-Res",
+    "trigger": "Hidden filming promising a payoff",
+    "template": "I secretly filmed [PERSON] doing [XX]. This is what happened..",
+    "why_it_works": "The 'this is what happened' cliffhanger guarantees an unresolved payoff.",
+    "examples": ["I secretly filmed (insert person) doing XX. This is what happened.."],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "Best Money I Spent",
+    "family": "Social Proof",
+    "trigger": "Specific price framed as a top buy",
+    "template": "The best $[AMOUNT] I've ever spent on a [XX] product.",
+    "why_it_works": "An exact dollar figure plus a superlative endorsement signals a worthwhile recommendation.",
+    "examples": ["The best $47 dollars I've ever spent on a XX product."],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "I Bet You Didn't Know",
+    "family": "Secret/Reveal",
+    "trigger": "Promises a little-known fact",
+    "template": "I bet you didn't know [XXX] about [XXX]",
+    "why_it_works": "Betting against the viewer's knowledge baits them to stay and learn the fact.",
+    "examples": ["I bet you didn't know XXX about XXX"],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "Try This Next Tip",
+    "family": "How-To/Mechanism",
+    "trigger": "Actionable tip to apply next time",
+    "template": "Try this tip next when doing [XX]",
+    "why_it_works": "A direct, usable tip promises immediate practical value.",
+    "examples": ["Try this tip next when doing XX"],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  },
+  {
+    "name": "How Fast Can I Do It",
+    "family": "Curiosity Gap",
+    "trigger": "Speed challenge with unknown result",
+    "template": "Seeing how quickly I can do [XX]..",
+    "why_it_works": "A speed test with an open outcome makes viewers stay to see the result.",
+    "examples": ["Seeing how quickly I can do XX.."],
+    "applied_examples": [],
+    "source": "The Hook Writing Guide"
+  }
+]
