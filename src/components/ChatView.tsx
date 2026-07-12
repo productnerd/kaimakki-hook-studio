@@ -97,7 +97,7 @@ export default function ChatView() {
               <p className="mx-auto mt-3 max-w-md text-cream-61">
                 Drop your brief. The client, the audience, the platform, the goal.
                 I'll pull from {""}
-                <span className="text-pink">262 proven hook formats</span> and tailor a set to your case.
+                <span className="text-pink">1,200+ proven hook formats</span> and tailor a set to your case.
               </p>
               <div className="mt-7 grid gap-2 text-left">
                 {SUGGESTIONS.map((s) => (
