@@ -6,9 +6,13 @@ import CopyButton from "./CopyButton";
 export default function FormatCard({ format }: { format: HookFormat }) {
   const [open, setOpen] = useState(false);
   const color = familyColor(format.family);
+  const expandable = format.examples.length > 0 || format.applied_examples.length > 0;
   return (
     <div className="rounded-brand border border-border bg-surface p-4">
-      <button onClick={() => setOpen((o) => !o)} className="w-full text-left">
+      <button
+        onClick={() => expandable && setOpen((o) => !o)}
+        className={`w-full text-left ${expandable ? "" : "cursor-default"}`}
+      >
         <div className="flex items-start justify-between gap-3">
           <div>
             <h3 className="font-display text-lg font-bold text-cream">{format.name}</h3>
@@ -19,25 +23,18 @@ export default function FormatCard({ format }: { format: HookFormat }) {
               {format.family}
             </span>
           </div>
-          <span className="mt-1 text-cream-31">{open ? "–" : "+"}</span>
+          {expandable && <span className="mt-1 text-cream-31">{open ? "–" : "+"}</span>}
         </div>
         {format.template && (
           <p className="mt-3 font-mono text-[13px] leading-relaxed text-pink">{format.template}</p>
         )}
         {format.trigger && (
-          <p className="mt-2 text-sm text-cream-61">
-            <span className="text-cream-31">Why it hooks: </span>
-            {format.trigger}
-          </p>
+          <p className="mt-2 text-sm text-cream-61">{format.trigger}</p>
         )}
       </button>
 
       {open && (
         <div className="mt-4 space-y-4 border-t border-border pt-4 animate-fade-up">
-          {format.why_it_works && (
-            <p className="text-sm leading-relaxed text-cream-78">{format.why_it_works}</p>
-          )}
-
           {format.examples.length > 0 && (
             <div>
               <p className="mb-2 text-xs font-semibold uppercase tracking-wide text-cream-31">

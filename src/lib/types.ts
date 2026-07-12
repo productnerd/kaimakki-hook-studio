@@ -9,7 +9,6 @@ export interface HookFormat {
   family: string;
   trigger: string;
   template: string;
-  why_it_works: string;
   examples: string[];
   applied_examples: AppliedExample[];
   sources: string[];

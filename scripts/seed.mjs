@@ -9,7 +9,7 @@ const __dir = dirname(fileURLToPath(import.meta.url));
 const URL = "https://knftyqkhampkqchoncel.supabase.co";
 const KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtuZnR5cWtoYW1wa3FjaG9uY2VsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTE0NDg4MzYsImV4cCI6MjA2NzAyNDgzNn0.fugiTRvgoD3YqAZPQMV3R6Eu0Wx_9vgE6ZK8zjqFutg";
 
-const COLS = ["id", "name", "family", "trigger", "template", "why_it_works", "examples", "applied_examples", "sources"];
+const COLS = ["id", "name", "family", "trigger", "template", "examples", "applied_examples", "sources"];
 const pick = (r) => Object.fromEntries(COLS.filter((c) => c in r).map((c) => [c, r[c]]));
 
 let rows = JSON.parse(readFileSync(join(__dir, "..", "data", "hooks.json"), "utf8"));
