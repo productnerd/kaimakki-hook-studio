@@ -7,7 +7,7 @@ import EdgeDial from "./EdgeDial";
 
 const STORAGE_KEY = "kaimakki-hook-chat";
 const SUGGESTIONS = [
-  "New gym in Limassol, want sign-ups for a free trial week. Audience: people who keep quitting gyms.",
+  "New boutique gym, want sign-ups for a free trial week. Audience: people who keep quitting gyms.",
   "DTC skincare brand launching a vitamin-C serum. Reels. Audience: women 25-40 skeptical of 'miracle' products.",
   "B2B SaaS for restaurant inventory. Goal: book demos with owners drowning in food waste.",
 ];

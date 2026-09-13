@@ -72,13 +72,18 @@ export async function generateScripts(
     : [];
 }
 
-// A caption sequence = the on-screen lines of a text-led edit, in order.
+export interface Caption {
+  text: string;
+  sub?: string;
+}
+
+// A caption = one short on-screen text block laid over the edit (optional subline).
 export async function generateCaptions(
   brief: string,
   count: number,
   edge: Edge,
   hook?: string
-): Promise<string[][]> {
+): Promise<Caption[]> {
   const res = await fetch(CAPTION_URL, {
     method: "POST",
     headers: {
@@ -91,6 +96,6 @@ export async function generateCaptions(
   const data = await res.json().catch(() => ({}));
   if (!res.ok) throw new Error(data?.error || `Caption generation failed (${res.status})`);
   return Array.isArray(data.captions)
-    ? data.captions.filter((o: unknown): o is string[] => Array.isArray(o))
+    ? data.captions.filter((c: unknown): c is Caption => !!c && typeof (c as Caption).text === "string")
     : [];
 }

@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { generateCaptions } from "../lib/api";
+import { generateCaptions, type Caption } from "../lib/api";
 import { useEdge } from "../lib/useEdge";
 import EdgeDial from "./EdgeDial";
 import CopyButton from "./CopyButton";
@@ -8,12 +8,12 @@ const STORAGE_KEY = "kaimakki-captions";
 
 interface Saved {
   brief: string;
-  captions: string[][];
+  captions: Caption[];
 }
 
 export default function CaptionsView() {
   const [brief, setBrief] = useState("");
-  const [count, setCount] = useState(4);
+  const [count, setCount] = useState(8);
   const [edge, setEdge] = useEdge();
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -53,11 +53,11 @@ export default function CaptionsView() {
           {!result && !loading && (
             <div className="animate-fade-up pt-6 text-center">
               <h1 className="font-display text-3xl font-extrabold tracking-tight text-cream md:text-4xl">
-                Captions for a text-led edit
+                Captions
               </h1>
               <p className="mx-auto mt-3 max-w-md text-cream-61">
-                Footage plays in the background, the words on screen do the talking. Drop the
-                brief and get {count} caption sequences, one line per beat.
+                The text that sits on top of the video. One short block, does its job in the
+                three seconds it takes to read. Drop the brief and get {count} options.
               </p>
             </div>
           )}
@@ -69,35 +69,25 @@ export default function CaptionsView() {
                   {result.brief}
                 </div>
               </div>
-              <div className="grid gap-3">
-                {result.captions.map((lines, i) => (
+              <div className="grid gap-3 sm:grid-cols-2">
+                {result.captions.map((c, i) => (
                   <div
                     key={i}
-                    className="rounded-brand border border-border bg-surface p-4 animate-fade-up"
-                    style={{ animationDelay: `${i * 50}ms` }}
+                    className="flex flex-col rounded-brand border border-border bg-surface p-3 animate-fade-up"
+                    style={{ animationDelay: `${i * 40}ms` }}
                   >
-                    <div className="mb-3 flex items-center justify-between gap-2">
-                      <span className="text-[11px] font-semibold uppercase tracking-wide text-cream-31">
-                        Option {i + 1} · {lines.length} beats
-                      </span>
-                      <CopyButton text={lines.join("\n")} />
+                    {/* mimics the on-screen text box */}
+                    <div className="flex flex-1 flex-col items-center justify-center gap-1.5 rounded-2xl bg-cream px-4 py-6 text-center">
+                      <p className="font-display text-[17px] font-bold leading-snug text-brown">
+                        {c.text}
+                      </p>
+                      {c.sub && (
+                        <p className="text-[13px] font-medium leading-snug text-brown/70">{c.sub}</p>
+                      )}
                     </div>
-                    <ol className="space-y-1.5">
-                      {lines.map((line, j) => (
-                        <li
-                          key={j}
-                          className={`rounded-xl px-3 py-2 font-display leading-snug ${
-                            j === 0
-                              ? "bg-cream text-[17px] font-bold text-brown"
-                              : j === lines.length - 1
-                              ? "bg-lime/15 text-[15px] font-semibold text-lime"
-                              : "bg-cream-10 text-[15px] font-semibold text-cream"
-                          }`}
-                        >
-                          {line}
-                        </li>
-                      ))}
-                    </ol>
+                    <div className="mt-2 flex justify-end">
+                      <CopyButton text={c.sub ? `${c.text}\n${c.sub}` : c.text} />
+                    </div>
                   </div>
                 ))}
               </div>
@@ -146,13 +136,13 @@ export default function CaptionsView() {
           <div className="mt-2 flex flex-wrap items-center justify-between gap-y-2 px-1">
             <div className="flex flex-wrap items-center gap-4">
               <label className="flex items-center gap-2 text-xs text-cream-61">
-                Options
+                Captions
                 <select
                   value={count}
                   onChange={(e) => setCount(Number(e.target.value))}
                   className="rounded-lg border border-border bg-surface px-2 py-1 text-cream outline-none"
                 >
-                  {[3, 4, 5, 6].map((n) => (
+                  {[6, 8, 10, 12].map((n) => (
                     <option key={n} value={n}>
                       {n}
                     </option>
