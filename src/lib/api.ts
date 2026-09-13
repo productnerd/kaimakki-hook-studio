@@ -1,4 +1,4 @@
-import { GENERATOR_URL, SCRIPT_URL, SUPABASE_ANON_KEY, SUPABASE_URL } from "./config";
+import { CAPTION_URL, GENERATOR_URL, SCRIPT_URL, SUPABASE_ANON_KEY, SUPABASE_URL } from "./config";
 import type { GeneratedHook, HookFormat } from "./types";
 
 export async function fetchFormats(): Promise<HookFormat[]> {
@@ -69,5 +69,28 @@ export async function generateScripts(
   if (!res.ok) throw new Error(data?.error || `Script generation failed (${res.status})`);
   return Array.isArray(data.scripts)
     ? data.scripts.filter((s: unknown): s is string => typeof s === "string")
+    : [];
+}
+
+// A caption sequence = the on-screen lines of a text-led edit, in order.
+export async function generateCaptions(
+  brief: string,
+  count: number,
+  edge: Edge,
+  hook?: string
+): Promise<string[][]> {
+  const res = await fetch(CAPTION_URL, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      apikey: SUPABASE_ANON_KEY,
+      Authorization: `Bearer ${SUPABASE_ANON_KEY}`,
+    },
+    body: JSON.stringify({ brief, count, edge, hook: hook || "" }),
+  });
+  const data = await res.json().catch(() => ({}));
+  if (!res.ok) throw new Error(data?.error || `Caption generation failed (${res.status})`);
+  return Array.isArray(data.captions)
+    ? data.captions.filter((o: unknown): o is string[] => Array.isArray(o))
     : [];
 }

@@ -5,3 +5,4 @@ export const SUPABASE_ANON_KEY =
 
 export const GENERATOR_URL = `${SUPABASE_URL}/functions/v1/kaimakki-hook-generator`;
 export const SCRIPT_URL = `${SUPABASE_URL}/functions/v1/kaimakki-script-writer`;
+export const CAPTION_URL = `${SUPABASE_URL}/functions/v1/kaimakki-caption-writer`;

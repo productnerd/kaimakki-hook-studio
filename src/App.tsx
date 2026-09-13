@@ -1,8 +1,15 @@
 import { useState } from "react";
 import ChatView from "./components/ChatView";
+import CaptionsView from "./components/CaptionsView";
 import LibraryView from "./components/LibraryView";
 
-type Tab = "studio" | "library";
+type Tab = "studio" | "captions" | "library";
+
+const TABS: { id: Tab; label: string }[] = [
+  { id: "studio", label: "Studio" },
+  { id: "captions", label: "Captions" },
+  { id: "library", label: "Library" },
+];
 
 export default function App() {
   const [tab, setTab] = useState<Tab>("studio");
@@ -19,27 +26,24 @@ export default function App() {
           </span>
         </div>
         <nav className="flex items-center gap-1 rounded-full border border-border bg-surface p-1">
-          <button
-            onClick={() => setTab("studio")}
-            className={`rounded-full px-4 py-1.5 text-sm font-medium transition-colors ${
-              tab === "studio" ? "bg-pink text-brown" : "text-cream-61 hover:text-cream"
-            }`}
-          >
-            Studio
-          </button>
-          <button
-            onClick={() => setTab("library")}
-            className={`rounded-full px-4 py-1.5 text-sm font-medium transition-colors ${
-              tab === "library" ? "bg-pink text-brown" : "text-cream-61 hover:text-cream"
-            }`}
-          >
-            Library
-          </button>
+          {TABS.map((t) => (
+            <button
+              key={t.id}
+              onClick={() => setTab(t.id)}
+              className={`rounded-full px-4 py-1.5 text-sm font-medium transition-colors ${
+                tab === t.id ? "bg-pink text-brown" : "text-cream-61 hover:text-cream"
+              }`}
+            >
+              {t.label}
+            </button>
+          ))}
         </nav>
       </header>
 
       <main className="min-h-0 flex-1">
-        {tab === "studio" ? <ChatView /> : <LibraryView />}
+        {tab === "studio" && <ChatView />}
+        {tab === "captions" && <CaptionsView />}
+        {tab === "library" && <LibraryView />}
       </main>
     </div>
   );

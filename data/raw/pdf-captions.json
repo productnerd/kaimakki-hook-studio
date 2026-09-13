@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Long Text Block Hook",
+    "family": "Curiosity Gap",
+    "trigger": "Long block takes ~15s to read, extending watch time",
+    "template": "[2-4 sentence setup: who is involved, what is about to happen, and why the outcome is uncertain]",
+    "why_it_works": "",
+    "examples": [],
+    "applied_examples": [],
+    "source": "ViralTikTokReelsChecklist_Download_.pdf (captions)"
+  },
+  {
+    "name": "This Is What We Do Every Time",
+    "family": "Relatability/POV",
+    "trigger": "Shared everyday situation makes viewer see themselves",
+    "template": "this is what we do every time [relatable recurring situation]",
+    "why_it_works": "",
+    "examples": ["this is what we do every time our daughter poops"],
+    "applied_examples": [],
+    "source": "ViralTikTokReelsChecklist_Download_.pdf (captions)"
+  },
+  {
+    "name": "If Brand Ads Were Honest",
+    "family": "Pattern Interrupt",
+    "trigger": "Parody title promises a brand truth nobody says",
+    "template": "If [brand] ads were honest [emoji]",
+    "why_it_works": "",
+    "examples": ["If Tesla ads were honest ⚡"],
+    "applied_examples": [],
+    "source": "ViralTikTokReelsChecklist_Download_.pdf (captions)"
+  },
+  {
+    "name": "Text Block Context Hook",
+    "family": "Curiosity Gap",
+    "trigger": "Unexpected combination hints a reaction is coming",
+    "template": "[Doing what] my [person] [unexpected thing].. [emoji]",
+    "why_it_works": "",
+    "examples": ["Making my wife PB&J Spaghetti.. 😳😂"],
+    "applied_examples": [],
+    "source": "The_Hook_Writing_Guide.pdf (captions)"
+  },
+  {
+    "name": "Headline Plus Backstory Subtitle",
+    "family": "Curiosity Gap",
+    "trigger": "Second text layer adds context and a secondary hook",
+    "template": "[Short headline hook block] / [one-line backstory explaining why this is happening]",
+    "why_it_works": "",
+    "examples": ["Making my wife PB&J Spaghetti.. 😳😂 / my pregnant wife started putting a 'craving' and 'yuck' list on the fridge"],
+    "applied_examples": [],
+    "source": "The_Hook_Writing_Guide.pdf (captions)"
+  },
+  {
+    "name": "My First Attempt At",
+    "family": "Story/In-Medias-Res",
+    "trigger": "Beginner stakes; viewer waits to see how it goes",
+    "template": "MY FIRST ATTEMPT AT [challenge/activity] [emoji]",
+    "why_it_works": "",
+    "examples": ["MY FIRST ATTEMPT AT COMPETITIVE GOLF 🫣"],
+    "applied_examples": [],
+    "source": "The_Hook_Writing_Guide.pdf (captions)"
+  }
+]
