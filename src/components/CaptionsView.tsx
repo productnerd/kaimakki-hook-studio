@@ -57,7 +57,7 @@ export default function CaptionsView() {
               </h1>
               <p className="mx-auto mt-3 max-w-md text-cream-61">
                 The text that sits on top of the video. One short block, does its job in the
-                three seconds it takes to read. Drop the brief and get {count} options.
+                three seconds it takes to read. Built on 446 caption templates from real reels.
               </p>
             </div>
           )}
@@ -85,7 +85,10 @@ export default function CaptionsView() {
                         <p className="text-[13px] font-medium leading-snug text-brown/70">{c.sub}</p>
                       )}
                     </div>
-                    <div className="mt-2 flex justify-end">
+                    <div className="mt-2 flex items-start justify-between gap-2">
+                      <span className="min-w-0 text-[11px] leading-snug text-cream-31">
+                        {c.template ? <>from: <span className="text-cream-61">{c.template}</span></> : null}
+                      </span>
                       <CopyButton text={c.sub ? `${c.text}\n${c.sub}` : c.text} />
                     </div>
                   </div>

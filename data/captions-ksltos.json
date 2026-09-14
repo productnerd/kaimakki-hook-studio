@@ -1,0 +1,5464 @@
+[
+ {
+  "id": "ksltos-065",
+  "template": "Talk while (everyday action)",
+  "example": "Talk while holding a matcha",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 9,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdI0AcASmKK/",
+   "https://www.instagram.com/ksltos/reel/DdH4G8fBp7h/",
+   "https://www.instagram.com/ksltos/reel/DdEpmBSB3f7/",
+   "https://www.instagram.com/ksltos/reel/DdCyhuhhK3K/",
+   "https://www.instagram.com/ksltos/reel/Dc_lLb-hK86/",
+   "https://www.instagram.com/ksltos/reel/Dc90Zo1BJQO/",
+   "https://www.instagram.com/ksltos/reel/Dc89g4LBMen/",
+   "https://www.instagram.com/ksltos/reel/Dc66d0ahGfS/",
+   "https://www.instagram.com/ksltos/reel/Dc50-JKyL8U/"
+  ]
+ },
+ {
+  "id": "ksltos-013",
+  "template": "Everything (color) is (adjective)",
+  "example": "Everything dark is yummy!",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 7,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdN3QPwyXcq/",
+   "https://www.instagram.com/ksltos/reel/DdL9fPvSs_c/",
+   "https://www.instagram.com/ksltos/reel/DdJYqJCSbsB/",
+   "https://www.instagram.com/ksltos/reel/DcQvzbaSAD1/",
+   "https://www.instagram.com/ksltos/reel/DcO9c19hyAZ/",
+   "https://www.instagram.com/ksltos/reel/DcKEnURSIZz/",
+   "https://www.instagram.com/ksltos/reel/DcKD-nLyZLR/"
+  ]
+ },
+ {
+  "id": "ksltos-014",
+  "template": "The sound of (X) VS the sound of (Y)",
+  "example": "The sound of water vs the sound of coffee",
+  "formats": [
+   "fill_in_the_blank",
+   "versus"
+  ],
+  "times_seen": 7,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdN3QPwyXcq/",
+   "https://www.instagram.com/ksltos/reel/DcSf_TWyrtO/",
+   "https://www.instagram.com/ksltos/reel/Dck6SooSpqT/",
+   "https://www.instagram.com/ksltos/reel/DcbF1EYSzTj/",
+   "https://www.instagram.com/ksltos/reel/DcaltmQSHpe/",
+   "https://www.instagram.com/ksltos/reel/DcQQKEbyBpK/",
+   "https://www.instagram.com/ksltos/reel/DcAkYEfyuPY/"
+  ]
+ },
+ {
+  "id": "ksltos-027",
+  "template": "POV: The most expensive (item) money cannot buy",
+  "example": "POV: The most expensive outfit money can't buy.",
+  "formats": [
+   "fill_in_the_blank",
+   "pov"
+  ],
+  "times_seen": 7,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdMcBaoB7PN/",
+   "https://www.instagram.com/ksltos/reel/Dc_OKzmSs1e/",
+   "https://www.instagram.com/ksltos/reel/DcXgihMy53C/",
+   "https://www.instagram.com/ksltos/reel/DcpGp9LTpom/",
+   "https://www.instagram.com/ksltos/reel/DcbFykyyMzH/",
+   "https://www.instagram.com/ksltos/reel/DcYhmIlyIM-/",
+   "https://www.instagram.com/ksltos/reel/DcYhkGeS18a/"
+  ]
+ },
+ {
+  "id": "ksltos-036",
+  "template": "This & no (thing)",
+  "example": "This & no return flight home",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 7,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdLljzByofQ/",
+   "https://www.instagram.com/ksltos/reel/DdJYqJCSbsB/",
+   "https://www.instagram.com/ksltos/reel/DcyTe-by3wo/",
+   "https://www.instagram.com/ksltos/reel/DczMqBGhaqp/",
+   "https://www.instagram.com/ksltos/reel/DcyTcnGSj9L/",
+   "https://www.instagram.com/ksltos/reel/DcxWrgZSZ6j/",
+   "https://www.instagram.com/ksltos/reel/DcVxebdSbxS/"
+  ]
+ },
+ {
+  "id": "ksltos-095",
+  "template": "POV: Teaching a 5-year-old how to (fix a problem)",
+  "example": "...how to deal with a hater",
+  "formats": [
+   "fill_in_the_blank",
+   "pov"
+  ],
+  "times_seen": 7,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdD0fgNy1L5/",
+   "https://www.instagram.com/ksltos/reel/Dc8QitfSHe-/",
+   "https://www.instagram.com/ksltos/reel/Dc8H2QjSpX-/",
+   "https://www.instagram.com/ksltos/reel/Dc6AVfyySxP/",
+   "https://www.instagram.com/ksltos/reel/DclCsZ2y45E/",
+   "https://www.instagram.com/ksltos/reel/DckndLbyQow/",
+   "https://www.instagram.com/ksltos/reel/Dcfj2jESH-p/"
+  ]
+ },
+ {
+  "id": "ksltos-116",
+  "template": "You, me & (item)",
+  "example": "You, me & medium rare steak",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 6,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc_OKzmSs1e/",
+   "https://www.instagram.com/ksltos/reel/DcXGzNcyCB3/",
+   "https://www.instagram.com/ksltos/reel/DcUA1jch_zc/",
+   "https://www.instagram.com/ksltos/reel/DcVQfEPSRHG/",
+   "https://www.instagram.com/ksltos/reel/DcnlHoPynB1/",
+   "https://www.instagram.com/ksltos/reel/Dck6SooSpqT/"
+  ]
+ },
+ {
+  "id": "ksltos-256",
+  "template": "My wife: stop buying nonsense. Me:",
+  "example": "",
+  "formats": [
+   "me_punchline"
+  ],
+  "times_seen": 6,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcjKrfxBMyO/",
+   "https://www.instagram.com/ksltos/reel/DciNh5kyYvr/",
+   "https://www.instagram.com/ksltos/reel/DcOPBDUyMf5/",
+   "https://www.instagram.com/ksltos/reel/DcO9c19hyAZ/",
+   "https://www.instagram.com/ksltos/reel/DcOO7OtyiAw/",
+   "https://www.instagram.com/ksltos/reel/DcIxsjCSixD/"
+  ]
+ },
+ {
+  "id": "ksltos-035",
+  "template": "X kg of (item) VS Y kg of (item)",
+  "example": "2kg of fat vs 2kg of muscle",
+  "formats": [
+   "fill_in_the_blank",
+   "versus"
+  ],
+  "times_seen": 5,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdL9fPvSs_c/",
+   "https://www.instagram.com/ksltos/reel/DdEAqkSSVX5/",
+   "https://www.instagram.com/ksltos/reel/DcXgihMy53C/",
+   "https://www.instagram.com/ksltos/reel/DcTbotySCQY/",
+   "https://www.instagram.com/ksltos/reel/DclxvgIBFyn/"
+  ]
+ },
+ {
+  "id": "ksltos-050",
+  "template": "(Person) maxxing",
+  "example": "Dad maxxing",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 5,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdKJfathDO6/",
+   "https://www.instagram.com/ksltos/reel/DcbF1EYSzTj/",
+   "https://www.instagram.com/ksltos/reel/DcYhmIlyIM-/",
+   "https://www.instagram.com/ksltos/reel/DcYhkGeS18a/",
+   "https://www.instagram.com/ksltos/reel/DcNLGUiyS7d/"
+  ]
+ },
+ {
+  "id": "ksltos-091",
+  "template": "This is someone's (item)",
+  "example": "This is someone's fridge.",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 5,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdEXCVYy7yt/",
+   "https://www.instagram.com/ksltos/reel/DcRfcVNBi11/",
+   "https://www.instagram.com/ksltos/reel/DcahEnFSDhX/",
+   "https://www.instagram.com/ksltos/reel/DcDhTU5SF_2/",
+   "https://www.instagram.com/ksltos/reel/DcDfOaMy34P/"
+  ]
+ },
+ {
+  "id": "ksltos-092",
+  "template": "Rating (things) I met",
+  "example": "Rating animals I met",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 5,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdEXCVYy7yt/",
+   "https://www.instagram.com/ksltos/reel/DcSf-IVSeEW/",
+   "https://www.instagram.com/ksltos/reel/DcQQKEbyBpK/",
+   "https://www.instagram.com/ksltos/reel/DcPfRUHyrVI/",
+   "https://www.instagram.com/ksltos/reel/DcKwsM2SkA4/"
+  ]
+ },
+ {
+  "id": "ksltos-205",
+  "template": "(Person) experiences (thing) for the first time",
+  "example": "London man experiences sun for the first time",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 5,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcSf_TWyrtO/",
+   "https://www.instagram.com/ksltos/reel/DcbF1EYSzTj/",
+   "https://www.instagram.com/ksltos/reel/DcPfRUHyrVI/",
+   "https://www.instagram.com/ksltos/reel/DcDrYtmSboK/",
+   "https://www.instagram.com/ksltos/reel/DcDrNo2y6_7/"
+  ]
+ },
+ {
+  "id": "ksltos-005",
+  "template": "How to kidnap me",
+  "example": "",
+  "formats": [],
+  "times_seen": 4,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdOnt6gyGPR/",
+   "https://www.instagram.com/ksltos/reel/DcRfcVNBi11/",
+   "https://www.instagram.com/ksltos/reel/DcFefECSlvR/",
+   "https://www.instagram.com/ksltos/reel/DcFeV07yVcf/"
+  ]
+ },
+ {
+  "id": "ksltos-006",
+  "template": "My dad taught me this",
+  "example": "My uncle taught me this",
+  "formats": [],
+  "times_seen": 4,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdOnt6gyGPR/",
+   "https://www.instagram.com/ksltos/reel/DcTbotySCQY/",
+   "https://www.instagram.com/ksltos/reel/Dcjnzxfhdz3/",
+   "https://www.instagram.com/ksltos/reel/DcaE354ygYY/"
+  ]
+ },
+ {
+  "id": "ksltos-022",
+  "template": "Thank God I'm not a (person)",
+  "example": "Thank God I'm not vegan",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 4,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdMwlTkhOEF/",
+   "https://www.instagram.com/ksltos/reel/DcnlHoPynB1/",
+   "https://www.instagram.com/ksltos/reel/DclxvgIBFyn/",
+   "https://www.instagram.com/ksltos/reel/DcdXgzOyW26/"
+  ]
+ },
+ {
+  "id": "ksltos-030",
+  "template": "Aura, Laura",
+  "example": "AURA",
+  "formats": [],
+  "times_seen": 4,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdMLA3SyyEI/",
+   "https://www.instagram.com/ksltos/reel/DcTBHw9yHod/",
+   "https://www.instagram.com/ksltos/reel/DcaltmQSHpe/",
+   "https://www.instagram.com/ksltos/reel/DcKwsM2SkA4/"
+  ]
+ },
+ {
+  "id": "ksltos-034",
+  "template": "I'm just trying to (action) VS my IG feed",
+  "example": "POV: I'm just trying to eat healthy and stay in a calorie deficit VS My IG feed",
+  "formats": [
+   "fill_in_the_blank",
+   "versus"
+  ],
+  "times_seen": 4,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdL9fPvSs_c/",
+   "https://www.instagram.com/ksltos/reel/DcmMI2YBWQl/",
+   "https://www.instagram.com/ksltos/reel/DcFefECSlvR/",
+   "https://www.instagram.com/ksltos/reel/DcFeV07yVcf/"
+  ]
+ },
+ {
+  "id": "ksltos-040",
+  "template": "Bro had one job...",
+  "example": "",
+  "formats": [],
+  "times_seen": 4,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdKz0IdhtNs/",
+   "https://www.instagram.com/ksltos/reel/DcjM6v9h7pe/",
+   "https://www.instagram.com/ksltos/reel/DcOO7OtyiAw/",
+   "https://www.instagram.com/ksltos/reel/DcFt86cyAP9/"
+  ]
+ },
+ {
+  "id": "ksltos-042",
+  "template": "Immediately yes",
+  "example": "",
+  "formats": [],
+  "times_seen": 4,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdKz0IdhtNs/",
+   "https://www.instagram.com/ksltos/reel/DcVGurgSGjy/",
+   "https://www.instagram.com/ksltos/reel/DcUA1jch_zc/",
+   "https://www.instagram.com/ksltos/reel/DcbFykyyMzH/"
+  ]
+ },
+ {
+  "id": "ksltos-044",
+  "template": "Be realistic. No",
+  "example": "",
+  "formats": [],
+  "times_seen": 4,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdKfOavhJQk/",
+   "https://www.instagram.com/ksltos/reel/DdKJfathDO6/",
+   "https://www.instagram.com/ksltos/reel/DcDhTU5SF_2/",
+   "https://www.instagram.com/ksltos/reel/DcDfOaMy34P/"
+  ]
+ },
+ {
+  "id": "ksltos-045",
+  "template": "Send this to someone you wanna go on a (item) date with",
+  "example": "Send this to someone you wanna go on a sushi date with",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 4,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdKfOavhJQk/",
+   "https://www.instagram.com/ksltos/reel/DcUA1jch_zc/",
+   "https://www.instagram.com/ksltos/reel/DcVQfEPSRHG/",
+   "https://www.instagram.com/ksltos/reel/Dcjnzxfhdz3/"
+  ]
+ },
+ {
+  "id": "ksltos-087",
+  "template": "The only sorry I accept",
+  "example": "",
+  "formats": [],
+  "times_seen": 4,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdEXCVYy7yt/",
+   "https://www.instagram.com/ksltos/reel/DcTbotySCQY/",
+   "https://www.instagram.com/ksltos/reel/DcpGp9LTpom/",
+   "https://www.instagram.com/ksltos/reel/DcbF1EYSzTj/"
+  ]
+ },
+ {
+  "id": "ksltos-093",
+  "template": "Bro, (place) is not real",
+  "example": "Bro, China is not real",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 4,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdEXCVYy7yt/",
+   "https://www.instagram.com/ksltos/reel/DcVgVTISxPd/",
+   "https://www.instagram.com/ksltos/reel/DcVQfEPSRHG/",
+   "https://www.instagram.com/ksltos/reel/DchOkm5yPzI/"
+  ]
+ },
+ {
+  "id": "ksltos-182",
+  "template": "No, I don't want a fucking (item)",
+  "example": "No, I don't want a fucking California roll",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 4,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcuDDRxh5Eg/",
+   "https://www.instagram.com/ksltos/reel/DctKNHsSPjV/",
+   "https://www.instagram.com/ksltos/reel/DcNxBkJyFGH/",
+   "https://www.instagram.com/ksltos/reel/DcNcBW5yGsn/"
+  ]
+ },
+ {
+  "id": "ksltos-204",
+  "template": "The biggest flex in my (place)",
+  "example": "The biggest flex in my kitchen:",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 4,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcSf_TWyrtO/",
+   "https://www.instagram.com/ksltos/reel/DcahEnFSDhX/",
+   "https://www.instagram.com/ksltos/reel/DcNw5P3SHlK/",
+   "https://www.instagram.com/ksltos/reel/DcNagKjS97b/"
+  ]
+ },
+ {
+  "id": "ksltos-252",
+  "template": "This is my Sephora",
+  "example": "",
+  "formats": [],
+  "times_seen": 4,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DclxvgIBFyn/",
+   "https://www.instagram.com/ksltos/reel/DcOPBDUyMf5/",
+   "https://www.instagram.com/ksltos/reel/DcOtej8hnam/",
+   "https://www.instagram.com/ksltos/reel/DcFCpoQSMD1/"
+  ]
+ },
+ {
+  "id": "ksltos-255",
+  "template": "Perfect gift for every X years old kid",
+  "example": "Perfect gift for every 35 year old kid",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 4,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dck6SooSpqT/",
+   "https://www.instagram.com/ksltos/reel/DcjM6v9h7pe/",
+   "https://www.instagram.com/ksltos/reel/DcQQKEbyBpK/",
+   "https://www.instagram.com/ksltos/reel/DcH1tqsSK2e/"
+  ]
+ },
+ {
+  "id": "ksltos-001",
+  "template": "No (thing) needed",
+  "example": "No cameraman needed",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdO8J6chTUu/",
+   "https://www.instagram.com/ksltos/reel/DcNxBkJyFGH/",
+   "https://www.instagram.com/ksltos/reel/DcNcBW5yGsn/"
+  ]
+ },
+ {
+  "id": "ksltos-004",
+  "template": "POV: The average (person) in (place)",
+  "example": "POV: the average grandparent in China",
+  "formats": [
+   "fill_in_the_blank",
+   "pov"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdO8J6chTUu/",
+   "https://www.instagram.com/ksltos/reel/DdMLA3SyyEI/",
+   "https://www.instagram.com/ksltos/reel/DcGlHfQy9Oe/"
+  ]
+ },
+ {
+  "id": "ksltos-007",
+  "template": "10/10 (item)",
+  "example": "10/10 bench",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdOnt6gyGPR/",
+   "https://www.instagram.com/ksltos/reel/DcXGzNcyCB3/",
+   "https://www.instagram.com/ksltos/reel/DcVgVTISxPd/"
+  ]
+ },
+ {
+  "id": "ksltos-009",
+  "template": "POV: You unlock (thing) premium",
+  "example": "POV: you unlock Instagram Premium",
+  "formats": [
+   "fill_in_the_blank",
+   "pov"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdOSmSRyjD6/",
+   "https://www.instagram.com/ksltos/reel/DcbFykyyMzH/",
+   "https://www.instagram.com/ksltos/reel/DcYOE42yprU/"
+  ]
+ },
+ {
+  "id": "ksltos-010",
+  "template": "(Thing) premium",
+  "example": "Earth premium",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdN3QPwyXcq/",
+   "https://www.instagram.com/ksltos/reel/DdAFLJVBvjP/",
+   "https://www.instagram.com/ksltos/reel/DdABPNrBgtR/"
+  ]
+ },
+ {
+  "id": "ksltos-011",
+  "template": "I'm gonna save you X minutes off your next (task) with Y simple tips",
+  "example": "I'm going to save you 30 minutes off your next workout with 3 simple tips",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdN3QPwyXcq/",
+   "https://www.instagram.com/ksltos/reel/Dbwyl6SSM8q/",
+   "https://www.instagram.com/ksltos/reel/DbszDnjS8Nm/"
+  ]
+ },
+ {
+  "id": "ksltos-012",
+  "template": "Want to be the first (dream result) in your family?",
+  "example": "Wanna be the first millionaire in your family?",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdN3QPwyXcq/",
+   "https://www.instagram.com/ksltos/reel/DbzB1wwys9z/",
+   "https://www.instagram.com/ksltos/reel/Dbx8uPESsFc/"
+  ]
+ },
+ {
+  "id": "ksltos-023",
+  "template": "When you're having a really bad day but you don't do drugs:",
+  "example": "",
+  "formats": [],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdMwlTkhOEF/",
+   "https://www.instagram.com/ksltos/reel/DcOO7OtyiAw/",
+   "https://www.instagram.com/ksltos/reel/DcIEZHcSovQ/"
+  ]
+ },
+ {
+  "id": "ksltos-024",
+  "template": "My two personalities",
+  "example": "",
+  "formats": [],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdMwlTkhOEF/",
+   "https://www.instagram.com/ksltos/reel/DcwZhdoBCGB/",
+   "https://www.instagram.com/ksltos/reel/Dcvt8kmSYdH/"
+  ]
+ },
+ {
+  "id": "ksltos-028",
+  "template": "Normal people VS Me",
+  "example": "",
+  "formats": [
+   "versus"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdMcBaoB7PN/",
+   "https://www.instagram.com/ksltos/reel/DcVgVTISxPd/",
+   "https://www.instagram.com/ksltos/reel/Dcjnzxfhdz3/"
+  ]
+ },
+ {
+  "id": "ksltos-041",
+  "template": "If you want to (action), text me",
+  "example": "If you want to take a boat, text me.",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdKz0IdhtNs/",
+   "https://www.instagram.com/ksltos/reel/DdKfOavhJQk/",
+   "https://www.instagram.com/ksltos/reel/Dch8D7ySBdw/"
+  ]
+ },
+ {
+  "id": "ksltos-051",
+  "template": "Bro is the worst (job)",
+  "example": "Bro is the worst DJ",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdKJfathDO6/",
+   "https://www.instagram.com/ksltos/reel/Dc9Y6LOhe99/",
+   "https://www.instagram.com/ksltos/reel/Db-bpeyy0QP/"
+  ]
+ },
+ {
+  "id": "ksltos-052",
+  "template": "To me this is easier than (action)",
+  "example": "To me this is easier than sending an email",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdKJfathDO6/",
+   "https://www.instagram.com/ksltos/reel/DdJ08VVBBcQ/",
+   "https://www.instagram.com/ksltos/reel/Dc8dBKPS5K-/"
+  ]
+ },
+ {
+  "id": "ksltos-056",
+  "template": "The hardest choice: six-pack or 6-pack",
+  "example": "",
+  "formats": [],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdJ08VVBBcQ/",
+   "https://www.instagram.com/ksltos/reel/DcbF1EYSzTj/",
+   "https://www.instagram.com/ksltos/reel/DcFt86cyAP9/"
+  ]
+ },
+ {
+  "id": "ksltos-057",
+  "template": "Yo film this shit",
+  "example": "",
+  "formats": [],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdJ08VVBBcQ/",
+   "https://www.instagram.com/ksltos/reel/DcTBHw9yHod/",
+   "https://www.instagram.com/ksltos/reel/DciNh5kyYvr/"
+  ]
+ },
+ {
+  "id": "ksltos-060",
+  "template": "Instagram is weird. Cause I can just post a photo of (item) and a bunch of dudes will comment “Hell Yeah”",
+  "example": "...a photo of a White Monster next to Mt Fuji",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdJcy6tSRQZ/",
+   "https://www.instagram.com/ksltos/reel/DcPfRUHyrVI/",
+   "https://www.instagram.com/ksltos/reel/DcGFVpfSGKD/"
+  ]
+ },
+ {
+  "id": "ksltos-062",
+  "template": "Some (people) are gonna hate me for this",
+  "example": "Some parents are gonna hate me for this",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdJcy6tSRQZ/",
+   "https://www.instagram.com/ksltos/reel/DcDhTU5SF_2/",
+   "https://www.instagram.com/ksltos/reel/DcDfOaMy34P/"
+  ]
+ },
+ {
+  "id": "ksltos-089",
+  "template": "POV: You finally find this in (place)",
+  "example": "POV: you finally find this in Japan",
+  "formats": [
+   "fill_in_the_blank",
+   "pov"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdEXCVYy7yt/",
+   "https://www.instagram.com/ksltos/reel/DcmMI2YBWQl/",
+   "https://www.instagram.com/ksltos/reel/DcGFVpfSGKD/"
+  ]
+ },
+ {
+  "id": "ksltos-094",
+  "template": "Who needs (item) when you have (better item)?",
+  "example": "Who needs candy when you have fruit?",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdEAqkSSVX5/",
+   "https://www.instagram.com/ksltos/reel/DcXGzNcyCB3/",
+   "https://www.instagram.com/ksltos/reel/DcaE354ygYY/"
+  ]
+ },
+ {
+  "id": "ksltos-181",
+  "template": "Respectfully, wtf is (item)?",
+  "example": "Respectfully, WTF is rice cereal?",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcuDDRxh5Eg/",
+   "https://www.instagram.com/ksltos/reel/DcTBHw9yHod/",
+   "https://www.instagram.com/ksltos/reel/DcbFykyyMzH/"
+  ]
+ },
+ {
+  "id": "ksltos-198",
+  "template": "Can you call the cops on the (thing)?",
+  "example": "Can you call the cops on a crab???",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcUA1jch_zc/",
+   "https://www.instagram.com/ksltos/reel/DcjKrfxBMyO/",
+   "https://www.instagram.com/ksltos/reel/DcaltmQSHpe/"
+  ]
+ },
+ {
+  "id": "ksltos-202",
+  "template": "I'm sorry, but I could never be a (person)",
+  "example": "I'm sorry but I just could never be a vegetarian",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcSf_TWyrtO/",
+   "https://www.instagram.com/ksltos/reel/Dck6SooSpqT/",
+   "https://www.instagram.com/ksltos/reel/DcD6llwSHu9/"
+  ]
+ },
+ {
+  "id": "ksltos-206",
+  "template": "If you can work 8 hours for someone else... you can work 1 hour on yourself",
+  "example": "",
+  "formats": [],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcSf-IVSeEW/",
+   "https://www.instagram.com/ksltos/reel/DcQRCA_SyhP/",
+   "https://www.instagram.com/ksltos/reel/DcFCpoQSMD1/"
+  ]
+ },
+ {
+  "id": "ksltos-207",
+  "template": "Therapy",
+  "example": "",
+  "formats": [],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcSf-IVSeEW/",
+   "https://www.instagram.com/ksltos/reel/DcQvzbaSAD1/",
+   "https://www.instagram.com/ksltos/reel/DcLUmDjSFS6/"
+  ]
+ },
+ {
+  "id": "ksltos-209",
+  "template": "Dream (item) as a kid VS dream (item) now",
+  "example": "Dream fridge as a kid VS dream fridge now",
+  "formats": [
+   "fill_in_the_blank",
+   "versus"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcSf-IVSeEW/",
+   "https://www.instagram.com/ksltos/reel/DcQRCA_SyhP/",
+   "https://www.instagram.com/ksltos/reel/DcHUdOvyQeY/"
+  ]
+ },
+ {
+  "id": "ksltos-210",
+  "template": "It's okay to have a third (item). Some people do drugs.",
+  "example": "It's ok to have a third coffee. Some people do drugs.",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcRfcVNBi11/",
+   "https://www.instagram.com/ksltos/reel/DcFefECSlvR/",
+   "https://www.instagram.com/ksltos/reel/DcFeV07yVcf/"
+  ]
+ },
+ {
+  "id": "ksltos-211",
+  "template": "POV: you're a (rare person) in (place)",
+  "example": "POV: you're a Black woman in China",
+  "formats": [
+   "fill_in_the_blank",
+   "pov"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcRfcVNBi11/",
+   "https://www.instagram.com/ksltos/reel/DcOO7OtyiAw/",
+   "https://www.instagram.com/ksltos/reel/DcHUdOvyQeY/"
+  ]
+ },
+ {
+  "id": "ksltos-212",
+  "template": "Me ignoring (famous place) because I'm a local now (Day X in (place))",
+  "example": "Me ignoring Big Ben (Day 2 in London)",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcRfcVNBi11/",
+   "https://www.instagram.com/ksltos/reel/DcbFykyyMzH/",
+   "https://www.instagram.com/ksltos/reel/DcGFVpfSGKD/"
+  ]
+ },
+ {
+  "id": "ksltos-226",
+  "template": "I went to (school type), so you don't have to",
+  "example": "I went to pastry school, so you don't have to.",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db0aITUy0xS/",
+   "https://www.instagram.com/ksltos/reel/Db_rcCMyyyd/",
+   "https://www.instagram.com/ksltos/reel/DbzPrYASH76/"
+  ]
+ },
+ {
+  "id": "ksltos-246",
+  "template": "Nobody talks about how hard it is to go from this... to this",
+  "example": "",
+  "formats": [],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcpGp9LTpom/",
+   "https://www.instagram.com/ksltos/reel/DcahEnFSDhX/",
+   "https://www.instagram.com/ksltos/reel/DcFCpoQSMD1/"
+  ]
+ },
+ {
+  "id": "ksltos-257",
+  "template": "The concept... VS The product",
+  "example": "",
+  "formats": [
+   "versus"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcjKrfxBMyO/",
+   "https://www.instagram.com/ksltos/reel/DcQQKEbyBpK/",
+   "https://www.instagram.com/ksltos/reel/DcIEZHcSovQ/"
+  ]
+ },
+ {
+  "id": "ksltos-259",
+  "template": "Wait. I'm embarrassed to (action) in public",
+  "example": "Wait. I'm embarrassed to take pictures in public.",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcjKrfxBMyO/",
+   "https://www.instagram.com/ksltos/reel/DcOPBDUyMf5/",
+   "https://www.instagram.com/ksltos/reel/DcMQJXphfWc/"
+  ]
+ },
+ {
+  "id": "ksltos-261",
+  "template": "She/He is so lucky",
+  "example": "",
+  "formats": [],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dcjnzxfhdz3/",
+   "https://www.instagram.com/ksltos/reel/DcbIz81hRXl/",
+   "https://www.instagram.com/ksltos/reel/DcZQte_hHGS/"
+  ]
+ },
+ {
+  "id": "ksltos-262",
+  "template": "Me at X am/pm",
+  "example": "Me at 6:57 am",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dcjnzxfhdz3/",
+   "https://www.instagram.com/ksltos/reel/DcbIz81hRXl/",
+   "https://www.instagram.com/ksltos/reel/DcZQte_hHGS/"
+  ]
+ },
+ {
+  "id": "ksltos-266",
+  "template": "(Thing) budget: $0",
+  "example": "Marketing budget: $0",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DciNh5kyYvr/",
+   "https://www.instagram.com/ksltos/reel/DcbIz81hRXl/",
+   "https://www.instagram.com/ksltos/reel/DcZQte_hHGS/"
+  ]
+ },
+ {
+  "id": "ksltos-267",
+  "template": "I do this when I (action)",
+  "example": "I do this when I travel",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DciNh5kyYvr/",
+   "https://www.instagram.com/ksltos/reel/DcbIz81hRXl/",
+   "https://www.instagram.com/ksltos/reel/DcZQte_hHGS/"
+  ]
+ },
+ {
+  "id": "ksltos-286",
+  "template": "The perfect (thing) doesn't exist...",
+  "example": "The perfect bathroom doesn't exist...",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcahEnFSDhX/",
+   "https://www.instagram.com/ksltos/reel/DcDhTU5SF_2/",
+   "https://www.instagram.com/ksltos/reel/DcDfOaMy34P/"
+  ]
+ },
+ {
+  "id": "ksltos-287",
+  "template": "Life with a (person)",
+  "example": "",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcaltmQSHpe/",
+   "https://www.instagram.com/ksltos/reel/DcYhmIlyIM-/",
+   "https://www.instagram.com/ksltos/reel/DcYhkGeS18a/"
+  ]
+ },
+ {
+  "id": "ksltos-306",
+  "template": "How life feels when you have a (item)",
+  "example": "How life feels when you have a MacBook: I'm so rich and I deserve only the best",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcQvzbaSAD1/",
+   "https://www.instagram.com/ksltos/reel/DcQRCA_SyhP/",
+   "https://www.instagram.com/ksltos/reel/DcHUdOvyQeY/"
+  ]
+ },
+ {
+  "id": "ksltos-307",
+  "template": "The best thing I've spent my adult money on...",
+  "example": "",
+  "formats": [],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcQvzbaSAD1/",
+   "https://www.instagram.com/ksltos/reel/DcISwbNS0R9/",
+   "https://www.instagram.com/ksltos/reel/DcIEZHcSovQ/"
+  ]
+ },
+ {
+  "id": "ksltos-309",
+  "template": "Be a traveler, not a tourist",
+  "example": "",
+  "formats": [],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcQRCA_SyhP/",
+   "https://www.instagram.com/ksltos/reel/DcDrYtmSboK/",
+   "https://www.instagram.com/ksltos/reel/DcDrNo2y6_7/"
+  ]
+ },
+ {
+  "id": "ksltos-311",
+  "template": "Here is the proof you can (action) without giving up (thing)",
+  "example": "Here is proof you can eat healthy without giving up flavor.",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcOPBDUyMf5/",
+   "https://www.instagram.com/ksltos/reel/DcDrYtmSboK/",
+   "https://www.instagram.com/ksltos/reel/DcDrNo2y6_7/"
+  ]
+ },
+ {
+  "id": "ksltos-312",
+  "template": "If you know you know...",
+  "example": "",
+  "formats": [],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcOPBDUyMf5/",
+   "https://www.instagram.com/ksltos/reel/DcKEnURSIZz/",
+   "https://www.instagram.com/ksltos/reel/DcKD-nLyZLR/"
+  ]
+ },
+ {
+  "id": "ksltos-313",
+  "template": "This & better (result)",
+  "example": "This & better sleep",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcO9c19hyAZ/",
+   "https://www.instagram.com/ksltos/reel/DcNw5P3SHlK/",
+   "https://www.instagram.com/ksltos/reel/DcNagKjS97b/"
+  ]
+ },
+ {
+  "id": "ksltos-315",
+  "template": "The answer to every problem is... a new (item)",
+  "example": "A new bag. Bad day at work? A new bag.",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcO9c19hyAZ/",
+   "https://www.instagram.com/ksltos/reel/DcOO7OtyiAw/",
+   "https://www.instagram.com/ksltos/reel/DcAkYEfyuPY/"
+  ]
+ },
+ {
+  "id": "ksltos-316",
+  "template": "Maybe I was just born to (action)?",
+  "example": "",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcOtej8hnam/",
+   "https://www.instagram.com/ksltos/reel/DcFefECSlvR/",
+   "https://www.instagram.com/ksltos/reel/DcFeV07yVcf/"
+  ]
+ },
+ {
+  "id": "ksltos-360",
+  "template": "Stop using (item) for (result)",
+  "example": "Stop using hashtags for better views",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db_rcCMyyyd/",
+   "https://www.instagram.com/ksltos/reel/DbvKKEUSWA_/",
+   "https://www.instagram.com/ksltos/reel/Dbuggx0S4x0/"
+  ]
+ },
+ {
+  "id": "ksltos-403",
+  "template": "Just because you do (action) doesn't make you a good (result)",
+  "example": "Just because you buy flowers doesn't make you a good boyfriend",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dbwyl6SSM8q/",
+   "https://www.instagram.com/ksltos/reel/DbvKiM4y_IM/",
+   "https://www.instagram.com/ksltos/reel/Dbuggx0S4x0/"
+  ]
+ },
+ {
+  "id": "ksltos-405",
+  "template": "If you don't have (item), do (action)",
+  "example": "If you don't have a leg press machine, do goblet squats",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 3,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dbwyl6SSM8q/",
+   "https://www.instagram.com/ksltos/reel/DbvKKEUSWA_/",
+   "https://www.instagram.com/ksltos/reel/DbpeL9GS5bV/"
+  ]
+ },
+ {
+  "id": "ksltos-002",
+  "template": "X missed calls. Y emails. Me:",
+  "example": "75 missed calls. 109 emails. Me:",
+  "formats": [
+   "fill_in_the_blank",
+   "me_punchline"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdO8J6chTUu/",
+   "https://www.instagram.com/ksltos/reel/DdJH6erySCX/"
+  ]
+ },
+ {
+  "id": "ksltos-003",
+  "template": "She's a girl. She cannot even...",
+  "example": "She can",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdO8J6chTUu/",
+   "https://www.instagram.com/ksltos/reel/DdINV2vBoL8/"
+  ]
+ },
+ {
+  "id": "ksltos-008",
+  "template": "Happy (person), happy life I guess",
+  "example": "Happy wife, happy life I guess...",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdOnt6gyGPR/",
+   "https://www.instagram.com/ksltos/reel/DcKwsM2SkA4/"
+  ]
+ },
+ {
+  "id": "ksltos-015",
+  "template": "How life feels when the red flag is you",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdN3QPwyXcq/",
+   "https://www.instagram.com/ksltos/reel/DcxWrgZSZ6j/"
+  ]
+ },
+ {
+  "id": "ksltos-016",
+  "template": "Turn your (item) into...",
+  "example": "Turn your dried mango into...",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdN3QPwyXcq/",
+   "https://www.instagram.com/ksltos/reel/Dc8dBKPS5K-/"
+  ]
+ },
+ {
+  "id": "ksltos-017",
+  "template": "POV: every (person)'s dream activity",
+  "example": "POV: every guy's dream activity",
+  "formats": [
+   "fill_in_the_blank",
+   "pov"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdN3QPwyXcq/",
+   "https://www.instagram.com/ksltos/reel/DcgRRHWyul5/"
+  ]
+ },
+ {
+  "id": "ksltos-018",
+  "template": "POV: (thing) is only boring if you make it boring",
+  "example": "POV: marriage is only boring if you make it boring",
+  "formats": [
+   "fill_in_the_blank",
+   "pov"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdNFOvMh0pC/",
+   "https://www.instagram.com/ksltos/reel/DcwZhdoBCGB/"
+  ]
+ },
+ {
+  "id": "ksltos-019",
+  "template": "(Item) for X dollars in (place)",
+  "example": "Half a watermelon for $1 in Bangkok",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdNFOvMh0pC/",
+   "https://www.instagram.com/ksltos/reel/DcwZhdoBCGB/"
+  ]
+ },
+ {
+  "id": "ksltos-020",
+  "template": "POV: Peak male activity",
+  "example": "",
+  "formats": [
+   "pov"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdNFOvMh0pC/",
+   "https://www.instagram.com/ksltos/reel/DciNh5kyYvr/"
+  ]
+ },
+ {
+  "id": "ksltos-021",
+  "template": "The exact (skill) that got me (dream result)",
+  "example": "The exact mindset that got me to 6 million+ followers",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdNFOvMh0pC/",
+   "https://www.instagram.com/ksltos/reel/DcVxebdSbxS/"
+  ]
+ },
+ {
+  "id": "ksltos-025",
+  "template": "(Things) girls hate vs (things) girls love",
+  "example": "Outfits girls hate vs outfits girls love",
+  "formats": [
+   "fill_in_the_blank",
+   "versus"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdMwlTkhOEF/",
+   "https://www.instagram.com/ksltos/reel/DcgRRHWyul5/"
+  ]
+ },
+ {
+  "id": "ksltos-026",
+  "template": "(Item) that can make you (result) in (time)",
+  "example": "AIs that can make you $10K in a weekend",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdMcBaoB7PN/",
+   "https://www.instagram.com/ksltos/reel/Dc375fThAaz/"
+  ]
+ },
+ {
+  "id": "ksltos-029",
+  "template": "If not the (item), what are you doing in (place)? Literally: us",
+  "example": "If not the beach, what are you doing in Bali? Literally us:",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdMcBaoB7PN/",
+   "https://www.instagram.com/ksltos/reel/DctoK-VhXeR/"
+  ]
+ },
+ {
+  "id": "ksltos-031",
+  "template": "Forget expensive jewelry... (people) want this",
+  "example": "Forget expensive jewelry... dog moms want THIS",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdMLA3SyyEI/",
+   "https://www.instagram.com/ksltos/reel/DcdXgzOyW26/"
+  ]
+ },
+ {
+  "id": "ksltos-032",
+  "template": "This is genius",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdMLA3SyyEI/",
+   "https://www.instagram.com/ksltos/reel/DcaE354ygYY/"
+  ]
+ },
+ {
+  "id": "ksltos-033",
+  "template": "New (item) just dropped",
+  "example": "New creature just dropped",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdL9fPvSs_c/",
+   "https://www.instagram.com/ksltos/reel/Dc375fThAaz/"
+  ]
+ },
+ {
+  "id": "ksltos-037",
+  "template": "How (action) sounds to me",
+  "example": "How swim at night sounds to me",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdLljzByofQ/",
+   "https://www.instagram.com/ksltos/reel/Dc1N_LMhKt9/"
+  ]
+ },
+ {
+  "id": "ksltos-038",
+  "template": "Your dream (result) requires (item) btw",
+  "example": "Your dream physique requires real food btw",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdLljzByofQ/",
+   "https://www.instagram.com/ksltos/reel/Dc-_n0pSUKj/"
+  ]
+ },
+ {
+  "id": "ksltos-039",
+  "template": "Basic human needs. 1: water 2: oxygen 3: (item)",
+  "example": "3: the matcha flight",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdLljzByofQ/",
+   "https://www.instagram.com/ksltos/reel/DdINV2vBoL8/"
+  ]
+ },
+ {
+  "id": "ksltos-043",
+  "template": "I wish I did this sooner",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdKz0IdhtNs/",
+   "https://www.instagram.com/ksltos/reel/DcWqM3eBCk3/"
+  ]
+ },
+ {
+  "id": "ksltos-046",
+  "template": "The (thing) I crave",
+  "example": "The calm I crave",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdKfOavhJQk/",
+   "https://www.instagram.com/ksltos/reel/DcuDDRxh5Eg/"
+  ]
+ },
+ {
+  "id": "ksltos-047",
+  "template": "You're watching the (thing) with no trending audio",
+  "example": "You're watching Hyrox with no trending audio.",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdJYqJCSbsB/",
+   "https://www.instagram.com/ksltos/reel/DcY4r5shL8s/"
+  ]
+ },
+ {
+  "id": "ksltos-048",
+  "template": "Boys go to (place). Men go to (place).",
+  "example": "Boys go to Bali... Men go to Kazakhstan",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdJYqJCSbsB/",
+   "https://www.instagram.com/ksltos/reel/DctoK-VhXeR/"
+  ]
+ },
+ {
+  "id": "ksltos-049",
+  "template": "Did you know this hack?",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdJYqJCSbsB/",
+   "https://www.instagram.com/ksltos/reel/DdJH6erySCX/"
+  ]
+ },
+ {
+  "id": "ksltos-053",
+  "template": "(Dream result) in (time) from (item)",
+  "example": "$150,000 in 4 days from a $57 product",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdKJfathDO6/",
+   "https://www.instagram.com/ksltos/reel/Dc4XbP0Btxj/"
+  ]
+ },
+ {
+  "id": "ksltos-054",
+  "template": "I was not prepared for what happened next...",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdJ08VVBBcQ/",
+   "https://www.instagram.com/ksltos/reel/Dc9Y6LOhe99/"
+  ]
+ },
+ {
+  "id": "ksltos-055",
+  "template": "I dare you not to smile during the next X seconds",
+  "example": "...during the next 60 seconds (adventure cat edition)",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdJ08VVBBcQ/",
+   "https://www.instagram.com/ksltos/reel/DdFS0hShelJ/"
+  ]
+ },
+ {
+  "id": "ksltos-058",
+  "template": "Future of (item)?",
+  "example": "Future of grocery bags?",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdJcy6tSRQZ/",
+   "https://www.instagram.com/ksltos/reel/DcH1tqsSK2e/"
+  ]
+ },
+ {
+  "id": "ksltos-059",
+  "template": "The best $X we spent in (place)",
+  "example": "The best $8 we spent in Switzerland",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdJcy6tSRQZ/",
+   "https://www.instagram.com/ksltos/reel/DdJH6erySCX/"
+  ]
+ },
+ {
+  "id": "ksltos-061",
+  "template": "Someone tell me what kind of (thing) this is",
+  "example": "Someone tell me what kind of car this is",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdJcy6tSRQZ/",
+   "https://www.instagram.com/ksltos/reel/DcKwsM2SkA4/"
+  ]
+ },
+ {
+  "id": "ksltos-066",
+  "template": "You're going to be that rich friend",
+  "example": "...that makes $10,000 every single week",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdH4G8fBp7h/",
+   "https://www.instagram.com/ksltos/reel/DdEpmBSB3f7/"
+  ]
+ },
+ {
+  "id": "ksltos-067",
+  "template": "If you're pretty, take advantage of it. If you're tall, take advantage of it.",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdH4G8fBp7h/",
+   "https://www.instagram.com/ksltos/reel/DdEpmBSB3f7/"
+  ]
+ },
+ {
+  "id": "ksltos-086",
+  "template": "Consistency is not the key. It's the bare minimum.",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdEXCVYy7yt/",
+   "https://www.instagram.com/ksltos/reel/Dc0zMh9yZ5A/"
+  ]
+ },
+ {
+  "id": "ksltos-088",
+  "template": "The type of (thing) in (place)",
+  "example": "The other type of traffic in Vietnam",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdEXCVYy7yt/",
+   "https://www.instagram.com/ksltos/reel/Dc6e-Y8BsBG/"
+  ]
+ },
+ {
+  "id": "ksltos-090",
+  "template": "(Dream result) in (time)",
+  "example": "0–100K followers in 5 months",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdEXCVYy7yt/",
+   "https://www.instagram.com/ksltos/reel/DcLpj_1SkuP/"
+  ]
+ },
+ {
+  "id": "ksltos-102",
+  "template": "Influencers do this on purpose",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdCyhuhhK3K/",
+   "https://www.instagram.com/ksltos/reel/Dc89g4LBMen/"
+  ]
+ },
+ {
+  "id": "ksltos-105",
+  "template": "99.9% of (people) have never visited this (place)",
+  "example": "99.9% of Americans have NEVER visited this country",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdAFLJVBvjP/",
+   "https://www.instagram.com/ksltos/reel/DdABPNrBgtR/"
+  ]
+ },
+ {
+  "id": "ksltos-106",
+  "template": "“Let's go for a walk.” The walk:",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdAFLJVBvjP/",
+   "https://www.instagram.com/ksltos/reel/DdABPNrBgtR/"
+  ]
+ },
+ {
+  "id": "ksltos-107",
+  "template": "My favorite place in the world",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdAFLJVBvjP/",
+   "https://www.instagram.com/ksltos/reel/DdABPNrBgtR/"
+  ]
+ },
+ {
+  "id": "ksltos-108",
+  "template": "A (adjective) life",
+  "example": "A quiet life",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdAFLJVBvjP/",
+   "https://www.instagram.com/ksltos/reel/DdABPNrBgtR/"
+  ]
+ },
+ {
+  "id": "ksltos-112",
+  "template": "No one: This (thing) in (place):",
+  "example": "No one: This cafe in Norway:",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdCdZ6FhpMz/",
+   "https://www.instagram.com/ksltos/reel/DcuDDRxh5Eg/"
+  ]
+ },
+ {
+  "id": "ksltos-114",
+  "template": "Deleting this in 24 hours!!",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdI0AcASmKK/",
+   "https://www.instagram.com/ksltos/reel/Dc_lLb-hK86/"
+  ]
+ },
+ {
+  "id": "ksltos-115",
+  "template": "I don't know why the fuck I'm telling you guys this, because you're just gonna copy me",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdI0AcASmKK/",
+   "https://www.instagram.com/ksltos/reel/Dc_lLb-hK86/"
+  ]
+ },
+ {
+  "id": "ksltos-157",
+  "template": "What do you want for your birthday? Me:",
+  "example": "",
+  "formats": [
+   "me_punchline"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcyTe-by3wo/",
+   "https://www.instagram.com/ksltos/reel/DcyTcnGSj9L/"
+  ]
+ },
+ {
+  "id": "ksltos-158",
+  "template": "Filming everything cause cameraman never dies",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcyTe-by3wo/",
+   "https://www.instagram.com/ksltos/reel/DcyTcnGSj9L/"
+  ]
+ },
+ {
+  "id": "ksltos-159",
+  "template": "X missed calls. Y unread messages. Z notifications. Me:",
+  "example": "320 missed calls. 50 unread messages. 30 notifications. Me:",
+  "formats": [
+   "fill_in_the_blank",
+   "me_punchline"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcyTe-by3wo/",
+   "https://www.instagram.com/ksltos/reel/DcyTcnGSj9L/"
+  ]
+ },
+ {
+  "id": "ksltos-160",
+  "template": "The level of (item) I want",
+  "example": "The level of privacy I want",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcyTe-by3wo/",
+   "https://www.instagram.com/ksltos/reel/DcyTcnGSj9L/"
+  ]
+ },
+ {
+  "id": "ksltos-183",
+  "template": "Type of six-pack I want",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcXgihMy53C/",
+   "https://www.instagram.com/ksltos/reel/DcTBHw9yHod/"
+  ]
+ },
+ {
+  "id": "ksltos-184",
+  "template": "The art of never giving up",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcXgihMy53C/",
+   "https://www.instagram.com/ksltos/reel/DcY4r5shL8s/"
+  ]
+ },
+ {
+  "id": "ksltos-185",
+  "template": "Discipline",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcXgihMy53C/",
+   "https://www.instagram.com/ksltos/reel/DcVGurgSGjy/"
+  ]
+ },
+ {
+  "id": "ksltos-186",
+  "template": "What's your love language? Me:",
+  "example": "",
+  "formats": [
+   "me_punchline"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcXGzNcyCB3/",
+   "https://www.instagram.com/ksltos/reel/DcYOE42yprU/"
+  ]
+ },
+ {
+  "id": "ksltos-187",
+  "template": "Happiness only costs X dollars",
+  "example": "Happiness only costs $35",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcXGzNcyCB3/",
+   "https://www.instagram.com/ksltos/reel/DcTBHw9yHod/"
+  ]
+ },
+ {
+  "id": "ksltos-189",
+  "template": "If you buy one, I'll buy one...",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcWqM3eBCk3/",
+   "https://www.instagram.com/ksltos/reel/DclxvgIBFyn/"
+  ]
+ },
+ {
+  "id": "ksltos-194",
+  "template": "(Item) is dangerous",
+  "example": "\"Flying tubes are dangerous\"",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcVgVTISxPd/",
+   "https://www.instagram.com/ksltos/reel/DcVQfEPSRHG/"
+  ]
+ },
+ {
+  "id": "ksltos-196",
+  "template": "This & (thing)",
+  "example": "This & yapping",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcVGurgSGjy/",
+   "https://www.instagram.com/ksltos/reel/DcmMI2YBWQl/"
+  ]
+ },
+ {
+  "id": "ksltos-200",
+  "template": "What the hell is an (item)?",
+  "example": "What the hell is a protein bar?",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcTbotySCQY/",
+   "https://www.instagram.com/ksltos/reel/DcnlHoPynB1/"
+  ]
+ },
+ {
+  "id": "ksltos-203",
+  "template": "\"Yes, the (place) has an (item).\" The (item):",
+  "example": "\"Yes, the hotel has a gym.\" The gym:",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcSf_TWyrtO/",
+   "https://www.instagram.com/ksltos/reel/DcLUmDjSFS6/"
+  ]
+ },
+ {
+  "id": "ksltos-208",
+  "template": "X kcal and Y g of protein",
+  "example": "600 calories and 200g of protein",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcSf-IVSeEW/",
+   "https://www.instagram.com/ksltos/reel/DcFCpoQSMD1/"
+  ]
+ },
+ {
+  "id": "ksltos-213",
+  "template": "I would do this before quitting your job",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db2sOqRSVEv/",
+   "https://www.instagram.com/ksltos/reel/DbzVyrJyRzi/"
+  ]
+ },
+ {
+  "id": "ksltos-214",
+  "template": "This is harder than getting into Harvard",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db2sOqRSVEv/",
+   "https://www.instagram.com/ksltos/reel/DbzVyrJyRzi/"
+  ]
+ },
+ {
+  "id": "ksltos-218",
+  "template": "If you gave me X (days) to get a job as a (title), this is what I would do",
+  "example": "If you gave me six months to get a job as a data analyst, this is what I would do.",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db25TEBSI_V/",
+   "https://www.instagram.com/ksltos/reel/Db_rcCMyyyd/"
+  ]
+ },
+ {
+  "id": "ksltos-220",
+  "template": "I bought all the (items) so you could find out which are the best in each category and which is not worth your money",
+  "example": "I bought all the markers to find out which are the best in every category and which are not worth your money",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db25TEBSI_V/",
+   "https://www.instagram.com/ksltos/reel/Db-pPkPyEuJ/"
+  ]
+ },
+ {
+  "id": "ksltos-221",
+  "template": "I do not believe in X, I believe in Y",
+  "example": "I do not believe in lucky girl syndrome, I believe in being intensely intentional",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db0LdWXSeJd/",
+   "https://www.instagram.com/ksltos/reel/Dbz-teaS8ch/"
+  ]
+ },
+ {
+  "id": "ksltos-222",
+  "template": "This might be the ultimate (thing) hack",
+  "example": "This might be the ultimate mom hack",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db0LdWXSeJd/",
+   "https://www.instagram.com/ksltos/reel/Dbz-teaS8ch/"
+  ]
+ },
+ {
+  "id": "ksltos-223",
+  "template": "What I wish I knew at (age) instead of (age)",
+  "example": "What I wish I knew at 19 instead of 44",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db0LdWXSeJd/",
+   "https://www.instagram.com/ksltos/reel/Dbz-teaS8ch/"
+  ]
+ },
+ {
+  "id": "ksltos-224",
+  "template": "Here are X questions I ask before (action)",
+  "example": "Here are five questions I ask before buying anything",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db0LdWXSeJd/",
+   "https://www.instagram.com/ksltos/reel/Dbz-teaS8ch/"
+  ]
+ },
+ {
+  "id": "ksltos-225",
+  "template": "Did you know that this, this, and this target (dream result)",
+  "example": "Did you know that this, this, and this target the whole glute but more of the upper part",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db0LdWXSeJd/",
+   "https://www.instagram.com/ksltos/reel/Dbz-teaS8ch/"
+  ]
+ },
+ {
+  "id": "ksltos-227",
+  "template": "3 levels of (things)",
+  "example": "3 levels of hot chocolate",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db0aITUy0xS/",
+   "https://www.instagram.com/ksltos/reel/DbzPrYASH76/"
+  ]
+ },
+ {
+  "id": "ksltos-229",
+  "template": "Here's the difference between (title), (A), (B), and (C)",
+  "example": "Here's the difference between computer science, software engineer, product manager, data scientist, and cybersecurity engineer",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbzsrxsSEib/",
+   "https://www.instagram.com/ksltos/reel/Db-pPkPyEuJ/"
+  ]
+ },
+ {
+  "id": "ksltos-233",
+  "template": "POV: Bro says he knows a spot",
+  "example": "",
+  "formats": [
+   "pov"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DctoK-VhXeR/",
+   "https://www.instagram.com/ksltos/reel/DctKNHsSPjV/"
+  ]
+ },
+ {
+  "id": "ksltos-247",
+  "template": "Why don't you (action) with your bro anymore? Bro rn:",
+  "example": "\"Why don't you run with your bro anymore?\" Bro rn:",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcpGp9LTpom/",
+   "https://www.instagram.com/ksltos/reel/DcdXgzOyW26/"
+  ]
+ },
+ {
+  "id": "ksltos-248",
+  "template": "Adrenaline",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcnlHoPynB1/",
+   "https://www.instagram.com/ksltos/reel/Dcf9i_5yuys/"
+  ]
+ },
+ {
+  "id": "ksltos-249",
+  "template": "In a world obsessed with an (item), don't forget who you really are",
+  "example": "In a world obsessed with protein, don't forget who you really are",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcnlHoPynB1/",
+   "https://www.instagram.com/ksltos/reel/DcdXgzOyW26/"
+  ]
+ },
+ {
+  "id": "ksltos-250",
+  "template": "POV: You found your dream (thing)",
+  "example": "POV: you found your dream gym",
+  "formats": [
+   "fill_in_the_blank",
+   "pov"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcmMI2YBWQl/",
+   "https://www.instagram.com/ksltos/reel/DcGlHfQy9Oe/"
+  ]
+ },
+ {
+  "id": "ksltos-251",
+  "template": "When you let the (person) (action)",
+  "example": "When you let the HUSBAND book the hotel..",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcmMI2YBWQl/",
+   "https://www.instagram.com/ksltos/reel/DcgRRHWyul5/"
+  ]
+ },
+ {
+  "id": "ksltos-253",
+  "template": "When the (person) goes crazy",
+  "example": "When the architect goes crazy",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DclxvgIBFyn/",
+   "https://www.instagram.com/ksltos/reel/Dcf9i_5yuys/"
+  ]
+ },
+ {
+  "id": "ksltos-254",
+  "template": "This (item) is so satisfying",
+  "example": "This soap is too satisfying.",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dck6SooSpqT/",
+   "https://www.instagram.com/ksltos/reel/DcaYU_KSfeC/"
+  ]
+ },
+ {
+  "id": "ksltos-258",
+  "template": "How it started... How it's going",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcjKrfxBMyO/",
+   "https://www.instagram.com/ksltos/reel/DcH1tqsSK2e/"
+  ]
+ },
+ {
+  "id": "ksltos-260",
+  "template": "Bro: I know a spot... The spot:",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dcjnzxfhdz3/",
+   "https://www.instagram.com/ksltos/reel/DceCStUBCQt/"
+  ]
+ },
+ {
+  "id": "ksltos-263",
+  "template": "I hate when this happens",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcjM6v9h7pe/",
+   "https://www.instagram.com/ksltos/reel/DcLpj_1SkuP/"
+  ]
+ },
+ {
+  "id": "ksltos-264",
+  "template": "Going to the (place) for one thing",
+  "example": "Going to Japan for one thing",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcjM6v9h7pe/",
+   "https://www.instagram.com/ksltos/reel/DcFt86cyAP9/"
+  ]
+ },
+ {
+  "id": "ksltos-265",
+  "template": "This is peak humanity",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcjM6v9h7pe/",
+   "https://www.instagram.com/ksltos/reel/DcGlHfQy9Oe/"
+  ]
+ },
+ {
+  "id": "ksltos-285",
+  "template": "Life is hard. Make it harder. Start (action)",
+  "example": "Life is hard. Make it harder. Start a company.",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcahEnFSDhX/",
+   "https://www.instagram.com/ksltos/reel/DcAkYEfyuPY/"
+  ]
+ },
+ {
+  "id": "ksltos-288",
+  "template": "Life is too short to (action)",
+  "example": "Life is too short to wear an Apple Watch",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcaltmQSHpe/",
+   "https://www.instagram.com/ksltos/reel/DcAkYEfyuPY/"
+  ]
+ },
+ {
+  "id": "ksltos-295",
+  "template": "Therapy: X dollars VS (item): Y dollars",
+  "example": "Therapy: $140 VS Costco food court: $17.95",
+  "formats": [
+   "fill_in_the_blank",
+   "versus"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcbIz81hRXl/",
+   "https://www.instagram.com/ksltos/reel/DcZQte_hHGS/"
+  ]
+ },
+ {
+  "id": "ksltos-296",
+  "template": "AI could never",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcbIz81hRXl/",
+   "https://www.instagram.com/ksltos/reel/DcZQte_hHGS/"
+  ]
+ },
+ {
+  "id": "ksltos-297",
+  "template": "Fuck your (item)",
+  "example": "F*ck your penthouse",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcYhmIlyIM-/",
+   "https://www.instagram.com/ksltos/reel/DcYhkGeS18a/"
+  ]
+ },
+ {
+  "id": "ksltos-298",
+  "template": "Everythingaholic",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcYhmIlyIM-/",
+   "https://www.instagram.com/ksltos/reel/DcYhkGeS18a/"
+  ]
+ },
+ {
+  "id": "ksltos-305",
+  "template": "(Action) can be sexy",
+  "example": "Doing laundry can be sexy...",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcQvzbaSAD1/",
+   "https://www.instagram.com/ksltos/reel/DcNLGUiyS7d/"
+  ]
+ },
+ {
+  "id": "ksltos-308",
+  "template": "How (adjective) are you?",
+  "example": "“How Asian are you?”",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcQRCA_SyhP/",
+   "https://www.instagram.com/ksltos/reel/DcMQJXphfWc/"
+  ]
+ },
+ {
+  "id": "ksltos-310",
+  "template": "This after the gym",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcQQKEbyBpK/",
+   "https://www.instagram.com/ksltos/reel/DcHUdOvyQeY/"
+  ]
+ },
+ {
+  "id": "ksltos-314",
+  "template": "Pls no hate",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcO9c19hyAZ/",
+   "https://www.instagram.com/ksltos/reel/DcIxsjCSixD/"
+  ]
+ },
+ {
+  "id": "ksltos-317",
+  "template": "How I burn X kcal in Y minutes",
+  "example": "How I burn 1500 calories in 40 minutes",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcOtej8hnam/",
+   "https://www.instagram.com/ksltos/reel/DcD6llwSHu9/"
+  ]
+ },
+ {
+  "id": "ksltos-318",
+  "template": "POV: When you finally found the perfect (item) for her/him",
+  "example": "POV: When you finally found the perfect Crocs for her",
+  "formats": [
+   "fill_in_the_blank",
+   "pov"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcOtej8hnam/",
+   "https://www.instagram.com/ksltos/reel/DcIEZHcSovQ/"
+  ]
+ },
+ {
+  "id": "ksltos-319",
+  "template": "What happens when you stop (action)?",
+  "example": "What happens when you stop eating sweets?",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcOtej8hnam/",
+   "https://www.instagram.com/ksltos/reel/DcD6llwSHu9/"
+  ]
+ },
+ {
+  "id": "ksltos-320",
+  "template": "Some girls want a Birkin...",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcNxBkJyFGH/",
+   "https://www.instagram.com/ksltos/reel/DcNagKjS97b/"
+  ]
+ },
+ {
+  "id": "ksltos-321",
+  "template": "Oh so (action) is your little hobby?",
+  "example": "Oh so making burgers is your little hobby?",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcNw5P3SHlK/",
+   "https://www.instagram.com/ksltos/reel/DcNcBW5yGsn/"
+  ]
+ },
+ {
+  "id": "ksltos-335",
+  "template": "Let's try this (place). The (place):",
+  "example": "Let's try this coffee shop! The coffee:",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcKEnURSIZz/",
+   "https://www.instagram.com/ksltos/reel/DcKD-nLyZLR/"
+  ]
+ },
+ {
+  "id": "ksltos-336",
+  "template": "Tag a friend who can't (action)",
+  "example": "Tag a friend who can't lift this!",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcKEnURSIZz/",
+   "https://www.instagram.com/ksltos/reel/DcKD-nLyZLR/"
+  ]
+ },
+ {
+  "id": "ksltos-337",
+  "template": "The best love language",
+  "example": "",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcKEnURSIZz/",
+   "https://www.instagram.com/ksltos/reel/DcKD-nLyZLR/"
+  ]
+ },
+ {
+  "id": "ksltos-348",
+  "template": "When money isn't the problem anymore. But (things) are",
+  "example": "When money isn't the problem anymore. But calories are.",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcFefECSlvR/",
+   "https://www.instagram.com/ksltos/reel/DcFeV07yVcf/"
+  ]
+ },
+ {
+  "id": "ksltos-353",
+  "template": "Babe, what's wrong? You barely touched the (item) I made for you",
+  "example": "Babe, what's wrong? You barely touched the toasts I made for you?",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcDrYtmSboK/",
+   "https://www.instagram.com/ksltos/reel/DcDrNo2y6_7/"
+  ]
+ },
+ {
+  "id": "ksltos-354",
+  "template": "I'm (age). Not (age)",
+  "example": "",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcDrYtmSboK/",
+   "https://www.instagram.com/ksltos/reel/DcDrNo2y6_7/"
+  ]
+ },
+ {
+  "id": "ksltos-357",
+  "template": "The (thing) I want",
+  "example": "The privacy I want:",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcDhTU5SF_2/",
+   "https://www.instagram.com/ksltos/reel/DcDfOaMy34P/"
+  ]
+ },
+ {
+  "id": "ksltos-358",
+  "template": "Almost everyone thinks they know how to (action)",
+  "example": "Almost everyone thinks that they know how to clean",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db_rcCMyyyd/",
+   "https://www.instagram.com/ksltos/reel/Db8QSEsyZIx/"
+  ]
+ },
+ {
+  "id": "ksltos-359",
+  "template": "(Name), how do you (action)?",
+  "example": "Dad! How do you clean a cast iron pan?",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db_rcCMyyyd/",
+   "https://www.instagram.com/ksltos/reel/Db8QSEsyZIx/"
+  ]
+ },
+ {
+  "id": "ksltos-361",
+  "template": "I just made over X (items) in under (time) and I will show you how I did it",
+  "example": "I just made over 1,000 treats for my dog in under two hours and I'll show you how I did it",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db_rcCMyyyd/",
+   "https://www.instagram.com/ksltos/reel/Db5pyGsScPA/"
+  ]
+ },
+ {
+  "id": "ksltos-364",
+  "template": "Let's see how many (items) we can get out of this",
+  "example": "Let's see how many steaks we can get out of this",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db-pPkPyEuJ/",
+   "https://www.instagram.com/ksltos/reel/Db5pyGsScPA/"
+  ]
+ },
+ {
+  "id": "ksltos-392",
+  "template": "(Industry) tier list for (year)",
+  "example": "Side hustle tier list for 2025",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbzB1wwys9z/",
+   "https://www.instagram.com/ksltos/reel/Dbx8uPESsFc/"
+  ]
+ },
+ {
+  "id": "ksltos-402",
+  "template": "I bought all the most popular (items) so I can rank them from worst to best",
+  "example": "I bought all the most popular energy drinks at the store so I can rank them from worst to best",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dbwyl6SSM8q/",
+   "https://www.instagram.com/ksltos/reel/DbpeL9GS5bV/"
+  ]
+ },
+ {
+  "id": "ksltos-406",
+  "template": "This group didn't (action), and this group did",
+  "example": "This group didn't take creatine, and this group did",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbvKKEUSWA_/",
+   "https://www.instagram.com/ksltos/reel/DbszDnjS8Nm/"
+  ]
+ },
+ {
+  "id": "ksltos-409",
+  "template": "How long can you skip (action) before losing (result)",
+  "example": "How long can you skip the gym before losing muscle",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbvKiM4y_IM/",
+   "https://www.instagram.com/ksltos/reel/DbszDnjS8Nm/"
+  ]
+ },
+ {
+  "id": "ksltos-410",
+  "template": "The reason your (pain point) sucks is because you have no freaking (reason)",
+  "example": "The reason your chicken sucks is cause you have no fucking patience",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbvKiM4y_IM/",
+   "https://www.instagram.com/ksltos/reel/DbpeL9GS5bV/"
+  ]
+ },
+ {
+  "id": "ksltos-412",
+  "template": "This is how many (items) you need to (result)",
+  "example": "This is how many chocolate bars you would need to eat to gain 1 pound of fat",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbvKiM4y_IM/",
+   "https://www.instagram.com/ksltos/reel/DbszDnjS8Nm/"
+  ]
+ },
+ {
+  "id": "ksltos-425",
+  "template": "Me after posting my work:",
+  "example": "Me after posting my content:",
+  "formats": [],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbnarPKSfYH/",
+   "https://www.instagram.com/ksltos/reel/DbiCvglSURz/"
+  ]
+ },
+ {
+  "id": "ksltos-437",
+  "template": "I'm going to tell you how to get (result) with (mind-blowing method)",
+  "example": "I'm gonna tell you how you can get drunk in under 600 calories",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dbk7TFvypor/",
+   "https://www.instagram.com/ksltos/reel/DbkrF_Dy7B3/"
+  ]
+ },
+ {
+  "id": "ksltos-438",
+  "template": "It took me X years to learn this, but I'll teach you in less than Y minute",
+  "example": "It took me 10 years to learn this, but I'll teach it to you in less than 1 minute",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dbk7TFvypor/",
+   "https://www.instagram.com/ksltos/reel/DbkrF_Dy7B3/"
+  ]
+ },
+ {
+  "id": "ksltos-439",
+  "template": "Everyone tells you to (action) but nobody actually tells you how to do it",
+  "example": "Everyone tells you to invest in a Roth IRA in 2025, but no one actually shows you how to do it",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dbk7TFvypor/",
+   "https://www.instagram.com/ksltos/reel/DbkrF_Dy7B3/"
+  ]
+ },
+ {
+  "id": "ksltos-440",
+  "template": "I think I just found the biggest (Your industry) cheat code",
+  "example": "I seriously think I just found the biggest personal branding cheat code",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dbk7TFvypor/",
+   "https://www.instagram.com/ksltos/reel/DbkrF_Dy7B3/"
+  ]
+ },
+ {
+  "id": "ksltos-441",
+  "template": "Here are some slightly unethical (Your industry) hacks you should know if you're (Your target audience)",
+  "example": "Here are some slightly unethical resume hacks to maximize your chances",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 2,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dbk7TFvypor/",
+   "https://www.instagram.com/ksltos/reel/DbkrF_Dy7B3/"
+  ]
+ },
+ {
+  "id": "ksltos-063",
+  "template": "This is why I live in (place)",
+  "example": "This is why I live in Florida",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdJH6erySCX/"
+  ]
+ },
+ {
+  "id": "ksltos-064",
+  "template": "I regret buying this for (person)",
+  "example": "I regret buying this for my alcoholic bro",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdJH6erySCX/"
+  ]
+ },
+ {
+  "id": "ksltos-068",
+  "template": "If you have a job, go away. This video is not for you.",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdEpmBSB3f7/"
+  ]
+ },
+ {
+  "id": "ksltos-069",
+  "template": "Plan B: disappear and (dream action)",
+  "example": "Plan B: disappear and buy a beach bar",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdINV2vBoL8/"
+  ]
+ },
+ {
+  "id": "ksltos-070",
+  "template": "The morning I need every day",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdINV2vBoL8/"
+  ]
+ },
+ {
+  "id": "ksltos-071",
+  "template": "Don't fall for the (item) propaganda",
+  "example": "Don't fall for the SUV propaganda",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdINV2vBoL8/"
+  ]
+ },
+ {
+  "id": "ksltos-072",
+  "template": "I asked ChatGPT to turn them into humans",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdHjBKKBgms/"
+  ]
+ },
+ {
+  "id": "ksltos-073",
+  "template": "Don't ever do this at a (place) ever!",
+  "example": "Don't ever do this at a pizzeria ever!!!",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdHjBKKBgms/"
+  ]
+ },
+ {
+  "id": "ksltos-074",
+  "template": "Ever heard of a (item)?",
+  "example": "Ever heard of a doggie bar?",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdHjBKKBgms/"
+  ]
+ },
+ {
+  "id": "ksltos-075",
+  "template": "(Person)'s favorite hobby",
+  "example": "Butch's favorite hobby",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdHjBKKBgms/"
+  ]
+ },
+ {
+  "id": "ksltos-076",
+  "template": "Just another boring (item)",
+  "example": "Just another boring Porsche",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdHjBKKBgms/"
+  ]
+ },
+ {
+  "id": "ksltos-077",
+  "template": "I met a (famous person)",
+  "example": "I met Jennie from Blackpink",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdHObyqhipI/"
+  ]
+ },
+ {
+  "id": "ksltos-078",
+  "template": "POV: you are trying to relax",
+  "example": "",
+  "formats": [
+   "pov"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdHObyqhipI/"
+  ]
+ },
+ {
+  "id": "ksltos-079",
+  "template": "(Thing) gone wrong",
+  "example": "Cat social experiment gone wrong",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdHObyqhipI/"
+  ]
+ },
+ {
+  "id": "ksltos-080",
+  "template": "Getting mistaken for (famous person)",
+  "example": "Getting mistaken for Jungkook",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdHObyqhipI/"
+  ]
+ },
+ {
+  "id": "ksltos-081",
+  "template": "Congratulations, you're moving to the next level. Your next opponent is... you.",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdG01L3Sav_/"
+  ]
+ },
+ {
+  "id": "ksltos-082",
+  "template": "POV: you visited our (business)",
+  "example": "POV: you visit our slime bar!",
+  "formats": [
+   "fill_in_the_blank",
+   "pov"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdFS0hShelJ/"
+  ]
+ },
+ {
+  "id": "ksltos-083",
+  "template": "This is so sad",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdFS0hShelJ/"
+  ]
+ },
+ {
+  "id": "ksltos-084",
+  "template": "I cannot believe I hired this (person)",
+  "example": "I can't believe I hired this kid",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdFS0hShelJ/"
+  ]
+ },
+ {
+  "id": "ksltos-085",
+  "template": "Flew X hours to surprise my gf/bf",
+  "example": "Flew 16 hours to surprise my girlfriend",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdFS0hShelJ/"
+  ]
+ },
+ {
+  "id": "ksltos-096",
+  "template": "“(Excuse).” Me: (blunt answer)",
+  "example": "“I cannot speak well. How can I make content?” Me: post everything every day",
+  "formats": [
+   "fill_in_the_blank",
+   "me_punchline"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdDshBWyOPN/"
+  ]
+ },
+ {
+  "id": "ksltos-097",
+  "template": "Considering moving to (place) just for this (thing)",
+  "example": "...just for this gym",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdDHMteBWx6/"
+  ]
+ },
+ {
+  "id": "ksltos-098",
+  "template": "Don't eat (item). Eat God's creation",
+  "example": "Don't eat McDonald's. Eat God's creation",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdDHMteBWx6/"
+  ]
+ },
+ {
+  "id": "ksltos-099",
+  "template": "Your sign to start (action)",
+  "example": "Your sign to start juicing",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdDHMteBWx6/"
+  ]
+ },
+ {
+  "id": "ksltos-100",
+  "template": "This over (item) any day",
+  "example": "This over candy any day",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdDHMteBWx6/"
+  ]
+ },
+ {
+  "id": "ksltos-101",
+  "template": "You finally tried (item)",
+  "example": "You finally tried Dubai's viral tiramisu",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdDHMteBWx6/"
+  ]
+ },
+ {
+  "id": "ksltos-103",
+  "template": "The (event) is gonna make me insanely rich. Here's how",
+  "example": "The World Cup is gonna make me insanely rich",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdCyhuhhK3K/"
+  ]
+ },
+ {
+  "id": "ksltos-104",
+  "template": "Instead of cracking girls... why don't you crack open that laptop",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdCyhuhhK3K/"
+  ]
+ },
+ {
+  "id": "ksltos-109",
+  "template": "POV: the art of being (people)",
+  "example": "POV: the art of being Mediterranean",
+  "formats": [
+   "fill_in_the_blank",
+   "pov"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdCdZ6FhpMz/"
+  ]
+ },
+ {
+  "id": "ksltos-110",
+  "template": "The first thing I do at/in (place)",
+  "example": "The first thing I do in a hotel",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdCdZ6FhpMz/"
+  ]
+ },
+ {
+  "id": "ksltos-111",
+  "template": "The level of (thing) in (place) is beautiful",
+  "example": "The level of trust in Korea is beautiful",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdCdZ6FhpMz/"
+  ]
+ },
+ {
+  "id": "ksltos-113",
+  "template": "Post “You Work”, not “Your Work”",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DdBv27JSC_a/"
+  ]
+ },
+ {
+  "id": "ksltos-117",
+  "template": "The video made me go viral",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc-_n0pSUKj/"
+  ]
+ },
+ {
+  "id": "ksltos-118",
+  "template": "A horror movie but it's just my bf/gf (action)",
+  "example": "...but it's just my boyfriend eating beans",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc-_n0pSUKj/"
+  ]
+ },
+ {
+  "id": "ksltos-119",
+  "template": "What I eat today (Xg protein, Y kcal)",
+  "example": "What I ate today (144g protein, 2540 kcal)",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc-_n0pSUKj/"
+  ]
+ },
+ {
+  "id": "ksltos-120",
+  "template": "Every business owner should do this...",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc-plymyMgB/"
+  ]
+ },
+ {
+  "id": "ksltos-121",
+  "template": "This is a trick influencers use to keep you watching",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc90Zo1BJQO/"
+  ]
+ },
+ {
+  "id": "ksltos-122",
+  "template": "How do (people) afford this...",
+  "example": "How do Asians afford this...",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc9Y6LOhe99/"
+  ]
+ },
+ {
+  "id": "ksltos-123",
+  "template": "Always stay positive",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc9Y6LOhe99/"
+  ]
+ },
+ {
+  "id": "ksltos-124",
+  "template": "Wasted X days (action) when there is this",
+  "example": "Wasted 2 days editing when there is this",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc9Y6LOhe99/"
+  ]
+ },
+ {
+  "id": "ksltos-125",
+  "template": "How to avoid doing dishes",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc89g4LBMen/"
+  ]
+ },
+ {
+  "id": "ksltos-126",
+  "template": "Being (someone) for an hour",
+  "example": "Being my wife for an hour",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc8dBKPS5K-/"
+  ]
+ },
+ {
+  "id": "ksltos-127",
+  "template": "Steal these (X) viral hooks",
+  "example": "Steal these 5 viral hooks",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc66d0ahGfS/"
+  ]
+ },
+ {
+  "id": "ksltos-128",
+  "template": "No way this little (item) can do that?!",
+  "example": "No way this little flashlight can do THAT?!",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc6e-Y8BsBG/"
+  ]
+ },
+ {
+  "id": "ksltos-129",
+  "template": "This made my (item) 10x better",
+  "example": "This made my showers 10x better",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc6e-Y8BsBG/"
+  ]
+ },
+ {
+  "id": "ksltos-130",
+  "template": "This (item) is almost too (adjective) to believe",
+  "example": "This flashlight is almost too powerful to believe!",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc6e-Y8BsBG/"
+  ]
+ },
+ {
+  "id": "ksltos-131",
+  "template": "Making (person)'s life easier:",
+  "example": "Making my wife's life easier:",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc6e-Y8BsBG/"
+  ]
+ },
+ {
+  "id": "ksltos-132",
+  "template": "You need to move like it's already yours",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc50-JKyL8U/"
+  ]
+ },
+ {
+  "id": "ksltos-133",
+  "template": "Never let them know your next move",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc4XbP0Btxj/"
+  ]
+ },
+ {
+  "id": "ksltos-134",
+  "template": "POV: (thing) but in (place)",
+  "example": "POV: Gym, but in Bali",
+  "formats": [
+   "fill_in_the_blank",
+   "pov"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc4XbP0Btxj/"
+  ]
+ },
+ {
+  "id": "ksltos-135",
+  "template": "No filter (place) VS no filter (place)",
+  "example": "No filter London vs no filter Istanbul",
+  "formats": [
+   "fill_in_the_blank",
+   "versus"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc4XbP0Btxj/"
+  ]
+ },
+ {
+  "id": "ksltos-136",
+  "template": "Trying to recreate the (experience) in (place)",
+  "example": "Trying to recreate the Euro café experience in the US",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc4XbP0Btxj/"
+  ]
+ },
+ {
+  "id": "ksltos-137",
+  "template": "The reality of owning a (item)",
+  "example": "The reality of owning a Bengal cat",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc375fThAaz/"
+  ]
+ },
+ {
+  "id": "ksltos-138",
+  "template": "This is why (item) is my fav",
+  "example": "This is why Central Park is my fav",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc375fThAaz/"
+  ]
+ },
+ {
+  "id": "ksltos-139",
+  "template": "The (thing) hits different when you earn it",
+  "example": "The view hits different when you earned it",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc375fThAaz/"
+  ]
+ },
+ {
+  "id": "ksltos-140",
+  "template": "My application to work at (place)",
+  "example": "My application to work at Chipotle",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc3WHk9yg5o/"
+  ]
+ },
+ {
+  "id": "ksltos-141",
+  "template": "POV: you have a brother/sister",
+  "example": "",
+  "formats": [
+   "pov"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc1uAc0huDG/"
+  ]
+ },
+ {
+  "id": "ksltos-142",
+  "template": "I could watch this for hours",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc1uAc0huDG/"
+  ]
+ },
+ {
+  "id": "ksltos-143",
+  "template": "What's your type? This:",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc1uAc0huDG/"
+  ]
+ },
+ {
+  "id": "ksltos-144",
+  "template": "POV: When you slept for 3 hours and then (action)",
+  "example": "...and then go to work",
+  "formats": [
+   "fill_in_the_blank",
+   "pov"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc1uAc0huDG/"
+  ]
+ },
+ {
+  "id": "ksltos-145",
+  "template": "(People), are we cooked?",
+  "example": "Editors, are we cooked?",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc1uAc0huDG/"
+  ]
+ },
+ {
+  "id": "ksltos-146",
+  "template": "Reasons you need to visit (place)",
+  "example": "Reasons you need to visit Bangkok",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc1N_LMhKt9/"
+  ]
+ },
+ {
+  "id": "ksltos-147",
+  "template": "Low-cortisol lifestyle",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc1N_LMhKt9/"
+  ]
+ },
+ {
+  "id": "ksltos-148",
+  "template": "Anyone who wants to be crazy like us is welcome",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc1N_LMhKt9/"
+  ]
+ },
+ {
+  "id": "ksltos-149",
+  "template": "The art of having high standards",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc1N_LMhKt9/"
+  ]
+ },
+ {
+  "id": "ksltos-150",
+  "template": "What I learned growing from 0 to 10K followers in 3 weeks",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc0zMh9yZ5A/"
+  ]
+ },
+ {
+  "id": "ksltos-151",
+  "template": "The algorithm doesn't hate you. You're just boring.",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc0zMh9yZ5A/"
+  ]
+ },
+ {
+  "id": "ksltos-152",
+  "template": "Please stop asking me about (thing). I am a mermaid.",
+  "example": "Please stop asking me about my career.",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc0clgryNIZ/"
+  ]
+ },
+ {
+  "id": "ksltos-153",
+  "template": "I love having a cool fiancé",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc0clgryNIZ/"
+  ]
+ },
+ {
+  "id": "ksltos-154",
+  "template": "Boy/girl moms will understand...",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc0clgryNIZ/"
+  ]
+ },
+ {
+  "id": "ksltos-155",
+  "template": "You aren't ready for this",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc0clgryNIZ/"
+  ]
+ },
+ {
+  "id": "ksltos-156",
+  "template": "Men only want one thing",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dc0clgryNIZ/"
+  ]
+ },
+ {
+  "id": "ksltos-161",
+  "template": "Don't write captions. Copy them.",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcyTe-by3wo/"
+  ]
+ },
+ {
+  "id": "ksltos-162",
+  "template": "My type of peace",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DczMqBGhaqp/"
+  ]
+ },
+ {
+  "id": "ksltos-163",
+  "template": "She/he hasn't replied all day. I hope she/he is okay. Meanwhile her/him:",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DczMqBGhaqp/"
+  ]
+ },
+ {
+  "id": "ksltos-164",
+  "template": "When someone asks me how old I am",
+  "example": "...feels like 22",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DczMqBGhaqp/"
+  ]
+ },
+ {
+  "id": "ksltos-165",
+  "template": "X kcal VS Y kcal",
+  "example": "245 kcal vs 80 kcal",
+  "formats": [
+   "fill_in_the_blank",
+   "versus"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DczMqBGhaqp/"
+  ]
+ },
+ {
+  "id": "ksltos-166",
+  "template": "Would you try this in (place)?",
+  "example": "Would you try these in Vietnam?",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcyxNqah9-9/"
+  ]
+ },
+ {
+  "id": "ksltos-167",
+  "template": "POV: you've accepted you're a (person)",
+  "example": "POV: you've accepted you're a boy mom",
+  "formats": [
+   "fill_in_the_blank",
+   "pov"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcyxNqah9-9/"
+  ]
+ },
+ {
+  "id": "ksltos-168",
+  "template": "The goal isn't more money. It's free time.",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcyxNqah9-9/"
+  ]
+ },
+ {
+  "id": "ksltos-169",
+  "template": "This & a man who hasn't posted on IG since (time)",
+  "example": "...since 2021",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcyxNqah9-9/"
+  ]
+ },
+ {
+  "id": "ksltos-170",
+  "template": "Me every time I (action)",
+  "example": "Me every time I eat:",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcyxNqah9-9/"
+  ]
+ },
+ {
+  "id": "ksltos-171",
+  "template": "This would only happen to me...",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcxWrgZSZ6j/"
+  ]
+ },
+ {
+  "id": "ksltos-172",
+  "template": "Oh well, whatever, never mind",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcxWrgZSZ6j/"
+  ]
+ },
+ {
+  "id": "ksltos-173",
+  "template": "What are you doing this summer? This:",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcxWrgZSZ6j/"
+  ]
+ },
+ {
+  "id": "ksltos-174",
+  "template": "Send this to a future (item) owner",
+  "example": "Send this to a future Porsche owner",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcwZhdoBCGB/"
+  ]
+ },
+ {
+  "id": "ksltos-175",
+  "template": "“Stop wasting money on (thing). We are broke.” Me:",
+  "example": "",
+  "formats": [
+   "fill_in_the_blank",
+   "me_punchline"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcwZhdoBCGB/"
+  ]
+ },
+ {
+  "id": "ksltos-176",
+  "template": "It's my little obsession",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcwZhdoBCGB/"
+  ]
+ },
+ {
+  "id": "ksltos-177",
+  "template": "Girl (thing) VS guy (thing)",
+  "example": "Girl friendships vs guy friendships",
+  "formats": [
+   "fill_in_the_blank",
+   "versus"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dcvt8kmSYdH/"
+  ]
+ },
+ {
+  "id": "ksltos-178",
+  "template": "What is the ugliest (item)?",
+  "example": "What is the ugliest car?",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dcvt8kmSYdH/"
+  ]
+ },
+ {
+  "id": "ksltos-179",
+  "template": "How is this even possible",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dcvt8kmSYdH/"
+  ]
+ },
+ {
+  "id": "ksltos-180",
+  "template": "(Person) in (place) is on another level",
+  "example": "The kids in Kyrgyzstan are on another level",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcuDDRxh5Eg/"
+  ]
+ },
+ {
+  "id": "ksltos-188",
+  "template": "Grandma's (thing) hack",
+  "example": "Grandma's fly hack",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcWqM3eBCk3/"
+  ]
+ },
+ {
+  "id": "ksltos-190",
+  "template": "Every (thing) needs this",
+  "example": "Every kitchen needs this",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcWqM3eBCk3/"
+  ]
+ },
+ {
+  "id": "ksltos-191",
+  "template": "I wish I knew this last (season)",
+  "example": "I wish I knew this last summer",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcWqM3eBCk3/"
+  ]
+ },
+ {
+  "id": "ksltos-192",
+  "template": "(Person) is just built different..",
+  "example": "Farm kids are just built different.",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcVxebdSbxS/"
+  ]
+ },
+ {
+  "id": "ksltos-193",
+  "template": "What happened to (person/thing)?",
+  "example": "What happened to Labubu?",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcVxebdSbxS/"
+  ]
+ },
+ {
+  "id": "ksltos-195",
+  "template": "The (item) I want VS the (item) I can afford",
+  "example": "The lakehouse I want vs the lakehouse I can afford",
+  "formats": [
+   "fill_in_the_blank",
+   "versus"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcVgVTISxPd/"
+  ]
+ },
+ {
+  "id": "ksltos-197",
+  "template": "My kind of psychotherapy",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcVGurgSGjy/"
+  ]
+ },
+ {
+  "id": "ksltos-199",
+  "template": "My inner voice when I see the (thing)",
+  "example": "My inner voice when I see dessert",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcUA1jch_zc/"
+  ]
+ },
+ {
+  "id": "ksltos-201",
+  "template": "This is what I mean when I say \"(word)\"",
+  "example": "This is what I mean when I say \"one coffee\"",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcTbotySCQY/"
+  ]
+ },
+ {
+  "id": "ksltos-215",
+  "template": "It's so easy to think the world is going to shit until you sit on a rock",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db2sOqRSVEv/"
+  ]
+ },
+ {
+  "id": "ksltos-216",
+  "template": "Why (action) like a normal person, when you can be a psycho instead",
+  "example": "Why scoop ice cream like a normal person, when you can be a psycho instead",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db25TEBSI_V/"
+  ]
+ },
+ {
+  "id": "ksltos-217",
+  "template": "This is everything I got for free on my (event)",
+  "example": "This is everything I got for free on my birthday",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db25TEBSI_V/"
+  ]
+ },
+ {
+  "id": "ksltos-219",
+  "template": "Did you know if you have a (item), (item), (item), and (item), then you can (dream result)",
+  "example": "Did you know? White vest top, black vest top, white shirt, blue striped shirt, blue jeans, grey trousers, grey jumper, black blazer = endless chic outfits",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db25TEBSI_V/"
+  ]
+ },
+ {
+  "id": "ksltos-228",
+  "template": "You have (thing) tomorrow but you have no time to (action), here's how you save your (problem)",
+  "example": "You have an exam tomorrow but you have no time to study, here's how you save your grade",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbzsrxsSEib/"
+  ]
+ },
+ {
+  "id": "ksltos-230",
+  "template": "30 seconds of (industry) advice I give my best friend if he/she were starting from scratch",
+  "example": "How to get your financial shit together in 30 seconds (brutally honest)",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbzsrxsSEib/"
+  ]
+ },
+ {
+  "id": "ksltos-231",
+  "template": "I am a professional (industry) hacker, and here's every hack of (thing)",
+  "example": "I'm a professional food hacker and this is every hack at Chipotle",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbzsrxsSEib/"
+  ]
+ },
+ {
+  "id": "ksltos-232",
+  "template": "How to turn just one (item) into a lifetime of free (item)",
+  "example": "How to turn just one store-bought strawberry into a lifetime of free strawberries",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbzsrxsSEib/"
+  ]
+ },
+ {
+  "id": "ksltos-234",
+  "template": "I always do this",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DctoK-VhXeR/"
+  ]
+ },
+ {
+  "id": "ksltos-235",
+  "template": "Need all my (item) like this",
+  "example": "Need all my matchas like this",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DctoK-VhXeR/"
+  ]
+ },
+ {
+  "id": "ksltos-236",
+  "template": "This is what real (item) looks like",
+  "example": "This is what real olive oil looks like",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DctoK-VhXeR/"
+  ]
+ },
+ {
+  "id": "ksltos-237",
+  "template": "Rating every (item) I had in (place)",
+  "example": "Rating every taco I had in Mexico City",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DctKNHsSPjV/"
+  ]
+ },
+ {
+  "id": "ksltos-238",
+  "template": "This is why you should never (action) here",
+  "example": "This is why you should NEVER swim here...",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DctKNHsSPjV/"
+  ]
+ },
+ {
+  "id": "ksltos-239",
+  "template": "This and your family in (place)",
+  "example": "This and your family in north Bali",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DctKNHsSPjV/"
+  ]
+ },
+ {
+  "id": "ksltos-240",
+  "template": "If you're not Shakespeare, copy these captions",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcsU__LS4ZM/"
+  ]
+ },
+ {
+  "id": "ksltos-241",
+  "template": "POV: You're anti-(item)",
+  "example": "POV: you're anti-microwave",
+  "formats": [
+   "fill_in_the_blank",
+   "pov"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcsU__LS4ZM/"
+  ]
+ },
+ {
+  "id": "ksltos-242",
+  "template": "Did you know you can just...",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcsU__LS4ZM/"
+  ]
+ },
+ {
+  "id": "ksltos-243",
+  "template": "X months of (thing) gone in Y seconds",
+  "example": "3 months of work gone in one second",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcsU__LS4ZM/"
+  ]
+ },
+ {
+  "id": "ksltos-244",
+  "template": "Never worry about (action) again",
+  "example": "Never worry about flipping eggs again",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcsU__LS4ZM/"
+  ]
+ },
+ {
+  "id": "ksltos-245",
+  "template": "Because (item) has become way too much (adjective)",
+  "example": "Because organic ice cream has become way too expensive.",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcsU__LS4ZM/"
+  ]
+ },
+ {
+  "id": "ksltos-268",
+  "template": "Cheap entertainment",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dch8D7ySBdw/"
+  ]
+ },
+ {
+  "id": "ksltos-269",
+  "template": "Should this be legal?",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dch8D7ySBdw/"
+  ]
+ },
+ {
+  "id": "ksltos-270",
+  "template": "This one (thing) hack got me (dream result)",
+  "example": "...got me 1.8M followers",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dch8D7ySBdw/"
+  ]
+ },
+ {
+  "id": "ksltos-271",
+  "template": "POV: How to spot (adjective) people",
+  "example": "POV: How to spot rich people",
+  "formats": [
+   "fill_in_the_blank",
+   "pov"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DchOkm5yPzI/"
+  ]
+ },
+ {
+  "id": "ksltos-272",
+  "template": "POV: Your unemployed friends at X am/pm on (day)",
+  "example": "POV: your unemployed friends at 2pm on a Tuesday",
+  "formats": [
+   "fill_in_the_blank",
+   "pov"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DchOkm5yPzI/"
+  ]
+ },
+ {
+  "id": "ksltos-273",
+  "template": "X dollars for this",
+  "example": "$40 million for this",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DchOkm5yPzI/"
+  ]
+ },
+ {
+  "id": "ksltos-274",
+  "template": "What you see VS What I see",
+  "example": "",
+  "formats": [
+   "versus"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DchOkm5yPzI/"
+  ]
+ },
+ {
+  "id": "ksltos-275",
+  "template": "He/She is probably cheating",
+  "example": "HER: \"He's probably out cheating\"",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcgRRHWyul5/"
+  ]
+ },
+ {
+  "id": "ksltos-276",
+  "template": "Boy therapy",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcgRRHWyul5/"
+  ]
+ },
+ {
+  "id": "ksltos-277",
+  "template": "POV: (Person)'s logic",
+  "example": "POV: Men's logic",
+  "formats": [
+   "fill_in_the_blank",
+   "pov"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dcf9i_5yuys/"
+  ]
+ },
+ {
+  "id": "ksltos-278",
+  "template": "One day, Day one",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dcf9i_5yuys/"
+  ]
+ },
+ {
+  "id": "ksltos-279",
+  "template": "How is this legal",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dcf9i_5yuys/"
+  ]
+ },
+ {
+  "id": "ksltos-280",
+  "template": "When you realize you need to make more money",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DceCStUBCQt/"
+  ]
+ },
+ {
+  "id": "ksltos-281",
+  "template": "*Gifs only* \"(Question)\"",
+  "example": "*Gifs only* Where are you from?",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DceCStUBCQt/"
+  ]
+ },
+ {
+  "id": "ksltos-282",
+  "template": "It's just an (item), they say",
+  "example": "It's just a can opener, they say",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DceCStUBCQt/"
+  ]
+ },
+ {
+  "id": "ksltos-283",
+  "template": "Real X, not Y",
+  "example": "Real network, not LinkedIn",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DceCStUBCQt/"
+  ]
+ },
+ {
+  "id": "ksltos-284",
+  "template": "(Thing) + this view",
+  "example": "Gym + this view >>",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcdXgzOyW26/"
+  ]
+ },
+ {
+  "id": "ksltos-289",
+  "template": "Another great use of free wifi",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcaYU_KSfeC/"
+  ]
+ },
+ {
+  "id": "ksltos-290",
+  "template": "This hack saves me every year",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcaYU_KSfeC/"
+  ]
+ },
+ {
+  "id": "ksltos-291",
+  "template": "I'm not like all the other (items)",
+  "example": "I'm not like all the other spoons...",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcaYU_KSfeC/"
+  ]
+ },
+ {
+  "id": "ksltos-292",
+  "template": "I will never understand it",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcaYU_KSfeC/"
+  ]
+ },
+ {
+  "id": "ksltos-293",
+  "template": "No (item)? Try this",
+  "example": "No box? Try this",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcaE354ygYY/"
+  ]
+ },
+ {
+  "id": "ksltos-294",
+  "template": "You definitely didn't know about this",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcaE354ygYY/"
+  ]
+ },
+ {
+  "id": "ksltos-299",
+  "template": "You're prettier than this btw",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcY4r5shL8s/"
+  ]
+ },
+ {
+  "id": "ksltos-300",
+  "template": "Tell me you're a (person) without telling me you're a (person)",
+  "example": "Tell me you're a triathlete without telling me you're a triathlete",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcY4r5shL8s/"
+  ]
+ },
+ {
+  "id": "ksltos-301",
+  "template": "X dollars/month (thing) in (place)",
+  "example": "$400/month gym in Bali",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcY4r5shL8s/"
+  ]
+ },
+ {
+  "id": "ksltos-302",
+  "template": "What is he/she (action) for?",
+  "example": "What is he training for?",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcYOE42yprU/"
+  ]
+ },
+ {
+  "id": "ksltos-303",
+  "template": "Don't rush me. This is my Zara",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcYOE42yprU/"
+  ]
+ },
+ {
+  "id": "ksltos-304",
+  "template": "Guys. Delete X. Delete Y. Delete Z. Ask me anything. I am Asian.",
+  "example": "Guys. Delete ChatGPT. Delete Claude. Delete Google. Ask me anything.",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcYOE42yprU/"
+  ]
+ },
+ {
+  "id": "ksltos-322",
+  "template": "I said I love (action). I never said I am good at (action)",
+  "example": "I said I love hiking, I never said I was good at hiking",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcNLGUiyS7d/"
+  ]
+ },
+ {
+  "id": "ksltos-323",
+  "template": "(Action) won't make you happy",
+  "example": "\"Buying coffee won't make you happy\" Me with coffee",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcNLGUiyS7d/"
+  ]
+ },
+ {
+  "id": "ksltos-324",
+  "template": "(Item) and (item) solves everything",
+  "example": "Chicken and rice solves everything",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcNLGUiyS7d/"
+  ]
+ },
+ {
+  "id": "ksltos-325",
+  "template": "Girl therapy",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcMQJXphfWc/"
+  ]
+ },
+ {
+  "id": "ksltos-326",
+  "template": "I'm so excited to go to the (place) for the (thing). The (thing):",
+  "example": "I'm so excited to go to Vietnam for their culture. The culture:",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcMQJXphfWc/"
+  ]
+ },
+ {
+  "id": "ksltos-327",
+  "template": "The (thing) in (place) is something else.",
+  "example": "Protests in South Korea are something else...",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcMQJXphfWc/"
+  ]
+ },
+ {
+  "id": "ksltos-328",
+  "template": "It's as (adjective) as it looks",
+  "example": "It's as fun as it looks.",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcLpj_1SkuP/"
+  ]
+ },
+ {
+  "id": "ksltos-329",
+  "template": "Life is short, buy the (item)",
+  "example": "Life's short, buy the car.",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcLpj_1SkuP/"
+  ]
+ },
+ {
+  "id": "ksltos-330",
+  "template": "This is my vibe",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcLpj_1SkuP/"
+  ]
+ },
+ {
+  "id": "ksltos-331",
+  "template": "POV: You are standing in front of your childhood dream",
+  "example": "",
+  "formats": [
+   "pov"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcLUmDjSFS6/"
+  ]
+ },
+ {
+  "id": "ksltos-332",
+  "template": "It's just a (thing) in (place). The (thing):",
+  "example": "\"It's just a cafe in Bali.\" The cafe:",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcLUmDjSFS6/"
+  ]
+ },
+ {
+  "id": "ksltos-333",
+  "template": "What I sent to my parents VS What I sent to my friends",
+  "example": "",
+  "formats": [
+   "versus"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcLUmDjSFS6/"
+  ]
+ },
+ {
+  "id": "ksltos-334",
+  "template": "Money cannot buy happiness but it can buy an (item)",
+  "example": "Money cannot buy happiness but it can buy a Porsche",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcKwsM2SkA4/"
+  ]
+ },
+ {
+  "id": "ksltos-338",
+  "template": "Don't let a (person) see this",
+  "example": "Don't let a baby mom see this",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcIxsjCSixD/"
+  ]
+ },
+ {
+  "id": "ksltos-339",
+  "template": "POV: When she/he is a (thing) digger not a gold digger",
+  "example": "POV: when she's a food digger not a gold digger",
+  "formats": [
+   "fill_in_the_blank",
+   "pov"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcIxsjCSixD/"
+  ]
+ },
+ {
+  "id": "ksltos-340",
+  "template": "Do not show this to a (person)",
+  "example": "DO NOT show this to a car guy",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcIxsjCSixD/"
+  ]
+ },
+ {
+  "id": "ksltos-341",
+  "template": "Me making a Reel that brings me 9 likes and 1 follower cos one girl said \"Thank you for the tips\"",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcISwbNS0R9/"
+  ]
+ },
+ {
+  "id": "ksltos-342",
+  "template": "This is not a (thing)...",
+  "example": "This is not a cigarette... it's a rose scented incense",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcIEZHcSovQ/"
+  ]
+ },
+ {
+  "id": "ksltos-343",
+  "template": "(Thing) I didn't know I needed",
+  "example": "Waterproof sunglasses I didn't know I needed",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcH1tqsSK2e/"
+  ]
+ },
+ {
+  "id": "ksltos-344",
+  "template": "Never knew I needed this",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcH1tqsSK2e/"
+  ]
+ },
+ {
+  "id": "ksltos-345",
+  "template": "Is this legal?",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcHUdOvyQeY/"
+  ]
+ },
+ {
+  "id": "ksltos-346",
+  "template": "Asking my gf/bf how many likes to buy me an (item)",
+  "example": "Asking my girlfriend how many likes to buy me a Lego set",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcGlHfQy9Oe/"
+  ]
+ },
+ {
+  "id": "ksltos-347",
+  "template": "This moment changed my life forever...",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcGlHfQy9Oe/"
+  ]
+ },
+ {
+  "id": "ksltos-349",
+  "template": "wtf is an (item) kid",
+  "example": "wtf is an iPad kid",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcGFVpfSGKD/"
+  ]
+ },
+ {
+  "id": "ksltos-350",
+  "template": "If I hit X followers by (time), I'll do whatever the top comment says...no limit",
+  "example": "If I hit 95.5k followers by tomorrow I'll do whatever the top comment says... (no limits)",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcGFVpfSGKD/"
+  ]
+ },
+ {
+  "id": "ksltos-351",
+  "template": "I'm not sure of the secret to happiness, but this is X am/pm in (place)",
+  "example": "I'm not sure the secret to happiness, but this is 7:30pm in Utah",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcFt86cyAP9/"
+  ]
+ },
+ {
+  "id": "ksltos-352",
+  "template": "Men are simple. I can post (items) and hundreds of dudes will comment \"Hell Yeah\"",
+  "example": "Men are simple. I can post a White Monster and a steak and hundreds of dudes...",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcFt86cyAP9/"
+  ]
+ },
+ {
+  "id": "ksltos-355",
+  "template": "God is the best artist",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcD6llwSHu9/"
+  ]
+ },
+ {
+  "id": "ksltos-356",
+  "template": "Red Bull, please contact me",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DcD6llwSHu9/"
+  ]
+ },
+ {
+  "id": "ksltos-362",
+  "template": "I spent X dollars on new (items) for (thing)",
+  "example": "I spent $274,083 on new machines for my laundromat",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db_rcCMyyyd/"
+  ]
+ },
+ {
+  "id": "ksltos-363",
+  "template": "I'm 22, nearly 500 lbs and single. Describe me in one word",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db-bpeyy0QP/"
+  ]
+ },
+ {
+  "id": "ksltos-365",
+  "template": "People keep asking me what to do with (item)",
+  "example": "People keep asking me what to do with leftover frying oil",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db8QSEsyZIx/"
+  ]
+ },
+ {
+  "id": "ksltos-366",
+  "template": "X things you should never put in the (item)",
+  "example": "Five things you should never put in the dishwasher",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db8QSEsyZIx/"
+  ]
+ },
+ {
+  "id": "ksltos-367",
+  "template": "This one mistake can actually kill (things/person)",
+  "example": "This one mistake can actually kill your dog",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db8QSEsyZIx/"
+  ]
+ },
+ {
+  "id": "ksltos-368",
+  "template": "This is kind of gross but I had to share",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db8QSEsyZIx/"
+  ]
+ },
+ {
+  "id": "ksltos-369",
+  "template": "So I spent X dollars at (store) on my last trip",
+  "example": "So I spent $725 at Costco on my last trip",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db7zMzJygS7/"
+  ]
+ },
+ {
+  "id": "ksltos-370",
+  "template": "(Company) did not sponsor me this year, so here is how to make their (item) at home",
+  "example": "Domino's didn't sponsor me this year, so here's how to make their garlic parmesan bread bites at home",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db7zMzJygS7/"
+  ]
+ },
+ {
+  "id": "ksltos-371",
+  "template": "It's (item) season, so let's make a (item) for (thing/person)",
+  "example": "It's flea and tick season, so let's make a DIY flea and tick repellent spray for your dog",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db7zMzJygS7/"
+  ]
+ },
+ {
+  "id": "ksltos-372",
+  "template": "X (items) we do not recommend for the first time (item) owners/users",
+  "example": "3 breeds we do NOT recommend for first time dog owners",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db7zMzJygS7/"
+  ]
+ },
+ {
+  "id": "ksltos-373",
+  "template": "How to stop (action)",
+  "example": "How to stop barking",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db7zMzJygS7/"
+  ]
+ },
+ {
+  "id": "ksltos-374",
+  "template": "Whatever you do, do not let (person) (action)",
+  "example": "Whatever you do, do not let your children run around barefoot",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db7K89KysUq/"
+  ]
+ },
+ {
+  "id": "ksltos-375",
+  "template": "I am sick of hearing this term (word)",
+  "example": "I'm sick of hearing this term: screen time",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db7K89KysUq/"
+  ]
+ },
+ {
+  "id": "ksltos-376",
+  "template": "Does your (person) (action) like this?",
+  "example": "Does your dog greet people like this?",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db7K89KysUq/"
+  ]
+ },
+ {
+  "id": "ksltos-377",
+  "template": "I built this (item) for X dollars",
+  "example": "I built this house for $165,000",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db7K89KysUq/"
+  ]
+ },
+ {
+  "id": "ksltos-378",
+  "template": "People always ask me (question), well, let's find out",
+  "example": "People always ask me, you have 10 kids, how much does it cost to feed them breakfast from Costco? Well, let's find out",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db7K89KysUq/"
+  ]
+ },
+ {
+  "id": "ksltos-379",
+  "template": "The easiest way to keep your (item) (adjective) is to (action)",
+  "example": "The easiest way to keep your home or apartment clean is to set a timer every week",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db5pyGsScPA/"
+  ]
+ },
+ {
+  "id": "ksltos-380",
+  "template": "Give me X seconds to show you how to (action) for the first time after (event)",
+  "example": "Give me 60 seconds to show you how to go to the bathroom for the first time postpartum",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db5pyGsScPA/"
+  ]
+ },
+ {
+  "id": "ksltos-381",
+  "template": "Your (item) is too (adjective) and (adjective). Here are X tips to (result)",
+  "example": "Your dog's kibble is too dry and boring. Here are four budget friendly toppers to help your dog live longer",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db5pyGsScPA/"
+  ]
+ },
+ {
+  "id": "ksltos-382",
+  "template": "The worst (item) that you will regret buying for your (thing) is right here",
+  "example": "The worst material you will regret buying for your shower is right here",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db5Z_nby2hL/"
+  ]
+ },
+ {
+  "id": "ksltos-383",
+  "template": "If you (verb) this (item), this is the amount of (result)",
+  "example": "If you ate this one slice of bread, this is the amount of water that your body would store",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db5Z_nby2hL/"
+  ]
+ },
+ {
+  "id": "ksltos-384",
+  "template": "I paid X dollars to build this (thing) from scratch",
+  "example": "I paid $262,000 in cash to build this house from start to finish",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db5Z_nby2hL/"
+  ]
+ },
+ {
+  "id": "ksltos-385",
+  "template": "(Thing): how to (action) and still (dream result)",
+  "example": "Volume eating: how to eat more & still lose weight",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db5Z_nby2hL/"
+  ]
+ },
+ {
+  "id": "ksltos-386",
+  "template": "Use this, to pay for this",
+  "example": "Use this duplex to pay for your home",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db5Z_nby2hL/"
+  ]
+ },
+ {
+  "id": "ksltos-387",
+  "template": "Here's why I never use a (item)",
+  "example": "Here's why I never use a plastic cutting board",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db1ZvVmyzIQ/"
+  ]
+ },
+ {
+  "id": "ksltos-388",
+  "template": "Here are X (items) as a (title) I would never (action)",
+  "example": "Here are five dog breeds as a veterinarian I'd never own",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db1ZvVmyzIQ/"
+  ]
+ },
+ {
+  "id": "ksltos-389",
+  "template": "What's the most overrated (thing)?",
+  "example": "What's the most overrated dog breed?",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db1ZvVmyzIQ/"
+  ]
+ },
+ {
+  "id": "ksltos-390",
+  "template": "The top X (items) for (target audience)",
+  "example": "The top 3 dogs for families",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db1ZvVmyzIQ/"
+  ]
+ },
+ {
+  "id": "ksltos-391",
+  "template": "Here are the X (items) that are the least likely to (result)",
+  "example": "Here are the 10 vehicles that are the least likely to make it to 100,000 miles",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Db1ZvVmyzIQ/"
+  ]
+ },
+ {
+  "id": "ksltos-393",
+  "template": "Things that are damaging your (thing) without you even realizing it",
+  "example": "Things that are damaging your hair without you realizing!!!",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbzVyrJyRzi/"
+  ]
+ },
+ {
+  "id": "ksltos-394",
+  "template": "This is why no one remembers you",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbzVyrJyRzi/"
+  ]
+ },
+ {
+  "id": "ksltos-395",
+  "template": "Swap these (things) for better (result)",
+  "example": "Swap these foods for better health",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbzVyrJyRzi/"
+  ]
+ },
+ {
+  "id": "ksltos-396",
+  "template": "If you do this, you'll (result)",
+  "example": "If you do this, you'll stretch the glutes",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbzPrYASH76/"
+  ]
+ },
+ {
+  "id": "ksltos-397",
+  "template": "Here are X books to (skill) better than 99% of other people",
+  "example": "5 books to communicate better than 99% of other people",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbzPrYASH76/"
+  ]
+ },
+ {
+  "id": "ksltos-398",
+  "template": "Best ways to save money while (action)",
+  "example": "What are the best ways to save money while cooking?",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbzPrYASH76/"
+  ]
+ },
+ {
+  "id": "ksltos-399",
+  "template": "Here are X people who will make you a better (result)",
+  "example": "Here are three people who will make you a better creator",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dbx8uPESsFc/"
+  ]
+ },
+ {
+  "id": "ksltos-400",
+  "template": "X (tools) that will teach you more than any (industry) degree",
+  "example": "...more than any business degree",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dbx8uPESsFc/"
+  ]
+ },
+ {
+  "id": "ksltos-401",
+  "template": "If you're between the ages of (X) to (Y) and you feel like (pain point), you need to watch this video",
+  "example": "If you're between the ages of 18 and 35 and you feel like you don't have a lot of money and you feel lost on how to make more money, you need to watch this video",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dbx8uPESsFc/"
+  ]
+ },
+ {
+  "id": "ksltos-404",
+  "template": "(Before) to (after) in X simple steps in under Y seconds",
+  "example": "0 to $10,000 a month in 4 simple steps in under 60 seconds",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dbwyl6SSM8q/"
+  ]
+ },
+ {
+  "id": "ksltos-407",
+  "template": "Money can buy you (item) but it can not buy you (result)",
+  "example": "$$$ can buy you pretty but it can NOT buy you brand",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbvKKEUSWA_/"
+  ]
+ },
+ {
+  "id": "ksltos-408",
+  "template": "Here's every (noun) that you actually need to know",
+  "example": "Every data structure that you actually need to know",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbvKKEUSWA_/"
+  ]
+ },
+ {
+  "id": "ksltos-411",
+  "template": "If you want to do this, first do this",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbvKiM4y_IM/"
+  ]
+ },
+ {
+  "id": "ksltos-413",
+  "template": "Cheap vs. Expensive (noun)",
+  "example": "Cheap vs expensive dishwashing detergent",
+  "formats": [
+   "fill_in_the_blank",
+   "versus"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dbuggx0S4x0/"
+  ]
+ },
+ {
+  "id": "ksltos-414",
+  "template": "It's time to throw away your (item). You don't need it anymore",
+  "example": "It's time to throw away your microphone. You don't need it anymore",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dbuggx0S4x0/"
+  ]
+ },
+ {
+  "id": "ksltos-415",
+  "template": "Instead of (doing action) like this, try this method instead",
+  "example": "Instead of tying your ribbons like this, try this method instead",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dbuggx0S4x0/"
+  ]
+ },
+ {
+  "id": "ksltos-416",
+  "template": "This is what (thing) looks like when you're (action). And this is what they look like when you're not (action)",
+  "example": "",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbszDnjS8Nm/"
+  ]
+ },
+ {
+  "id": "ksltos-417",
+  "template": "There is no doubt in my mind that (action) is the best (solution) for your (pain point)",
+  "example": "There is no doubt in my mind that Bulgarian split squats are one of the best exercises for your glutes",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbqJvbYTE4U/"
+  ]
+ },
+ {
+  "id": "ksltos-418",
+  "template": "Here's exactly how much (item) you need to (result)",
+  "example": "Here's exactly how many Crumbl cookies you'd need to eat to gain 1 pound of fat",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbqJvbYTE4U/"
+  ]
+ },
+ {
+  "id": "ksltos-419",
+  "template": "Can you tell us how to (result) in 60 seconds?",
+  "example": "Can you tell me how to buy a house in 60 seconds?",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbqJvbYTE4U/"
+  ]
+ },
+ {
+  "id": "ksltos-420",
+  "template": "When you get (item), here are the X things you got to do right away",
+  "example": "The first 7 things to do when you get the keys",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbqJvbYTE4U/"
+  ]
+ },
+ {
+  "id": "ksltos-421",
+  "template": "If you're trying to (goal), then here is the one (thing) you should do",
+  "example": "If you're trying to build a personal brand, then this is the one type of content...",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbqJvbYTE4U/"
+  ]
+ },
+ {
+  "id": "ksltos-422",
+  "template": "In 60 seconds, I'm going to teach you more about (thing) than you have ever learned in your whole life",
+  "example": "In 60 seconds, I'm gonna teach you more about creatine than you've learned in your whole life",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbpeL9GS5bV/"
+  ]
+ },
+ {
+  "id": "ksltos-423",
+  "template": "Don't start doing (action) until you learn how to do this",
+  "example": "Don't start making clothes until you learn how to do this",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbpeL9GS5bV/"
+  ]
+ },
+ {
+  "id": "ksltos-424",
+  "template": "Stop creating a new idea. Just copy them",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbnarPKSfYH/"
+  ]
+ },
+ {
+  "id": "ksltos-426",
+  "template": "Tools that make your dream life a reality",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbnarPKSfYH/"
+  ]
+ },
+ {
+  "id": "ksltos-427",
+  "template": "This is a map on how to escape",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbnarPKSfYH/"
+  ]
+ },
+ {
+  "id": "ksltos-428",
+  "template": "This is a marketing genius",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbnarPKSfYH/"
+  ]
+ },
+ {
+  "id": "ksltos-429",
+  "template": "3 bad habits you need to quit",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbnarPKSfYH/"
+  ]
+ },
+ {
+  "id": "ksltos-430",
+  "template": "Can you help me take a photo?",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbnarPKSfYH/"
+  ]
+ },
+ {
+  "id": "ksltos-431",
+  "template": "Tell me more about yourself",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbnarPKSfYH/"
+  ]
+ },
+ {
+  "id": "ksltos-432",
+  "template": "What if I told you this (item) could (result)",
+  "example": "What if I told you this berry could take 12 minutes off your marathon time??",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dbm_EKCy6Bd/"
+  ]
+ },
+ {
+  "id": "ksltos-433",
+  "template": "This is why doing (action) makes you (pain point)",
+  "example": "This is why eating healthy makes you fat",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dbm_EKCy6Bd/"
+  ]
+ },
+ {
+  "id": "ksltos-434",
+  "template": "They said, (famous cliché). That's a lie",
+  "example": "They said just put your head down, work hard and someone will notice?",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dbm_EKCy6Bd/"
+  ]
+ },
+ {
+  "id": "ksltos-435",
+  "template": "I said it before and I'm going to say it again: (mind-blowing fact)",
+  "example": "I said it before and I'm gonna say it again: height is more than just genetics",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dbm_EKCy6Bd/"
+  ]
+ },
+ {
+  "id": "ksltos-436",
+  "template": "How to turn this into this in X simple steps",
+  "example": "How to turn this into this in 3 simple steps",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/Dbm_EKCy6Bd/"
+  ]
+ },
+ {
+  "id": "ksltos-442",
+  "template": "Man made VS God made",
+  "example": "",
+  "formats": [
+   "versus"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbiCvglSURz/"
+  ]
+ },
+ {
+  "id": "ksltos-443",
+  "template": "Things I don't spend money on",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbiCvglSURz/"
+  ]
+ },
+ {
+  "id": "ksltos-444",
+  "template": "Just post the video. Embrace the cringe. Post everything.",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbiCvglSURz/"
+  ]
+ },
+ {
+  "id": "ksltos-445",
+  "template": "What 3 months of consistency looks like",
+  "example": "",
+  "formats": [],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbiCvglSURz/"
+  ]
+ },
+ {
+  "id": "ksltos-446",
+  "template": "What I eat in a day as a (age) (person) in (place)",
+  "example": "What I eat in a day as a 24 y/o girl in Melbourne",
+  "formats": [
+   "fill_in_the_blank"
+  ],
+  "times_seen": 1,
+  "source_reels": [
+   "https://www.instagram.com/ksltos/reel/DbiCvglSURz/"
+  ]
+ }
+]

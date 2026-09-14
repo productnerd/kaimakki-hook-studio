@@ -75,6 +75,25 @@ export async function generateScripts(
 export interface Caption {
   text: string;
   sub?: string;
+  template?: string; // the reel caption template it was adapted from
+}
+
+export interface CaptionTemplate {
+  id: string;
+  template: string;
+  example: string | null;
+  formats: string[];
+  times_seen: number;
+  source_reels: string[];
+}
+
+export async function fetchCaptionTemplates(): Promise<CaptionTemplate[]> {
+  const res = await fetch(
+    `${SUPABASE_URL}/rest/v1/kaimakki_caption_templates?select=*&order=times_seen.desc,id.asc`,
+    { headers: { apikey: SUPABASE_ANON_KEY, Authorization: `Bearer ${SUPABASE_ANON_KEY}` } }
+  );
+  if (!res.ok) throw new Error(`Failed to load caption templates (${res.status})`);
+  return res.json();
 }
 
 // A caption = one short on-screen text block laid over the edit (optional subline).
