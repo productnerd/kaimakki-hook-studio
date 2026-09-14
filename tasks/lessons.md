@@ -17,3 +17,7 @@ Rule: every generator prompt (hooks, scripts, captions) carries the HUMANIZE blo
 ## 2026-09-14: "use these templates" means follow their format, and enforce it in code
 The caption writer tagged each caption with a template and then ignored its shape ("Bro, (place) is not real" became "no chain could ever replicate this counter"). Asking nicely in the prompt was not enough.
 Rule: when output must follow a user-supplied format, make the model return its structured choice (template id + blank fills), check fidelity in code (fixed words in order, calibrated against the source's own examples), and rebuild or drop anything that drifts. Template words override style rules like the humanizer.
+
+## 2026-09-14: every chat surface is a thread, and the brief is never trimmed away
+Captions was single-shot: a follow-up like "more of these" was sent as if it were the brief, and the new set replaced the old one. Hooks kept only recent turns, so long chats silently lost the original brief (both server-side and in what the browser saved).
+Rule: any tab where the user can type again is a conversation. Send the brief plus recent turns, label later messages as follow-ups on that brief, send earlier outputs back so the model builds on them and doesn't repeat, keep earlier results on screen, and trim with keepBrief (turn 0 always survives) everywhere history is cut: request, server and storage.

@@ -4,6 +4,7 @@ import { useEdge } from "../lib/useEdge";
 import type { ChatMessage } from "../lib/types";
 import HookCard from "./HookCard";
 import EdgeDial from "./EdgeDial";
+import { keepBrief } from "../lib/keepBrief";
 
 const STORAGE_KEY = "kaimakki-hook-chat";
 const SUGGESTIONS = [
@@ -33,7 +34,7 @@ export default function ChatView() {
   const scrollRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(messages.slice(-30)));
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(keepBrief(messages, 30)));
   }, [messages]);
 
   useEffect(() => {

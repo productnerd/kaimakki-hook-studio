@@ -97,12 +97,12 @@ export async function fetchCaptionTemplates(): Promise<CaptionTemplate[]> {
   return res.json();
 }
 
-// A caption = one short on-screen text block laid over the edit (optional subline).
+// Caption thread: the first message is the brief, later ones are follow-ups on it.
+// Assistant turns carry the earlier caption sets (JSON) so the writer builds on them.
 export async function generateCaptions(
-  brief: string,
+  messages: { role: "user" | "assistant"; content: string }[],
   count: number,
-  edge: Edge,
-  hook?: string
+  edge: Edge
 ): Promise<Caption[]> {
   const res = await fetch(CAPTION_URL, {
     method: "POST",
@@ -111,7 +111,7 @@ export async function generateCaptions(
       apikey: SUPABASE_ANON_KEY,
       Authorization: `Bearer ${SUPABASE_ANON_KEY}`,
     },
-    body: JSON.stringify({ brief, count, edge, hook: hook || "" }),
+    body: JSON.stringify({ messages, count, edge }),
   });
   const data = await res.json().catch(() => ({}));
   if (!res.ok) throw new Error(data?.error || `Caption generation failed (${res.status})`);
