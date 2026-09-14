@@ -13,3 +13,7 @@ Rule: the agency's location and language never go in a generation prompt or a de
 
 ## 2026-09-13: apply the humanizer rules to all generated copy
 Rule: every generator prompt (hooks, scripts, captions) carries the HUMANIZE block distilled from the humanizer skill. When writing copy by hand in chat, run the same rules before sending.
+
+## 2026-09-14: "use these templates" means follow their format, and enforce it in code
+The caption writer tagged each caption with a template and then ignored its shape ("Bro, (place) is not real" became "no chain could ever replicate this counter"). Asking nicely in the prompt was not enough.
+Rule: when output must follow a user-supplied format, make the model return its structured choice (template id + blank fills), check fidelity in code (fixed words in order, calibrated against the source's own examples), and rebuild or drop anything that drifts. Template words override style rules like the humanizer.
