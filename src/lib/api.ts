@@ -76,6 +76,7 @@ export interface Caption {
   text: string;
   sub?: string;
   template?: string; // the reel caption template it was adapted from
+  reel?: string; // URL of a reel that used that template
 }
 
 export interface CaptionTemplate {

@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import { generateCaptions, type Caption } from "../lib/api";
 import { useEdge } from "../lib/useEdge";
 import EdgeDial from "./EdgeDial";
-import CopyButton from "./CopyButton";
 
 const STORAGE_KEY = "kaimakki-captions";
 
@@ -13,7 +12,7 @@ interface Saved {
 
 export default function CaptionsView() {
   const [brief, setBrief] = useState("");
-  const [count, setCount] = useState(8);
+  const [count, setCount] = useState(16);
   const [edge, setEdge] = useEdge();
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -85,12 +84,22 @@ export default function CaptionsView() {
                         <p className="text-[13px] font-medium leading-snug text-brown/70">{c.sub}</p>
                       )}
                     </div>
-                    <div className="mt-2 flex items-start justify-between gap-2">
-                      <span className="min-w-0 text-[11px] leading-snug text-cream-31">
-                        {c.template ? <>from: <span className="text-cream-61">{c.template}</span></> : null}
-                      </span>
-                      <CopyButton text={c.sub ? `${c.text}\n${c.sub}` : c.text} />
-                    </div>
+                    {c.template &&
+                      (c.reel ? (
+                        <a
+                          href={c.reel}
+                          target="_blank"
+                          rel="noreferrer"
+                          title="Open the reel this template came from"
+                          className="mt-2 text-[11px] leading-snug text-cream-31 hover:text-cream-78 hover:underline hover:underline-offset-2"
+                        >
+                          from: <span className="text-cream-61">{c.template}</span> ↗
+                        </a>
+                      ) : (
+                        <span className="mt-2 text-[11px] leading-snug text-cream-31">
+                          from: <span className="text-cream-61">{c.template}</span>
+                        </span>
+                      ))}
                   </div>
                 ))}
               </div>
@@ -145,7 +154,7 @@ export default function CaptionsView() {
                   onChange={(e) => setCount(Number(e.target.value))}
                   className="rounded-lg border border-border bg-surface px-2 py-1 text-cream outline-none"
                 >
-                  {[6, 8, 10, 12].map((n) => (
+                  {[8, 12, 16, 20].map((n) => (
                     <option key={n} value={n}>
                       {n}
                     </option>
