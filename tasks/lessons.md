@@ -21,3 +21,7 @@ Rule: when output must follow a user-supplied format, make the model return its 
 ## 2026-09-14: every chat surface is a thread, and the brief is never trimmed away
 Captions was single-shot: a follow-up like "more of these" was sent as if it were the brief, and the new set replaced the old one. Hooks kept only recent turns, so long chats silently lost the original brief (both server-side and in what the browser saved).
 Rule: any tab where the user can type again is a conversation. Send the brief plus recent turns, label later messages as follow-ups on that brief, send earlier outputs back so the model builds on them and doesn't repeat, keep earlier results on screen, and trim with keepBrief (turn 0 always survives) everywhere history is cut: request, server and storage.
+
+## 2026-09-17: captions are written BY the business, not about it
+Captions read like an outsider describing the client ("30 years, same deli, same family"). They post on the client's own account, so they must be first person: "we have been here 30 years".
+Rule: for any copy that will be published on the client's own channel, state the speaker in the prompt. First person (we/our/us, or I/my for a solo owner), viewer is "you", never name the business in the third person, never review it like a customer, and pick templates the business can plausibly say about itself.
